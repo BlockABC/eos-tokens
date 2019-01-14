@@ -182,4 +182,4 @@ Thanks to [Newdex](https://newdex.io/), [EOSPark](https://eospark.com) and [EOS 
 
 
 ## Note
-For better compatibility, please provide PNG format as much as possible.
+For better compatibility, please provide PNG format as possible.
