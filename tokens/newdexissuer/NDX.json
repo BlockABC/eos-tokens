@@ -5,5 +5,5 @@
   "precision": 4,
   "desc": "Newdex platform Ecological Token, an ecological Token that was issued based on the EOS main net, which can be applied to many scenarios on Newdex. The total volume of NDX distributions is limited to 10 billion and will never be issued again. The value of Newdex platform ecological Token includes: repurchase and destruction, staking concessions, Token airdrop, advertise bidding, independent listing, etc.",
   "website": "https://newdex.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/newdexissuer/NDX.png"
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/newdexissuer/NDX.png"
 }

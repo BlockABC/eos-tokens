@@ -5,5 +5,5 @@
   "precision": 4,
   "desc": "The Chaince Foundation, which is incorporated on the Cayman Islands and operates independently, will issue Chaince Tokens (CET) based on the EOS for a total amount of 2 billion. The 50% one-way EOS transaction fees on the Chaince transaction platform (i.e. the EOS transaction fees deducted from the platform when users sell other blockchain assets and buy EOS) will be perpetually injected into the Chaince Foundation public address weekly. Each CET token represents one 2 billionth of the EOS tokens held by the Foundation.",
   "website": "https://chaince.com",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/eosiochaince/CET.png"
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosiochaince/CET.png"
 }

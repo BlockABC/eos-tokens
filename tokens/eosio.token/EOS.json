@@ -5,5 +5,5 @@
   "precision": 4,
   "desc": "EOS (Enterprise Operation System) is a blockchain smart contract platform developed by Block.one, which aims to provide bottom blockchain platform services for high-performance distributed applications.",
   "website": "https://eos.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/eosio.token/EOS.png"
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosio.token/EOS.png"
 }
