@@ -1,5 +1,6 @@
 {
   "name": "BEAN",
   "account": "thebeantoken",
-  "symbol": "BEAN"
+  "symbol": "BEAN",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/thebeantoken/BEAN.png"
 }

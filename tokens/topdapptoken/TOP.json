@@ -4,5 +4,6 @@
   "symbol": "TOP",
   "precision": 4,
   "desc": "TOP is the only token issued by the TOP DAPP platform, with a total of 100 million. It can be obtained by participating in the game, and the token can share the platform profit.",
-  "website": "https://toppoker.one"
+  "website": "https://toppoker.one",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/topdapptoken/TOP.png"
 }

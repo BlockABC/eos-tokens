@@ -4,5 +4,6 @@
   "symbol": "DET",
   "precision": 4,
   "desc": "Gambling game based on EOS.",
-  "website": "https://mydice.me"
+  "website": "https://mydice.me",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/diceeostoken/DET.png"
 }

@@ -1,5 +1,6 @@
 {
   "name": "PUB",
   "account": "publytoken11",
-  "symbol": "PUB"
+  "symbol": "PUB",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/publytoken11/PUB.png"
 }

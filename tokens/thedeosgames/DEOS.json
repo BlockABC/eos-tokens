@@ -4,5 +4,6 @@
   "symbol": "DEOS",
   "precision": 4,
   "desc": "DEOS Games is a group of game enthusiasts that are eager to create truly fair, fast and decentralized games.",
-  "website": "https://deosgames.com"
+  "website": "https://deosgames.com",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/thedeosgames/DEOS.png"
 }

@@ -4,5 +4,6 @@
   "symbol": "GYM",
   "precision": 4,
   "desc": "Decentralized EOS Proof of Exercise token with innovative mobile app that allows you to mine GYM cryptocurrency with your body.",
-  "website": "https://www.gymrewards.io"
+  "website": "https://www.gymrewards.io",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/gymrewardsio/GYM.png"
 }

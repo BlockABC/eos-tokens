@@ -4,5 +4,6 @@
   "symbol": "EOSDAC",
   "precision": 4,
   "desc": "EOSDAC is a leading producer of eos.io blocks dedicated to serving the global EOS community as a growing decentralized autonomous community. Through EOS software, it is possible to make communities a revolutionary way for cooperatives. The development assistance committee is run by its token holders and board members.",
-  "website": "https://eosdac.io"
+  "website": "https://eosdac.io",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/eosdactokens/EOSDAC.png"
 }

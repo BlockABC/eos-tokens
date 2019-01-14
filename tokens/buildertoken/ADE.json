@@ -4,5 +4,6 @@
   "symbol": "ADE",
   "precision": 4,
   "desc": "CADEOS is a distributed CAD file and project management platform.",
-  "website": "https://cadeos.io"
+  "website": "https://cadeos.io",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/buildertoken/ADE.png"
 }

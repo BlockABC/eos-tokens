@@ -1,5 +1,6 @@
 {
   "name": "CUSD",
   "account": "stablecarbon",
-  "symbol": "CUSD"
+  "symbol": "CUSD",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/stablecarbon/CUSD.png"
 }

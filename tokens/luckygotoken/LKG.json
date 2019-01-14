@@ -4,5 +4,6 @@
   "symbol": "LKG",
   "precision": 4,
   "desc": "A good platform for centralization of games.",
-  "website": "https://www.luckygo.one"
+  "website": "https://www.luckygo.one",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/luckygotoken/LKG.png"
 }

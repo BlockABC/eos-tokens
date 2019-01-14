@@ -4,5 +4,6 @@
   "symbol": "BOCAI",
   "precision": 4,
   "desc": "BOCAI is the token of the EOSDICE game platform which enjoying the following dividend.",
-  "website": "https://eosdice.vip"
+  "website": "https://eosdice.vip",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/eosbocai1111/BOCAI.png"
 }

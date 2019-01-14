@@ -1,5 +1,6 @@
 {
   "name": "ATMOS",
   "account": "novusphereio",
-  "symbol": "ATMOS"
+  "symbol": "ATMOS",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/novusphereio/ATMOS.svg"
 }

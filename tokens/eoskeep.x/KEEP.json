@@ -4,5 +4,6 @@
   "symbol": "KEEP",
   "precision": 4,
   "desc": "Keep is an ecological incentive platform based on EOSIO. We hope that through virtual token incentives, people can insist on doing everything well.\nYou stick to sports, or be loyal to the team, love digital, travel, entertainment, even loyal love and so on. In life, KEEP all your interests will be inspired by our token.",
-  "website": "https://eoskeep.vip"
+  "website": "https://eoskeep.vip",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/eoskeep.x/KEEP.png"
 }

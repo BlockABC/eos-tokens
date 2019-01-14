@@ -4,5 +4,6 @@
   "symbol": "EPRA",
   "precision": 4,
   "desc": "Build a transparent digital advertising data ecosystem platform.",
-  "website": "https://chain.pro"
+  "website": "https://chain.pro",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/epraofficial/EPRA.png"
 }

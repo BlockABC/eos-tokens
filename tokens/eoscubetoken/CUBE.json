@@ -4,5 +4,6 @@
   "symbol": "CUBE",
   "precision": 4,
   "desc": "An EOS-based gambling game.",
-  "website": "http://eoscube.site"
+  "website": "http://eoscube.site",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/eoscubetoken/CUBE.png"
 }

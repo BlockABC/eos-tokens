@@ -4,5 +4,6 @@
   "symbol": "HOT",
   "precision": 4,
   "desc": "HotDice Platform Currency.",
-  "website": "https://hotdice.info"
+  "website": "https://hotdice.info",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/hotbetstoken/HOT.png"
 }

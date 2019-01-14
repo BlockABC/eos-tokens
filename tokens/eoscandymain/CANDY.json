@@ -4,5 +4,6 @@
   "symbol": "CANDY",
   "precision": 4,
   "desc": "The future of decentralized gaming.",
-  "website": "http://candyeos.io"
+  "website": "http://candyeos.io",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/eoscandymain/CANDY.png"
 }

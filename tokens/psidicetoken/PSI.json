@@ -4,5 +4,6 @@
   "symbol": "PSI",
   "precision": 4,
   "desc": "PSI Gaming is a fair game platform based on block chain",
-  "website": "https://dice.psipsi.io"
+  "website": "https://dice.psipsi.io",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/psidicetoken/PSI.png"
 }

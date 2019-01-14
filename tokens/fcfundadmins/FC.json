@@ -4,5 +4,6 @@
   "symbol": "FC",
   "precision": 4,
   "desc": "Classic dice game.",
-  "website": "https://eosall.in"
+  "website": "https://eosall.in",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/fcfundadmins/FC.png"
 }

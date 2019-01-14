@@ -4,5 +4,6 @@
   "symbol": "PSO",
   "precision": 4,
   "desc": "Peso Economy-- a modern economic plan in Venezuela and Latin America.",
-  "website": "https://eosvenezuela.io"
+  "website": "https://eosvenezuela.io",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/cryptopesosc/PSO.png"
 }

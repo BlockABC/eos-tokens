@@ -4,5 +4,6 @@
   "symbol": "WIZZ",
   "precision": 4,
   "desc": "WIZZ NETWORK - Leveraging EOSIO for a better future. WIZZ Dapps/Services include Encryption (chat, search, storage). Wargame, Local Shopping &amp; DEX. As a Standby BP and Proxy we also offer a Simple Explorer, Token Transfers, RAM Trading, Voting with API Access.",
-  "website": "https://wizz.network"
+  "website": "https://wizz.network",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/wizznetwork1/WIZZ.png"
 }

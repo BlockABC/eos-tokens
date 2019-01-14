@@ -4,5 +4,6 @@
   "symbol": "STAR",
   "precision": 4,
   "desc": "Dropping items in FASTWIN GIFTS game.",
-  "website": "https://www.fastwin.io/gifts"
+  "website": "https://www.fastwin.io/gifts",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/fastwinitems/STAR.png"
 }

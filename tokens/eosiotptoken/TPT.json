@@ -4,5 +4,6 @@
   "symbol": "TPT",
   "precision": 4,
   "desc": "Applied certification in circulation in TokenPocket ecosystem.",
-  "website": "https://www.mytokenpocket.vip"
+  "website": "https://www.mytokenpocket.vip",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/eosiotptoken/TPT.png"
 }

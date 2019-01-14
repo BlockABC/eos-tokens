@@ -4,5 +4,6 @@
   "symbol": "EETH",
   "precision": 4,
   "desc": "EOS side chain, realize EOS ecology and ether square ecology interworking.",
-  "website": "http://anyos.io"
+  "website": "http://anyos.io",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/ethsidechain/EETH.png"
 }

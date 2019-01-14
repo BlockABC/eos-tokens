@@ -4,5 +4,6 @@
   "symbol": "EETH",
   "precision": 8,
   "desc": "EETH is the mapping of Ethereum on the EOS network, anchoring the ETH in 1:1, and is accepted in both directions by the cross-chain gateway operated by Bitpie.",
-  "website": "https://eosstablecoin.com"
+  "website": "https://eosstablecoin.com",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/bitpietokens/EETH.png"
 }

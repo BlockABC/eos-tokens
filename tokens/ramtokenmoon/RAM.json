@@ -1,5 +1,6 @@
 {
   "name": "RAM",
   "account": "ramtokenmoon",
-  "symbol": "RAM"
+  "symbol": "RAM",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/ramtokenmoon/RAM.png"
 }

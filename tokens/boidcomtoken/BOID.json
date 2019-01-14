@@ -4,5 +4,6 @@
   "symbol": "BOID",
   "precision": 4,
   "desc": "Users will be rewarded on the Boid by contributing their spare HashRate that can be assigned to academic research, such as medical research, meteorology, aerospace and mechanical learning.",
-  "website": "https://www.boid.com"
+  "website": "https://www.boid.com",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/boidcomtoken/BOID.png"
 }

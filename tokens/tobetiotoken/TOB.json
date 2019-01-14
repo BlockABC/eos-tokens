@@ -4,5 +4,6 @@
   "symbol": "TOB",
   "precision": 4,
   "desc": "Gaming game platform based on EOS blockchain",
-  "website": "https://tobet.one"
+  "website": "https://tobet.one",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/tobetiotoken/TOB.png"
 }

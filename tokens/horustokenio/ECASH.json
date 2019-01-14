@@ -4,5 +4,6 @@
   "symbol": "ECASH",
   "precision": 4,
   "desc": "ECASH can be obtained through pledge HORUS.",
-  "website": "https://horuspay.io"
+  "website": "https://horuspay.io",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/horustokenio/ECASH.png"
 }

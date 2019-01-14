@@ -4,5 +4,6 @@
   "symbol": "WECASH",
   "precision": 4,
   "desc": "Weos is a sharing platform that makes sharing special, private where needed, and incentivized through blockchain technology. And, Weos covers sharing to all degrees of openness to your world.",
-  "website": "https://weosapp.io"
+  "website": "https://weosapp.io",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/weosservices/WECASH.png"
 }

@@ -4,5 +4,6 @@
   "symbol": "BRM",
   "precision": 3,
   "desc": "OpenBRM is a carrier-grade billing platform aimed at telecommunications, Subscription, Utilities and logistics organizations. Built using state of the art but future proof technology.",
-  "website": "http://openbrm.io"
+  "website": "http://openbrm.io",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/openbrmeos11/BRM.png"
 }

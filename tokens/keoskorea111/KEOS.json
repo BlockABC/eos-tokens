@@ -4,5 +4,6 @@
   "symbol": "KEOS",
   "precision": 4,
   "desc": "KEOS is a decentralized autonomous community in Korea, which aims to serve the Korea EOS communities.",
-  "website": "https://www.keos.kr"
+  "website": "https://www.keos.kr",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/keoskorea111/KEOS.png"
 }

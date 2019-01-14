@@ -4,5 +4,6 @@
   "symbol": "RIDL",
   "precision": 4,
   "desc": "Scatter is an EOS digital asset storage tool.",
-  "website": "https://get-scatter.com"
+  "website": "https://get-scatter.com",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/ridlridlcoin/RIDL.png"
 }

@@ -4,5 +4,6 @@
   "symbol": "SHARE",
   "precision": 4,
   "desc": "SHARE is an EOSIO app that allows users to SHARE their wonderful lives, including moments, video, commonweal and knowledge q&amp;a with EOSIO.",
-  "website": "https://eoshare.org"
+  "website": "https://eoshare.org",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/share.x/SHARE.png"
 }

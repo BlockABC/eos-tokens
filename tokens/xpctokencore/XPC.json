@@ -4,5 +4,6 @@
   "symbol": "XPC",
   "precision": 4,
   "desc": "Valuable pet strategy battle game.",
-  "website": "https://xpet.io"
+  "website": "https://xpet.io",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/tokens/xpctokencore/XPC.png"
 }
