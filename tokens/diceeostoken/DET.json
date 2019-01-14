@@ -1,0 +1,8 @@
+{
+  "name": "DET",
+  "account": "diceeostoken",
+  "symbol": "DET",
+  "precision": 4,
+  "desc": "Gambling game based on EOS.",
+  "website": "https://mydice.me"
+}

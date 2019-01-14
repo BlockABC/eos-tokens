@@ -1,0 +1,8 @@
+{
+  "name": "NUTS",
+  "account": "nutscontract",
+  "symbol": "NUTS",
+  "precision": 4,
+  "desc": "NUTS Token is designed to work with Luckynuts applications. At the moment, it can only be used in the Gambling project, but in the future it is expected to develop other applications according to the roadmap.",
+  "website": "https://luckynuts.one"
+}
