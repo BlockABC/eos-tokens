@@ -1,0 +1,24 @@
+{
+  "name": "eos-tokens",
+  "version": "1.0.0",
+  "description": "The ultimate collection of all EOS tokens (PR welcome!).",
+  "main": "tokens.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlockABC/eos-tokens.git"
+  },
+  "keywords": [
+    "EOS",
+    "tokens",
+    "EOSPark"
+  ],
+  "author": "Jeff Jing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlockABC/eos-tokens/issues"
+  },
+  "homepage": "https://github.com/BlockABC/eos-tokens#readme"
+}
