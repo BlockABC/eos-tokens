@@ -14,8 +14,8 @@ const tokens = contracts.reduce((reduced, contract) => {
 }, [])
 
 const tokensMd = tokens.reduce((reduced, token) => {
-  return reduced + `| [${token.symbol}](https://github.com/BlockABC/eos-tokens/blob/master/tokens/${token.account}/${token.symbol}.json) | [${token.account}](https://eospark.com/contract/${token.account}) |\n`
-}, '| Symbol      | Account Name |\n| ----------- |:------------:|\n')
+  return reduced + `|  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/${token.account}/${token.symbol}.png" width=30 />  | [${token.symbol}](https://github.com/BlockABC/eos-tokens/blob/master/tokens/${token.account}/${token.symbol}.json) | [${token.account}](https://eospark.com/contract/${token.account}) |\n`
+}, '|   Logo    | Symbol      | Account Name |\n| ----------- |:------------:|:------------:|\n')
 
 console.log(tokensMd)
 fs.writeFileSync('./tokens.json', JSON.stringify(tokens, null, 2), 'utf-8')
