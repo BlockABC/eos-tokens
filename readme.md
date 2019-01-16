@@ -9,6 +9,35 @@ Unfortunately, it's hard for developers to collect all the tokens' logo and othe
 
 This lib aims to collect all the tokens and their data including their **logo/precision/desc/website, etc.**
 
+## Template
+Please submit your token's JSON file like this template.(No need for every field) [EOS](./tokens/eosio.token)
+
+```json
+{
+  "name": "EOS",
+  "symbol": "EOS",
+  "account": "eosio.token",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosio.token/EOS.png",
+  "desc": {
+    "en": "EOS (Enterprise Operation System) is a blockchain smart contract platform developed by Block.one, which aims to provide bottom blockchain platform services for high-performance distributed applications.",
+    "zh": "EOS (Enterprise Operation System) 是一个区块链智能合约平台，由Block.one 开发。它致力于为高性能分布式应用提供区块链底层服务。",
+    "ko": "EOS (Enterprise Operation System) 는 블록 스마트 플랫폼으로 블 락 원 (Block.one)이 개발 했다.고성능 분산 식 응용을 위해 지역 체인 하위 서비스를 제공 합니다."
+  },
+  "website": "https://eos.io",
+  "whitepaper": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md",
+  "links": {
+    "github": "https://github.com/{your-token}",
+    "telegram": "https://t.me/joinchat/{your-token}",
+    "twitter": "https://twitter.com/{your-token}",
+    "steemit": "https://steemit.com/{your-token}",
+    "reddit": "https://www.reddit.com/r/{your-token}/",
+    "wechat": "{your-token}"
+  }
+}
+```
+
+
 ## Token List
 | Symbol      | Account Name |
 | ----------- |:------------:|
@@ -177,7 +206,7 @@ PR is welcome!
 Please refer to [eosio.token::EOS](https://github.com/BlockABC/eos-tokens/tree/master/tokens/eosio.token) for token example.
 
 Feel free to submit tokens if you are the token's owner or not, the community needs your contribution :).
-
+`
 Thanks to [Newdex](https://newdex.io/), [EOSPark](https://eospark.com) and [EOS cafe](https://www.eoscafeblock.com/) for initial data.
 
 
