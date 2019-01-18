@@ -11,11 +11,11 @@
   },
   "whitepaper": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md",
   "links": {
-    "github": "https://github.com/{your-token}",
-    "telegram": "https://t.me/joinchat/{your-token}",
-    "twitter": "https://twitter.com/{your-token}",
-    "steemit": "https://steemit.com/{your-token}",
-    "reddit": "https://www.reddit.com/r/{your-token}/",
-    "wechat": "{your-token}"
+    "github": "https://github.com/EOSIO/eos",
+    "telegram": "https://t.me/joinchat/AAAAAEQbOeucnaMWN0A9dQ",
+    "twitter": "https://twitter.com/eos_io",
+    "steemit": "https://steemit.com/trending/eos",
+    "reddit": "https://www.reddit.com/r/eos/",
+    "wechat": "Asst_BlockAbC"
   }
 }
