@@ -37,8 +37,23 @@ Please submit your token's JSON file like this template.(No need for every field
 }
 ```
 
+## Contributing
+PR is welcome!
+
+Please add your token info under [/tokens](/tokens) in a folder named with token creator account.
+
+Please refer to [eosio.token::EOS](https://github.com/BlockABC/eos-tokens/tree/master/tokens/eosio.token) for token example.
+
+Feel free to submit tokens if you are the token's owner or not, the community needs your contribution :).
+`
+Thanks to [Newdex](https://newdex.io/), [EOSPark](https://eospark.com) and [EOS cafe](https://www.eoscafeblock.com/) for initial data.
+
+## Note
+For better compatibility, please provide PNG format as possible.
+
 
 ## Token List
+<!-- token_list_start -->
 |   Logo    | Symbol      | Account Name |
 | ----------- |:------------:|:------------:|
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/21dice4token/TOD.png" width=30 />  | [TOD](https://github.com/BlockABC/eos-tokens/blob/master/tokens/21dice4token/TOD.json) | [21dice4token](https://eospark.com/contract/21dice4token) |
@@ -156,6 +171,7 @@ Please submit your token's JSON file like this template.(No need for every field
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/obtain.e/OBT.png" width=30 />  | [OBT](https://github.com/BlockABC/eos-tokens/blob/master/tokens/obtain.e/OBT.json) | [obtain.e](https://eospark.com/contract/obtain.e) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/octtothemoon/OCT.png" width=30 />  | [OCT](https://github.com/BlockABC/eos-tokens/blob/master/tokens/octtothemoon/OCT.json) | [octtothemoon](https://eospark.com/contract/octtothemoon) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/okkkkkkkkkkk/YT.png" width=30 />  | [YT](https://github.com/BlockABC/eos-tokens/blob/master/tokens/okkkkkkkkkkk/YT.json) | [okkkkkkkkkkk](https://eospark.com/contract/okkkkkkkkkkk) |
+|  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/onebosonebos/ONE.png" width=30 />  | [ONE](https://github.com/BlockABC/eos-tokens/blob/master/tokens/onebosonebos/ONE.json) | [onebosonebos](https://eospark.com/contract/onebosonebos) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/onedicewarm2/ONE.png" width=30 />  | [ONE](https://github.com/BlockABC/eos-tokens/blob/master/tokens/onedicewarm2/ONE.json) | [onedicewarm2](https://eospark.com/contract/onedicewarm2) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/oo1122334455/IPOS.png" width=30 />  | [IPOS](https://github.com/BlockABC/eos-tokens/blob/master/tokens/oo1122334455/IPOS.json) | [oo1122334455](https://eospark.com/contract/oo1122334455) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/openbrmeos11/BRM.png" width=30 />  | [BRM](https://github.com/BlockABC/eos-tokens/blob/master/tokens/openbrmeos11/BRM.json) | [openbrmeos11](https://eospark.com/contract/openbrmeos11) |
@@ -202,18 +218,4 @@ Please submit your token's JSON file like this template.(No need for every field
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/yumgamescoin/YUM.png" width=30 />  | [YUM](https://github.com/BlockABC/eos-tokens/blob/master/tokens/yumgamescoin/YUM.json) | [yumgamescoin](https://eospark.com/contract/yumgamescoin) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ziongameseos/ZION.png" width=30 />  | [ZION](https://github.com/BlockABC/eos-tokens/blob/master/tokens/ziongameseos/ZION.json) | [ziongameseos](https://eospark.com/contract/ziongameseos) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/zkstokensr4u/ZKS.png" width=30 />  | [ZKS](https://github.com/BlockABC/eos-tokens/blob/master/tokens/zkstokensr4u/ZKS.json) | [zkstokensr4u](https://eospark.com/contract/zkstokensr4u) |
-
-## Contributing
-PR is welcome!
-
-Please add your token info under [/tokens](/tokens) in a folder named with token creator account.
-
-Please refer to [eosio.token::EOS](https://github.com/BlockABC/eos-tokens/tree/master/tokens/eosio.token) for token example.
-
-Feel free to submit tokens if you are the token's owner or not, the community needs your contribution :).
-`
-Thanks to [Newdex](https://newdex.io/), [EOSPark](https://eospark.com) and [EOS cafe](https://www.eoscafeblock.com/) for initial data.
-
-
-## Note
-For better compatibility, please provide PNG format as possible.
+<!-- token_list_end -->
