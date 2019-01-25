@@ -9,8 +9,23 @@ Unfortunately, it's hard for developers to collect all the tokens' logo and othe
 
 This lib aims to collect all the tokens and their data including their **logo/precision/desc/website, etc.**
 
+## Contributing
+PR is welcome!
+
+1. Create a folder under [/tokens](/tokens) named with token's account `/tokens/${CONTRACT_ACCOUNT}`
+
+2. Then add yor token LOGO and JSON file under the folder. `/tokens/${CONTRACT_ACCOUNT}/{TOKEN}.png` `/tokens/${CONTRACT_ACCOUNT}/{TOKEN}.json`
+
+3. Create PR
+
+Please refer to [eosio.token::EOS](https://github.com/BlockABC/eos-tokens/tree/master/tokens/eosio.token) for token example.
+
+Feel free to submit tokens if you are the token's owner or not, the community needs your contribution :).
+
+Thanks to [Newdex](https://newdex.io/), [EOSPark](https://eospark.com) and [EOS cafe](https://www.eoscafeblock.com/) for initial data.
+
 ## Template
-Please submit your token's JSON file like this template.(No need for every field) [EOS](./tokens/eosio.token)
+Please submit your token's JSON file follow template below. [EOS](./tokens/eosio.token)
 
 ```json
 {
@@ -18,7 +33,7 @@ Please submit your token's JSON file like this template.(No need for every field
   "symbol": "EOS",
   "account": "eosio.token",
   "precision": 4,
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosio.token/EOS.png",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/{CONTRACT_ACCOUNT}/{TOKEN_NAME}.png",
   "desc": {
     "en": "EOS (Enterprise Operation System) is a blockchain smart contract platform developed by Block.one, which aims to provide bottom blockchain platform services for high-performance distributed applications.",
     "zh": "EOS (Enterprise Operation System) 是一个区块链智能合约平台，由Block.one 开发。它致力于为高性能分布式应用提供区块链底层服务。",
@@ -36,17 +51,6 @@ Please submit your token's JSON file like this template.(No need for every field
   }
 }
 ```
-
-## Contributing
-PR is welcome!
-
-Please add your token info under [/tokens](/tokens) in a folder named with token creator account.
-
-Please refer to [eosio.token::EOS](https://github.com/BlockABC/eos-tokens/tree/master/tokens/eosio.token) for token example.
-
-Feel free to submit tokens if you are the token's owner or not, the community needs your contribution :).
-`
-Thanks to [Newdex](https://newdex.io/), [EOSPark](https://eospark.com) and [EOS cafe](https://www.eoscafeblock.com/) for initial data.
 
 ## Note
 For better compatibility, please provide PNG format as possible.
@@ -220,5 +224,3 @@ For better compatibility, please provide PNG format as possible.
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ziongameseos/ZION.png" width=30 />  | [ZION](https://github.com/BlockABC/eos-tokens/blob/master/tokens/ziongameseos/ZION.json) | [ziongameseos](https://eospark.com/contract/ziongameseos) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/zkstokensr4u/ZKS.png" width=30 />  | [ZKS](https://github.com/BlockABC/eos-tokens/blob/master/tokens/zkstokensr4u/ZKS.json) | [zkstokensr4u](https://eospark.com/contract/zkstokensr4u) |
 <!-- token_list_end -->
-
-
