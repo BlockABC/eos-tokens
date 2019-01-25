@@ -1,0 +1,19 @@
+{
+  "name": "HiGold",
+  "symbol": "HIG",
+  "account": "higoldtokens",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/higoldtokens/HIG.png",
+  "desc": {
+    "en": "HIG is the HiGold Community token. We are dedicated to develop a cryptocurrency community focus on decentralized applications.",
+    "zh": "HIG是嗨金加密货币社区的社区代币。嗨金社区致力于发展一个以分布式应用程序为核心的加密货币社区。",
+  },
+  "website": "https://hi.gold",
+  "links": {
+    "github": "https://github.com/higold",
+    "telegram": "https://twitter.com/realhigold",
+    "twitter": "https://twitter.com/realhigold",
+    "reddit": "https://www.reddit.com/r/higold/",
+    "medium": "https://medium.com/@higold",
+  }
+}
