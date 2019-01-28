@@ -5,5 +5,6 @@
   "precision": 4,
   "desc": "EOS Crash is a multi-player EOS gambling game.",
   "website": "https://game.eoscrash.app",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoscrashplay/CRASH.png"
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoscrashplay/CRASH.png",
+  "links": {}
 }

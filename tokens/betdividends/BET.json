@@ -2,5 +2,6 @@
   "name": "BET",
   "account": "betdividends",
   "symbol": "BET",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/betdividends/BET.png"
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/betdividends/BET.png",
+  "links": {}
 }

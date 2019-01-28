@@ -12,6 +12,8 @@ This lib aims to collect all the tokens and their data including their **logo/pr
 ## Contributing
 PR is welcome!
 
+0. Star this repository
+
 1. Create a folder under [/tokens](/tokens) named with token's account `/tokens/${CONTRACT_ACCOUNT}`
 
 2. Then add yor token LOGO and JSON file under the folder. `/tokens/${CONTRACT_ACCOUNT}/{TOKEN}.png` `/tokens/${CONTRACT_ACCOUNT}/{TOKEN}.json`

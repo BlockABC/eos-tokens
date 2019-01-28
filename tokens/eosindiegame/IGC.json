@@ -5,5 +5,6 @@
   "precision": 4,
   "desc": "Castle Wars is a multi-player online strategy role playing game based on EOS block chain.",
   "website": "http://eosindiegame.com",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosindiegame/IGC.png"
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosindiegame/IGC.png",
+  "links": {}
 }

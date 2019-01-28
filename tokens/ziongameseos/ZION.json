@@ -5,5 +5,6 @@
   "precision": 4,
   "desc": "Blockchain entertainment platform based on EOS",
   "website": "https://zion.games",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ziongameseos/ZION.png"
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ziongameseos/ZION.png",
+  "links": {}
 }

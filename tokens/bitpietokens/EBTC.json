@@ -5,5 +5,6 @@
   "precision": 8,
   "desc": "EBTC is the mapping of Bitcoin on the EOS network, anchoring the BTC in 1:1, and is accepted in both directions by the cross-chain gateway operated by Bitpie.",
   "website": "https://eosstablecoin.com/",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/bitpietokens/EBTC.png"
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/bitpietokens/EBTC.png",
+  "links": {}
 }

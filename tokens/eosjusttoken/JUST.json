@@ -5,5 +5,6 @@
   "precision": 4,
   "desc": "JUST is a DAPP platform focusing on game and smart contract development.",
   "website": "https://www.eosjust.com",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosjusttoken/JUST.png"
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosjusttoken/JUST.png",
+  "links": {}
 }
