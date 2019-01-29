@@ -18,7 +18,7 @@ PR is welcome!
 
 2. Then add yor token LOGO and JSON file under the folder. `/tokens/${CONTRACT_ACCOUNT}/{TOKEN}.png` `/tokens/${CONTRACT_ACCOUNT}/{TOKEN}.json`
 
-3. Create PR
+3. Create PR, and leave your contact (Telegram/WeChat/Email) in comment for further support.
 
 Please refer to [eosio.token::EOS](https://github.com/BlockABC/eos-tokens/tree/master/tokens/eosio.token) for token example.
 
@@ -80,6 +80,7 @@ For better compatibility, please provide PNG format as possible.
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/carpoolslife/CPLE.png" width=30 />  | [CPLE](https://github.com/BlockABC/eos-tokens/blob/master/tokens/carpoolslife/CPLE.json) | [carpoolslife](https://eospark.com/contract/carpoolslife) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/challengedac/CHL.png" width=30 />  | [CHL](https://github.com/BlockABC/eos-tokens/blob/master/tokens/challengedac/CHL.json) | [challengedac](https://eospark.com/contract/challengedac) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/chyyshayysha/LKT.png" width=30 />  | [LKT](https://github.com/BlockABC/eos-tokens/blob/master/tokens/chyyshayysha/LKT.json) | [chyyshayysha](https://eospark.com/contract/chyyshayysha) |
+|  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/coinscentral/LIGHT.png" width=30 />  | [LIGHT](https://github.com/BlockABC/eos-tokens/blob/master/tokens/coinscentral/LIGHT.json) | [coinscentral](https://eospark.com/contract/coinscentral) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/cryptopesosc/PSO.png" width=30 />  | [PSO](https://github.com/BlockABC/eos-tokens/blob/master/tokens/cryptopesosc/PSO.json) | [cryptopesosc](https://eospark.com/contract/cryptopesosc) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/dacincubator/CTN.png" width=30 />  | [CTN](https://github.com/BlockABC/eos-tokens/blob/master/tokens/dacincubator/CTN.json) | [dacincubator](https://eospark.com/contract/dacincubator) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/dacincubator/YDAPP.png" width=30 />  | [YDAPP](https://github.com/BlockABC/eos-tokens/blob/master/tokens/dacincubator/YDAPP.json) | [dacincubator](https://eospark.com/contract/dacincubator) |
@@ -92,6 +93,7 @@ For better compatibility, please provide PNG format as possible.
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosabctokens/EOSABC.png" width=30 />  | [EOSABC](https://github.com/BlockABC/eos-tokens/blob/master/tokens/eosabctokens/EOSABC.json) | [eosabctokens](https://eospark.com/contract/eosabctokens) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosadddddddd/ADD.png" width=30 />  | [ADD](https://github.com/BlockABC/eos-tokens/blob/master/tokens/eosadddddddd/ADD.json) | [eosadddddddd](https://eospark.com/contract/eosadddddddd) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosatidiumio/ATD.png" width=30 />  | [ATD](https://github.com/BlockABC/eos-tokens/blob/master/tokens/eosatidiumio/ATD.json) | [eosatidiumio](https://eospark.com/contract/eosatidiumio) |
+|  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosauctionpt/EAP.png" width=30 />  | [EAP](https://github.com/BlockABC/eos-tokens/blob/master/tokens/eosauctionpt/EAP.json) | [eosauctionpt](https://eospark.com/contract/eosauctionpt) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosblackteam/BLACK.png" width=30 />  | [BLACK](https://github.com/BlockABC/eos-tokens/blob/master/tokens/eosblackteam/BLACK.json) | [eosblackteam](https://eospark.com/contract/eosblackteam) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosbocai1111/BOCAI.png" width=30 />  | [BOCAI](https://github.com/BlockABC/eos-tokens/blob/master/tokens/eosbocai1111/BOCAI.json) | [eosbocai1111](https://eospark.com/contract/eosbocai1111) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosbuttonbtn/BTN.png" width=30 />  | [BTN](https://github.com/BlockABC/eos-tokens/blob/master/tokens/eosbuttonbtn/BTN.json) | [eosbuttonbtn](https://eospark.com/contract/eosbuttonbtn) |
