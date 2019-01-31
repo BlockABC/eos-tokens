@@ -1,0 +1,10 @@
+{
+    "name": "FLB",
+    "account": "flappybirds1",
+    "symbol": "FLB",
+    "precision": 4,
+    "desc": "EOS FLAPPYBIRD游戏代币，持有可获取游戏收入分红",
+    "website": "https://eosflappybird.bogo.one/?ref=eospark",
+    "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/flappybirds1/FLB.png",
+    "links": {}
+  }
