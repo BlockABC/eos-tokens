@@ -16,7 +16,7 @@ PR is welcome!
 
 1. Create a folder under [/tokens](/tokens) named with token's account `/tokens/${CONTRACT_ACCOUNT}`
 
-2. Then add yor token LOGO and JSON file under the folder. `/tokens/${CONTRACT_ACCOUNT}/{TOKEN}.png` `/tokens/${CONTRACT_ACCOUNT}/{TOKEN}.json`
+2. Then add yor token LOGO and JSON file under the folder. `/tokens/${CONTRACT_ACCOUNT}/{TOKEN_UPPERCASE}.png` `/tokens/${CONTRACT_ACCOUNT}/{TOKEN_UPPERCASE}.json`
 
 3. Create PR, and leave your contact (Telegram/WeChat/Email) in comment for further support.
 
@@ -35,7 +35,7 @@ Please submit your token's JSON file follow template below. [EOS](./tokens/eosio
   "symbol": "EOS",
   "account": "eosio.token",
   "precision": 4,
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/{CONTRACT_ACCOUNT}/{TOKEN_NAME}.png",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/{CONTRACT_ACCOUNT}/{TOKEN_NAME_UPPERCASE}.png",
   "desc": {
     "en": "EOS (Enterprise Operation System) is a blockchain smart contract platform developed by Block.one, which aims to provide bottom blockchain platform services for high-performance distributed applications.",
     "zh": "EOS (Enterprise Operation System) 是一个区块链智能合约平台，由Block.one 开发。它致力于为高性能分布式应用提供区块链底层服务。",
