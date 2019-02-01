@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "The ultimate collection of all EOS tokens (PR welcome!).",
   "main": "tokens.json",
+  "types": "tokens.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node ./build.js"
