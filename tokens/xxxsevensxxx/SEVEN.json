@@ -2,9 +2,11 @@
   "name": "SEVEN",
   "account": "xxxsevensxxx",
   "symbol": "SEVEN",
+  "issuer": "xxxsevensxxx",
   "precision": 4,
   "desc": "EOS Interactive Dice Game. Play your odds and grow your bank of EOS Se7ens Dice Game tokens (SEVEN). SE7EN Tokens benefits the users in few ways, either by holding the tokens or using them.",
   "website": "https://www.se7ens.io",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/xxxsevensxxx/SEVEN.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

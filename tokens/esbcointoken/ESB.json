@@ -2,9 +2,11 @@
   "name": "ESB",
   "account": "esbcointoken",
   "symbol": "ESB",
+  "issuer": "esbcointoken",
   "precision": 4,
   "desc": "Free peer to peer sports betting community.",
   "website": "http://eossportsbets.io",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/esbcointoken/ESB.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

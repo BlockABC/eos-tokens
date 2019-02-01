@@ -2,9 +2,11 @@
   "name": "PSI",
   "account": "psidicetoken",
   "symbol": "PSI",
+  "issuer": "psidicetoken",
   "precision": 4,
   "desc": "PSI Gaming is a fair game platform based on block chain",
   "website": "https://dice.psipsi.io",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/psidicetoken/PSI.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

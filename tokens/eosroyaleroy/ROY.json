@@ -2,9 +2,11 @@
   "name": "ROY",
   "account": "eosroyaleroy",
   "symbol": "ROY",
+  "issuer": "eosroyaleroy",
   "precision": 4,
   "desc": "EOS based competitive guess platform.",
   "website": "https://roulette.eosroyale.com",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosroyaleroy/ROY.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

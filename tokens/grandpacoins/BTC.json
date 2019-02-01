@@ -2,6 +2,11 @@
   "name": "BTC",
   "account": "grandpacoins",
   "symbol": "BTC",
+  "issuer": "grandpacoins",
+  "precision": 4,
+  "desc": "",
+  "website": "",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/grandpacoins/BTC.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

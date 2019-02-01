@@ -2,6 +2,11 @@
   "name": "ATMOS",
   "account": "novusphereio",
   "symbol": "ATMOS",
+  "issuer": "novusphereio",
+  "precision": 3,
+  "desc": "",
+  "website": "",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/novusphereio/ATMOS.svg",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

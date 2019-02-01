@@ -2,6 +2,11 @@
   "name": "PUB",
   "account": "publytoken11",
   "symbol": "PUB",
+  "issuer": "publytoken11",
+  "precision": 4,
+  "desc": "",
+  "website": "",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/publytoken11/PUB.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

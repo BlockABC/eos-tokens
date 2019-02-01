@@ -2,9 +2,11 @@
   "name": "PKE",
   "account": "pokereotoken",
   "symbol": "PKE",
+  "issuer": "pokereotoken",
   "precision": 4,
   "desc": "PKE Token is a Poker EOS platform passport with a total amount of 100,000,000 (100 million) and will never be issued. Poker EOS adopts the \"game is mining\" method, which can obtain PKE tokens through games and invitations. At the end of each game, households will receive a PKE token reward equal to the amount of chips. Incentive token holders can also participate in Poker EOS games and pledge bonuses.",
   "website": "https://pokereos.io",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/pokereotoken/PKE.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

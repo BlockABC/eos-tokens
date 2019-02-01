@@ -2,9 +2,11 @@
   "name": "EOX",
   "account": "eoxeoxeoxeox",
   "symbol": "EOX",
+  "issuer": "eoxeoxeoxeox",
   "precision": 4,
   "desc": "EOX is a decentralized e-commerce platform.",
   "website": "https://www.eoxlab.io",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoxeoxeoxeox/EOX.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

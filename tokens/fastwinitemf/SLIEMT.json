@@ -2,9 +2,11 @@
   "name": "SLIEMT",
   "account": "fastwinitemf",
   "symbol": "SLIEMT",
+  "issuer": "fastwinadmin",
   "precision": 0,
   "desc": "Kill slime's dropped items in the FASTWIN HERO game.",
   "website": "https://www.fastwin.io/hero",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/fastwinitemf/SLIEMT.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

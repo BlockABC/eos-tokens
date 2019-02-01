@@ -2,9 +2,11 @@
   "name": "LOTC",
   "account": "eosiolotcoin",
   "symbol": "LOTC",
+  "issuer": "eosiolotcoin",
   "precision": 4,
   "desc": "LOTC is the game ecology certificate issued by Dapp Goose. As the only platform-level token, the holder will participate in the profit sharing of the whole platform project.",
   "website": "https://luckylot.io",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosiolotcoin/LOTC.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

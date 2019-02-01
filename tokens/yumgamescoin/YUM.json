@@ -2,9 +2,11 @@
   "name": "YUM",
   "account": "yumgamescoin",
   "symbol": "YUM",
+  "issuer": "yumgamescoin",
   "precision": 4,
   "desc": "Yum.games is an EOS-based decentralized dividend game platform designed to create a free, credible, secure and interesting gaming experience for users. The whole game use EOS smart contract and block data to ensure the fairness and traceability.",
   "website": "http://yum.games",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/yumgamescoin/YUM.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

@@ -2,9 +2,11 @@
   "name": "ROLL",
   "account": "luckymetoken",
   "symbol": "ROLL",
+  "issuer": "luckymeissue",
   "precision": 4,
   "desc": "EOS LuckyMe is a betting game platform run on EOS network, aiming to providing a transparent, fair and extremely amusing environment to global users.",
   "website": "http://www.eosluckyme.com",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/luckymetoken/ROLL.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

@@ -2,9 +2,11 @@
   "name": "ESA",
   "account": "shadowbanker",
   "symbol": "ESA",
+  "issuer": "shadowbanker",
   "precision": 4,
   "desc": "A IBO platform for EOS game, everyone can be a shareholder. For a good beginning and a perfect ending.",
   "website": "http://eosbao.io",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/shadowbanker/ESA.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

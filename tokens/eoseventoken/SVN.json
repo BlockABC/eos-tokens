@@ -2,9 +2,11 @@
   "name": "SVN",
   "account": "eoseventoken",
   "symbol": "SVN",
+  "issuer": "eoseventoken",
   "precision": 4,
   "desc": "EOSeven is the world's fairest and secure gaming platform based on the EOS blockchain.",
   "website": "https://www.eoseven.com",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoseventoken/SVN.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }
