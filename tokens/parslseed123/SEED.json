@@ -1,12 +1,12 @@
 {
   "name": "SEED",
-  "account": "parslseed123",
   "symbol": "SEED",
-  "issuer": "parslseed123",
+  "account": "parslseed123",
   "precision": 4,
+  "issuer": "parslseed123",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/parslseed123/SEED.png",
   "desc": "Parsl is a platform that utilises leading edge technologies to create a supply chain that is efficient, transparent and safe.",
   "website": "https://www.parsl.co",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/parslseed123/SEED.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

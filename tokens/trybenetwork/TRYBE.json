@@ -1,12 +1,12 @@
 {
   "name": "TRYBE",
-  "account": "trybenetwork",
   "symbol": "TRYBE",
-  "issuer": "trybenetwork",
+  "account": "trybenetwork",
   "precision": 4,
+  "issuer": "trybenetwork",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/trybenetwork/TRYBE.png",
   "desc": "TRYBE is the community's tokens knowledge sharing network. You can educate, learn, or socialize on any of these fields, such as encrypting assets, developing, starting a business, or marketing, and get paid for your contributions.",
   "website": "https://trybe.one",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/trybenetwork/TRYBE.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

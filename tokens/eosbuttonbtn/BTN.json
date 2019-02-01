@@ -1,12 +1,12 @@
 {
   "name": "BTN",
-  "account": "eosbuttonbtn",
   "symbol": "BTN",
-  "issuer": "eosbuttonbtn",
+  "account": "eosbuttonbtn",
   "precision": 4,
+  "issuer": "eosbuttonbtn",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosbuttonbtn/BTN.png",
   "desc": "BTN inspired by The Button's block chain games.",
   "website": "https://eosbutton.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosbuttonbtn/BTN.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

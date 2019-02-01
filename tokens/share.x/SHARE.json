@@ -1,12 +1,12 @@
 {
   "name": "SHARE",
-  "account": "share.x",
   "symbol": "SHARE",
-  "issuer": "share.x",
+  "account": "share.x",
   "precision": 4,
+  "issuer": "share.x",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/share.x/SHARE.png",
   "desc": "SHARE is an EOSIO app that allows users to SHARE their wonderful lives, including moments, video, commonweal and knowledge q&amp;a with EOSIO.",
   "website": "https://eoshare.org",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/share.x/SHARE.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

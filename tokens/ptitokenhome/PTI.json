@@ -1,12 +1,12 @@
 {
   "name": "PTI",
-  "account": "ptitokenhome",
   "symbol": "PTI",
-  "issuer": "ptitokenhome",
+  "account": "ptitokenhome",
   "precision": 4,
+  "issuer": "ptitokenhome",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ptitokenhome/PTI.png",
   "desc": "Paytomat is a payment system that enables local stores and online businesses to accept encrypted payments without resorting to banking systems, bank cards or centralized electronic payment solutions. Paytomat combines block chain ecosystems with retail businesses to combat risks, speed up payments in a variety of encrypted currencies.",
   "website": "https://paytomat.com",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ptitokenhome/PTI.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

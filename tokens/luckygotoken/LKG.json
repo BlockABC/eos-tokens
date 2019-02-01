@@ -1,12 +1,12 @@
 {
   "name": "LKG",
-  "account": "luckygotoken",
   "symbol": "LKG",
-  "issuer": "luckygotoken",
+  "account": "luckygotoken",
   "precision": 4,
+  "issuer": "luckygotoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/luckygotoken/LKG.png",
   "desc": "A good platform for centralization of games.",
   "website": "https://www.luckygo.one",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/luckygotoken/LKG.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

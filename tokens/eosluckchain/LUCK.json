@@ -1,12 +1,12 @@
 {
   "name": "LUCK",
-  "account": "eosluckchain",
   "symbol": "LUCK",
-  "issuer": "eosluckchain",
+  "account": "eosluckchain",
   "precision": 4,
+  "issuer": "eosluckchain",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosluckchain/LUCK.png",
   "desc": "Luck Chain is the world's first decentralized market forecasting platform based on the EOS protocol. You can predict the results of any event (football, World Cup, campaign, etc.) in the LuckChain. We verify the results through blockchain. No one can cheat. ",
   "website": "https://luckchain.one",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosluckchain/LUCK.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

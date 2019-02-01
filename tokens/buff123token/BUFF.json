@@ -1,12 +1,12 @@
 {
   "name": "BUFF",
-  "account": "buff123token",
   "symbol": "BUFF",
-  "issuer": "buff123token",
+  "account": "buff123token",
   "precision": 4,
+  "issuer": "buff123token",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/buff123token/BUFF.png",
   "desc": "The EOS Platform is mainly used for issuing 200 million tokens: 1. Game Mining Awards, 2. Election for 21 Super Miners, 3. Buffe Mortgage for 2 times CPU resources.",
   "website": "http://buff.dpseos.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/buff123token/BUFF.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

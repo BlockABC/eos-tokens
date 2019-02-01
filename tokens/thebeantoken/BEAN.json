@@ -1,12 +1,12 @@
 {
   "name": "BEAN",
-  "account": "thebeantoken",
   "symbol": "BEAN",
-  "issuer": "thebeantoken",
+  "account": "thebeantoken",
   "precision": 4,
+  "issuer": "thebeantoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/thebeantoken/BEAN.png",
   "desc": "",
   "website": "",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/thebeantoken/BEAN.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

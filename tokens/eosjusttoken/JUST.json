@@ -1,12 +1,12 @@
 {
   "name": "JUST",
-  "account": "eosjusttoken",
   "symbol": "JUST",
-  "issuer": "eosjusttoken",
+  "account": "eosjusttoken",
   "precision": 4,
+  "issuer": "eosjusttoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosjusttoken/JUST.png",
   "desc": "JUST is a DAPP platform focusing on game and smart contract development.",
   "website": "https://www.eosjust.com",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosjusttoken/JUST.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

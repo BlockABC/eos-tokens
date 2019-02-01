@@ -1,12 +1,12 @@
 {
   "name": "EOSWIN",
-  "account": "etwineos1111",
   "symbol": "EOSWIN",
-  "issuer": "etwineos1111",
+  "account": "etwineos1111",
   "precision": 4,
+  "issuer": "etwineos1111",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/etwineos1111/EOSWIN.png",
   "desc": "ETwin is an interesting race prediction mining platform based on EOS. Predictions include all major global soccer events, NBA events and events that can be transparently determined! The user participates in the prediction by using EOSWIN, and the user can initiate the prediction project to increase active interactivity as the project progresses! 70% token locked in eoswin111111 can only be obtained by predicting mining! 30% token applies to airdrop, business promotion and cooperation, project contributor! EOSWIN holdings enjoy all affiliated projects of the platform earnings 100% dividend!",
   "website": "https://etwin.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/etwineos1111/EOSWIN.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

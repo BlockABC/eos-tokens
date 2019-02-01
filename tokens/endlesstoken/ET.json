@@ -1,12 +1,12 @@
 {
   "name": "ET",
-  "account": "endlesstoken",
   "symbol": "ET",
-  "issuer": "endlesstoken",
+  "account": "endlesstoken",
   "precision": 4,
+  "issuer": "endlesstoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/endlesstoken/ET.png",
   "desc": "Endless Game was the first ultra-transparent online Game hall to share profits, and the more you play, the more you earn. ET is its game token, which will be later released in more games.",
   "website": "https://dice.endless.game/dice",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/endlesstoken/ET.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

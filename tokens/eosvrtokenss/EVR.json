@@ -1,12 +1,12 @@
 {
   "name": "EVR",
-  "account": "eosvrtokenss",
   "symbol": "EVR",
-  "issuer": "eosvrmanager",
+  "account": "eosvrtokenss",
   "precision": 4,
+  "issuer": "eosvrmanager",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosvrtokenss/EVR.png",
   "desc": "EOSVR is a virtual world based in EOS chain. Like Ready Player One, people are able to access the virtual world, communicate with others, and exchange and build virtual objects together through versatile devices. EOSVR reduces the maintanance cost and enhances user experiences by utilizing the decentralizing technology.",
   "website": "",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosvrtokenss/EVR.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

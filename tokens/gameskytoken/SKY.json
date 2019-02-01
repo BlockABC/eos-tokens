@@ -1,12 +1,12 @@
 {
   "name": "SKY",
-  "account": "gameskytoken",
   "symbol": "SKY",
-  "issuer": "gameskytoken",
+  "account": "gameskytoken",
   "precision": 4,
+  "issuer": "gameskytoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/gameskytoken/SKY.png",
   "desc": "GameSky Platform Currency.",
   "website": "https://gamesky.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/gameskytoken/SKY.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

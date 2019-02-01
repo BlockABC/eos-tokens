@@ -1,12 +1,12 @@
 {
   "name": "CHIP",
-  "account": "bet24tokens1",
   "symbol": "CHIP",
-  "issuer": "bet24tokens1",
+  "account": "bet24tokens1",
   "precision": 4,
+  "issuer": "bet24tokens1",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/bet24tokens1/CHIP.png",
   "desc": "BET24 is a betting game platform run on EOS network, aiming to providing a transparent, fair and extremely amusing environment to global users.",
   "website": "https://bet24.one",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/bet24tokens1/CHIP.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

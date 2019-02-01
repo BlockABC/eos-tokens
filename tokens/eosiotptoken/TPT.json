@@ -1,12 +1,12 @@
 {
   "name": "TPT",
-  "account": "eosiotptoken",
   "symbol": "TPT",
-  "issuer": "eosiotptoken",
+  "account": "eosiotptoken",
   "precision": 4,
+  "issuer": "eosiotptoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosiotptoken/TPT.png",
   "desc": "Applied certification in circulation in TokenPocket ecosystem.",
   "website": "https://www.mytokenpocket.vip",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosiotptoken/TPT.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

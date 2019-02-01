@@ -1,12 +1,12 @@
 {
   "name": "ADE",
-  "account": "buildertoken",
   "symbol": "ADE",
-  "issuer": "cadeositoken",
+  "account": "buildertoken",
   "precision": 4,
+  "issuer": "cadeositoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/buildertoken/ADE.png",
   "desc": "CADEOS is a distributed CAD file and project management platform.",
   "website": "https://cadeos.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/buildertoken/ADE.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

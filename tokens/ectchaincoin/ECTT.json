@@ -1,12 +1,12 @@
 {
   "name": "ECTT",
-  "account": "ectchaincoin",
   "symbol": "ECTT",
-  "issuer": "ectchaincoin",
+  "account": "ectchaincoin",
   "precision": 4,
+  "issuer": "ectchaincoin",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ectchaincoin/ECTT.png",
   "desc": "We are committed to solving the problems of integrity, payment and payment days in cross-border diamond trade.",
   "website": "http://www.ectchain.com",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ectchaincoin/ECTT.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

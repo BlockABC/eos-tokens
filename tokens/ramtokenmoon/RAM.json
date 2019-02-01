@@ -1,12 +1,12 @@
 {
   "name": "RAM",
-  "account": "ramtokenmoon",
   "symbol": "RAM",
-  "issuer": "ramtokendapp",
+  "account": "ramtokenmoon",
   "precision": 0,
+  "issuer": "ramtokendapp",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ramtokenmoon/RAM.png",
   "desc": "",
   "website": "",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ramtokenmoon/RAM.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

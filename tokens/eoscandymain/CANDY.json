@@ -1,12 +1,12 @@
 {
   "name": "CANDY",
-  "account": "eoscandymain",
   "symbol": "CANDY",
-  "issuer": "eoscandywins",
+  "account": "eoscandymain",
   "precision": 4,
+  "issuer": "eoscandywins",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoscandymain/CANDY.png",
   "desc": "The future of decentralized gaming.",
   "website": "http://candyeos.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoscandymain/CANDY.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

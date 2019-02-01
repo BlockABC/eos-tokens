@@ -1,12 +1,12 @@
 {
   "name": "ADD",
-  "account": "eosadddddddd",
   "symbol": "ADD",
-  "issuer": "eosadddddddd",
+  "account": "eosadddddddd",
   "precision": 4,
+  "issuer": "eosadddddddd",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosadddddddd/ADD.png",
   "desc": "EOS ADD provides data center and application platform for transformation from 'Internet plus 'to 'block chain plus'.",
   "website": "http://eosadd.com",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosadddddddd/ADD.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

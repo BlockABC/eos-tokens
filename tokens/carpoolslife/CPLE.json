@@ -1,12 +1,12 @@
 {
   "name": "CPLE",
-  "account": "carpoolslife",
   "symbol": "CPLE",
-  "issuer": "cple2eoscvrt",
+  "account": "carpoolslife",
   "precision": 4,
+  "issuer": "cple2eoscvrt",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/carpoolslife/CPLE.png",
   "desc": "CPLE is an interest-based pass based on the EOS eco-issuance based on blockchain technology, using the Token economic model and DAPP ecological circulation.",
   "website": "https://www.quchuxing.com",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/carpoolslife/CPLE.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

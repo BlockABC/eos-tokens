@@ -1,12 +1,12 @@
 {
   "name": "ZEC",
-  "account": "eoswinonewww",
   "symbol": "WINS",
-  "issuer": "eoswinonewww",
+  "account": "eoswinonewww",
   "precision": 4,
+  "issuer": "eoswinonewww",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoswwwzeccom/ZEC.png",
   "desc": "",
   "website": "",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoswwwzeccom/ZEC.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }
