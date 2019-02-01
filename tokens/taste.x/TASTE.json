@@ -2,9 +2,11 @@
   "name": "TASTE",
   "account": "taste.x",
   "symbol": "TASTE",
+  "issuer": "taste.x",
   "precision": 4,
   "desc": "TASTE is a food sharing pass based on the EOSIO ecosystem. It is dedicated to creating a community-based de-centered food sharing application community that encourages people to record food moments, actively discover food, improve their quality of life and change their lifestyle.",
   "website": "https://www.eostaste.com",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/taste.x/TASTE.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

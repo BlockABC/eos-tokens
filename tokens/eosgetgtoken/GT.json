@@ -2,9 +2,11 @@
   "name": "GT",
   "account": "eosgetgtoken",
   "symbol": "GT",
+  "issuer": "eosgetadmin1",
   "precision": 4,
   "desc": "GT is a token issued by EOSGET platform, which is obtained through game mining.",
   "website": "https://dice.eosget.io",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosgetgtoken/GT.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

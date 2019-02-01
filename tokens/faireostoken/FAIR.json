@@ -2,9 +2,11 @@
   "name": "FAIR",
   "account": "faireostoken",
   "symbol": "FAIR",
+  "issuer": "faireostoken",
   "precision": 4,
   "desc": "21 points of fairness based on EOS.",
   "website": "https://faireos.com",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/faireostoken/FAIR.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

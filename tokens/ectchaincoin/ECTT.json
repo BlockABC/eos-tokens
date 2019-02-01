@@ -2,9 +2,11 @@
   "name": "ECTT",
   "account": "ectchaincoin",
   "symbol": "ECTT",
+  "issuer": "ectchaincoin",
   "precision": 4,
   "desc": "We are committed to solving the problems of integrity, payment and payment days in cross-border diamond trade.",
   "website": "http://www.ectchain.com",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ectchaincoin/ECTT.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

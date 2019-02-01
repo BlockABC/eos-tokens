@@ -2,9 +2,11 @@
   "name": "SHAPE",
   "account": "gmaslaunches",
   "symbol": "SHAPE",
+  "issuer": "gmaslaunches",
   "precision": 4,
   "desc": "Shape is a fitness application based on EOS.",
   "website": "https://www.shapecoin.io",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/gmaslaunches/SHAPE.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

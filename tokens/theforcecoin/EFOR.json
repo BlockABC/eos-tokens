@@ -2,9 +2,11 @@
   "name": "EFOR",
   "account": "theforcecoin",
   "symbol": "EFOR",
+  "issuer": "theforcecoin",
   "precision": 4,
   "desc": "The Force Protocol, a decentralized cryptoassets loan protocol",
   "website": "http://theforceprotocol.com",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/theforcecoin/EFOR.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

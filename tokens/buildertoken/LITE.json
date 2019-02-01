@@ -2,9 +2,11 @@
   "name": "LITE",
   "account": "buildertoken",
   "symbol": "LITE",
+  "issuer": "eosliteworld",
   "precision": 4,
   "desc": "EOS Lite - Manage EOS assets directly through the browsers .",
   "website": "https://www.eoslite.co",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/buildertoken/LITE.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

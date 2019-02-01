@@ -2,6 +2,11 @@
   "name": "TOOK",
   "account": "taketooktook",
   "symbol": "TOOK",
+  "issuer": "taketooktook",
+  "precision": 4,
+  "desc": "",
+  "website": "",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/taketooktook/TOOK.jpg",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }

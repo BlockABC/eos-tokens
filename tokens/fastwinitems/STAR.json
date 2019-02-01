@@ -2,9 +2,11 @@
   "name": "STAR",
   "account": "fastwinitems",
   "symbol": "STAR",
-  "precision": 4,
+  "issuer": "fastwingifts",
+  "precision": 0,
   "desc": "Dropping items in FASTWIN GIFTS game.",
   "website": "https://www.fastwin.io/gifts",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/fastwinitems/STAR.png",
-  "links": {}
+  "links": {},
+  "whitepaper": ""
 }
