@@ -1,12 +1,12 @@
 {
   "name": "ZION",
-  "account": "ziongameseos",
   "symbol": "ZION",
-  "issuer": "ziongameseos",
+  "account": "ziongameseos",
   "precision": 4,
+  "issuer": "ziongameseos",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ziongameseos/ZION.png",
   "desc": "Blockchain entertainment platform based on EOS",
   "website": "https://zion.games",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ziongameseos/ZION.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

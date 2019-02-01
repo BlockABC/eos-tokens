@@ -1,12 +1,12 @@
 {
   "name": "YT",
-  "account": "okkkkkkkkkkk",
   "symbol": "YT",
-  "issuer": "okkkkkkkkkkk",
+  "account": "okkkkkkkkkkk",
   "precision": 4,
+  "issuer": "okkkkkkkkkkk",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/okkkkkkkkkkk/YT.png",
   "desc": "YT(the Taiwan dollar of yb.link) is a token issued on the basis of EOS. YT is the open exchange of okex alliance. YT is the only token circulating in the currency ecosystem.",
   "website": "https://www.yb.link",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/okkkkkkkkkkk/YT.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

@@ -1,12 +1,12 @@
 {
   "name": "DBET",
-  "account": "dbetminepool",
   "symbol": "DBET",
-  "issuer": "....5zzuyqcvb",
+  "account": "dbetminepool",
   "precision": 4,
+  "issuer": "....5zzuyqcvb",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/dbetminepool/DBET.png",
   "desc": "Dbet.one is a new generation betting and mining platform with payout policy to DBET token holders.",
   "website": "https://dbet.one",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/dbetminepool/DBET.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

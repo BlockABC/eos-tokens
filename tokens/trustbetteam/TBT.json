@@ -1,12 +1,12 @@
 {
   "name": "TBT",
-  "account": "trustbetteam",
   "symbol": "TBT",
-  "issuer": "trustbetteam",
+  "account": "trustbetteam",
   "precision": 4,
+  "issuer": "trustbetteam",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/trustbetteam/TBT.png",
   "desc": "TrustBet, operated by Dapp Works Limited (BVI COMMANY NUMBER:1999295), is dedicated to integrating memory block chain technology into games to create more fun and improve user experience, fairness and trust. Located in Canada, we adhere to the globalization strategy and apply for a license to operate legally according to the laws and regulations of each country.",
   "website": "http://www.trust.bet",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/trustbetteam/TBT.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

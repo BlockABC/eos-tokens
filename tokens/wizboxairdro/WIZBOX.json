@@ -1,12 +1,12 @@
 {
   "name": "WIZBOX",
-  "account": "wizboxairdro",
   "symbol": "WIZBOX",
-  "issuer": "wizboxairdro",
+  "account": "wizboxairdro",
   "precision": 0,
+  "issuer": "wizboxairdro",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/wizboxairdro/WIZBOX.png",
   "desc": "This is an EOS-based character fighting game developed by the LetltPlay team and inspired by Crypto Cat on Ethereum.",
   "website": "https://wizards.one",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/wizboxairdro/WIZBOX.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

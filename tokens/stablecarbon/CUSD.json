@@ -1,12 +1,12 @@
 {
   "name": "CUSD",
-  "account": "stablecarbon",
   "symbol": "CUSD",
-  "issuer": "carbonissuer",
+  "account": "stablecarbon",
   "precision": 2,
+  "issuer": "carbonissuer",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/stablecarbon/CUSD.png",
   "desc": "",
   "website": "",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/stablecarbon/CUSD.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

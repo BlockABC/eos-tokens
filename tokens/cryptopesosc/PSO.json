@@ -1,12 +1,12 @@
 {
   "name": "PSO",
-  "account": "cryptopesosc",
   "symbol": "PSO",
-  "issuer": "cryptopesosc",
+  "account": "cryptopesosc",
   "precision": 4,
+  "issuer": "cryptopesosc",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/cryptopesosc/PSO.png",
   "desc": "Peso Economy-- a modern economic plan in Venezuela and Latin America.",
   "website": "https://eosvenezuela.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/cryptopesosc/PSO.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

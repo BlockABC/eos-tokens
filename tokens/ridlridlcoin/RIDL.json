@@ -1,12 +1,12 @@
 {
   "name": "RIDL",
-  "account": "ridlridlcoin",
   "symbol": "RIDL",
-  "issuer": "ridlridlcoin",
+  "account": "ridlridlcoin",
   "precision": 4,
+  "issuer": "ridlridlcoin",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ridlridlcoin/RIDL.png",
   "desc": "Scatter is an EOS digital asset storage tool.",
   "website": "https://get-scatter.com",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ridlridlcoin/RIDL.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

@@ -1,12 +1,12 @@
 {
   "name": "BG",
-  "account": "bgbgbgbgbgbg",
   "symbol": "BG",
-  "issuer": "bgbgbgissuer",
+  "account": "bgbgbgbgbgbg",
   "precision": 4,
+  "issuer": "bgbgbgissuer",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/bgbgbgbgbgbg/BG.png",
   "desc": "Fair, transparent, fun and stimulating EOS gaming platform.",
   "website": "https://big.game",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/bgbgbgbgbgbg/BG.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

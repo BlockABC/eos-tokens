@@ -1,12 +1,12 @@
 {
   "name": "RAN",
-  "account": "eosrandtoken",
   "symbol": "RAN",
-  "issuer": "eosrandtoken",
+  "account": "eosrandtoken",
   "precision": 4,
+  "issuer": "eosrandtoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosrandtoken/RAN.png",
   "desc": "EOS RAN focuses on block chain gaming based on the eos platform, all game algorithms open, verifiable, blackjack for the platform's first open game, now participate in mining incentives, split 100% of platform near profit. The ran coin from the mining can also be used in the game.",
   "website": "http://eosrand.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosrandtoken/RAN.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

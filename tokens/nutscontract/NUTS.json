@@ -1,12 +1,12 @@
 {
   "name": "NUTS",
-  "account": "nutscontract",
   "symbol": "NUTS",
-  "issuer": "nutscontract",
+  "account": "nutscontract",
   "precision": 4,
+  "issuer": "nutscontract",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/nutscontract/NUTS.png",
   "desc": "NUTS Token is designed to work with Luckynuts applications. At the moment, it can only be used in the Gambling project, but in the future it is expected to develop other applications according to the roadmap.",
   "website": "https://luckynuts.one",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/nutscontract/NUTS.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

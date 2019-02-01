@@ -1,12 +1,12 @@
 {
   "name": "WINS",
-  "account": "eoswinonewww",
   "symbol": "WINS",
-  "issuer": "eoswinonewww",
+  "account": "eoswinonewww",
   "precision": 4,
+  "issuer": "eoswinonewww",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoswinonewww/WINS.png",
   "desc": "Eoswin.one focuses on mining dividends decentralized gaming platform.",
   "website": "https://www.eoswin.one",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoswinonewww/WINS.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }

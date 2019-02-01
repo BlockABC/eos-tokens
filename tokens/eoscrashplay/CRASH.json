@@ -1,12 +1,12 @@
 {
   "name": "CRASH",
-  "account": "eoscrashplay",
   "symbol": "CRASH",
-  "issuer": "eoscrashplay",
+  "account": "eoscrashplay",
   "precision": 4,
+  "issuer": "eoscrashplay",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoscrashplay/CRASH.png",
   "desc": "EOS Crash is a multi-player EOS gambling game.",
   "website": "https://game.eoscrash.app",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoscrashplay/CRASH.png",
-  "links": {},
-  "whitepaper": ""
+  "whitepaper": "",
+  "links": {}
 }
