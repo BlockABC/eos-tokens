@@ -6,7 +6,8 @@
   "types": "tokens.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node ./build.js"
+    "build": "node ./scripts/build.js",
+    "prepublish": "npm version patch && npm run build && git commit -a --amend --no-edit"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/BlockABC/eos-tokens/issues"
   },
-  "homepage": "https://github.com/BlockABC/eos-tokens#readme"
+  "homepage": "https://github.com/BlockABC/eos-tokens#readme",
+  "devDependencies": {
+    "glob": "^7.1.3"
+  }
 }

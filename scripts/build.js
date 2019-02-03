@@ -1,15 +1,11 @@
 const fs = require('fs')
-const contracts = fs.readdirSync('./tokens')
+const glob = require('glob')
+const path = require('path')
 
-const tokens = contracts.reduce((reduced, contract) => {
-  const tokenFiles = fs.readdirSync(`./tokens/${contract}`)
+const tokenFiles = glob.sync(path.resolve(__dirname, '../tokens/**/*.json'))
 
-  tokenFiles.forEach(tokenFile => {
-    if (tokenFile.match(/\.json$/)) {
-      const token = require(`./tokens/${contract}/${tokenFile}`)
-      reduced.push(token)
-    }
-  })
+const tokens = tokenFiles.reduce((reduced, tokenFile) => {
+  reduced.push(require(tokenFile))
   return reduced
 }, [])
 
@@ -24,4 +20,4 @@ let readme = fs.readFileSync('./readme.md', 'utf-8')
 readme = readme.replace(/<!-- token_list_start -->(.|\s)*<!-- token_list_end -->/, tokensMd)
 
 fs.writeFileSync('./readme.md', readme, 'utf-8')
-fs.writeFileSync('./tokens.json', JSON.stringify(tokens, null, 2), 'utf-8')
+fs.writeFileSync(path.resolve(__dirname, '../tokens.json'), JSON.stringify(tokens, null, 2), 'utf-8')

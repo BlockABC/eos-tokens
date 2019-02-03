@@ -34,6 +34,7 @@ Please submit your token's JSON file follow template below. [EOS](./tokens/eosio
   "name": "EOS",
   "symbol": "EOS",
   "account": "eosio.token",
+  "issuer": "eosio",
   "precision": 4,
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/{CONTRACT_ACCOUNT}/{TOKEN_NAME_UPPERCASE}.png",
   "desc": {
