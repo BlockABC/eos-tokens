@@ -7,6 +7,7 @@ for (const filepath of glob.sync(path.join(__dirname, "..", "tokens", "**", "*.j
 
     // Format in order
     const formatedToken = {
+        ...token,
         name: token.name || "",
         symbol: token.symbol || "",
         account: token.account || "",
