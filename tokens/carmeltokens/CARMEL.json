@@ -1,10 +1,12 @@
 {
   "name": "CARMEL",
-  "account": "carmeltokens",
   "symbol": "CARMEL",
+  "account": "carmeltokens",
   "precision": 4,
+  "issuer": "carmeltokens",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/carmeltokens/CARMEL.png",
   "desc": "Carmel is the Decentralized Tech Education Platform that helps aspiring and seasoned developers take their tech skills to the next level using the revolutionary Tweak-N-Learn™ educational model.",
   "website": "https://carmel.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/carmeltokens/CARMEL.png",
+  "whitepaper": "",
   "links": {}
 }
