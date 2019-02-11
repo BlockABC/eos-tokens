@@ -1,0 +1,12 @@
+{
+  "name": "AGT",
+  "symbol": "AGT",
+  "account": "jychjych1234",
+  "precision": 4,
+  "issuer": "jychjych1234",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/jychjych1234/AGT.png",
+  "desc": "A Game Token (AGT) is a general token for the XXX game center, which provides games with ultimate user experience design.",
+  "website": "https://coming-soon.com",
+  "whitepaper": "",
+  "links": {}
+}
