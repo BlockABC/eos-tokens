@@ -1,0 +1,20 @@
+{
+  "name": "UTG",
+  "symbol": "UTG",
+  "account": "untowermain1",
+  "issuer": "untowermain1",
+  "precision": 4,
+  "logo": "https://www.unlimitedtower.com/utg/UTG.png",
+  "desc": {
+    "en": "The Next Generation On-Chain Battle SRPG Dapp power by the EOS blockchain. Upgrade your party and become the final hero at the Unlimited Tower. ??",
+    "zh": "新一代 ?上?略角色扮演游? Dapp。 ????Unlimited Tower的自身????, 成?最后的英雄。",
+    "ko": "차세대 EOS On-Chain Battle SRPG Dapp. 자신만의 파티로 Unlimited Tower의 경쟁에 참여하세요. ??"
+  },
+  "website": "https://www.unlimitedtower.com",
+  "links": {
+    "github": "https://github.com/DevToothCrew",
+    "telegram": "https://t.me/UnlimitedTower_EN",
+    "twitter": "https://twitter.com/UnlimitedTower",
+    "medium": "https://medium.com/@UnlimitedTower"
+  }
+}
