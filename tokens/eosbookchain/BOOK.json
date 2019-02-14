@@ -1,0 +1,12 @@
+{
+  "name": "BOOK",
+  "symbol": "BOOK",
+  "account": "eosbookchain",
+  "precision": 4,
+  "issuer": "eosbookchain",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosbookchain/BOOK.png",
+  "desc": "Bookstore based on block chain technology. Each book is unique and 100% owned by users.",
+  "website": "http://bookchain.fun",
+  "whitepaper": "",
+  "links": {}
+}
