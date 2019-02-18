@@ -6,7 +6,7 @@
 "issuer": "eosbookchain",
 "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosbookchain/BOOK.png",
 "desc": "Bookstore based on block chain technology. Each book is unique and 100% owned by users.",
-"website": "http://bookchain.fun",
+"website": "https://bookchain.fun",
 "whitepaper": "",
-"links": {"telegram": "[https://t.me/bookchaincommunity"}](https://t.me/bookchaincommunity%22%7D)
+"links": {"telegram": "https://t.me/bookchaincommunity"}
 }
