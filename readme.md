@@ -56,7 +56,8 @@ Please submit your token's JSON file follow template below. [EOS](./tokens/eosio
 ```
 
 ## Note
-For better compatibility, please provide PNG format as possible.
+1. For better compatibility, please provide PNG format as possible.
+2. `invalid` field is only used to indicate that this token is invalid on chain. If your token is valid, please don't fill in this field.
 
 
 ## Token List
