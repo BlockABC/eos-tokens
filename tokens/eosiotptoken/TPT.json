@@ -5,8 +5,8 @@
   "precision": 4,
   "issuer": "eosiotptoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosiotptoken/TPT.png",
-  "desc": "Applied certification in circulation in TokenPocket ecosystem.",
-  "website": "https://www.mytokenpocket.vip",
+  "desc": "TPT——TokenPocket Token, is an application-based token that represents TP users and developer rights in the TokenPocket ecosystem. It is also an important link between wallets, users and project developers.",
+  "website": "https://www.tokenpocket.pro",
   "whitepaper": "",
   "links": {}
 }
