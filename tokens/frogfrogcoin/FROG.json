@@ -1,1 +1,16 @@
-x
+{
+  "name": "FROG",
+  "symbol": "FROG",
+  "account": "frogfrogcoin",
+  "precision": 4,
+  "issuer": "frogfrogcoin",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/frogfrogcoin/FROG.png",
+  "desc": "The FROG-ecosystem dividend token. Play CatchTheFrog, ThePond and other DApps.",
+  "website": "https://www.catchthefrog.com",
+  "whitepaper": "https://www.catchthefrog.com/media/catchthefrog-whitepaper.pdf",
+  "links": {
+    "telegram": "https://t.me/catchthefrog",
+    "medium": "https://medium.com/@catchthefrog",
+    "twitter": "https://twitter.com/catchfrog"
+  }
+}
