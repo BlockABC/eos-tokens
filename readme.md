@@ -64,6 +64,7 @@ Please submit your token's JSON file follow template below. [EOS](./tokens/eosio
 <!-- token_list_start -->
 |   Logo    | Symbol      | Account Name |
 | ----------- |:------------:|:------------:|
+  <img src="https://pbs.twimg.com/profile_images/1107104247756349442/6OKHzPkQ_400x400.png" width=30 />  | [TWERK](https://github.com/TwerkEOS/eos-tokens/commit/07c8f1d483814c5498052f8b9810a713c24c825b#diff-63406c80dfc0439ffc812406f7757303) | [twerkeoscoin](https://eospark.com/account/twerkeoscoin) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/21dice4token/TOD.png" width=30 />  | [TOD](https://github.com/BlockABC/eos-tokens/blob/master/tokens/21dice4token/TOD.json) | [21dice4token](https://eospark.com/contract/21dice4token) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/aeronaerozzz/ARN.png" width=30 />  | [ARN](https://github.com/BlockABC/eos-tokens/blob/master/tokens/aeronaerozzz/ARN.json) | [aeronaerozzz](https://eospark.com/contract/aeronaerozzz) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/jychjych1234/AGT.png" width=30 />  | [AGT](https://github.com/BlockABC/eos-tokens/blob/master/tokens/jychjych1234/AGT.json) | [jychjych1234](https://eospark.com/contract/jychjych1234) |
