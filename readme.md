@@ -64,7 +64,7 @@ Please submit your token's JSON file follow template below. [EOS](./tokens/eosio
 <!-- token_list_start -->
 |   Logo    | Symbol      | Account Name |
 | ----------- |:------------:|:------------:|
-  <img src="https://pbs.twimg.com/profile_images/1107104247756349442/6OKHzPkQ_400x400.png" width=30 />  | [TWERK](https://github.com/TwerkEOS/eos-tokens/commit/07c8f1d483814c5498052f8b9810a713c24c825b#diff-63406c80dfc0439ffc812406f7757303) | [twerkeoscoin](https://eospark.com/account/twerkeoscoin) |
+
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/21dice4token/TOD.png" width=30 />  | [TOD](https://github.com/BlockABC/eos-tokens/blob/master/tokens/21dice4token/TOD.json) | [21dice4token](https://eospark.com/contract/21dice4token) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/aeronaerozzz/ARN.png" width=30 />  | [ARN](https://github.com/BlockABC/eos-tokens/blob/master/tokens/aeronaerozzz/ARN.json) | [aeronaerozzz](https://eospark.com/contract/aeronaerozzz) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/jychjych1234/AGT.png" width=30 />  | [AGT](https://github.com/BlockABC/eos-tokens/blob/master/tokens/jychjych1234/AGT.json) | [jychjych1234](https://eospark.com/contract/jychjych1234) |
@@ -252,4 +252,6 @@ Please submit your token's JSON file follow template below. [EOS](./tokens/eosio
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/yumgamescoin/YUM.png" width=30 />  | [YUM](https://github.com/BlockABC/eos-tokens/blob/master/tokens/yumgamescoin/YUM.json) | [yumgamescoin](https://eospark.com/contract/yumgamescoin) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ziongameseos/ZION.png" width=30 />  | [ZION](https://github.com/BlockABC/eos-tokens/blob/master/tokens/ziongameseos/ZION.json) | [ziongameseos](https://eospark.com/contract/ziongameseos) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/zkstokensr4u/ZKS.png" width=30 />  | [ZKS](https://github.com/BlockABC/eos-tokens/blob/master/tokens/zkstokensr4u/ZKS.json) | [zkstokensr4u](https://eospark.com/contract/zkstokensr4u) |
+   <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/twerkeoscoin/TWERK.png" width=30 />  | [TWERK](https://github.com/
+BlockABC/eos-tokens/blob/master/tokens/twerkeoscoin/TWERK.json) | [twerkeoscoin](https://eospark.com/contract/twerkeoscoin) |
 <!-- token_list_end -->
