@@ -1,0 +1,18 @@
+{
+  "name": "LGT",
+  "symbol": "LGT",
+  "account": "liveadmin123",
+  "issuer": "living-game",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/liveadmin123/LGT.png",
+  "desc": {
+    "en": "LiveGaming is the very first entertaining livestream platform based upon cross-chain technology, where streamers interact with players through live video streaming. Players get to enjoy highly immersive entertaining experience based on a rich variety of gaming forms. LiveGaming include Gambling games, casual games and board games. To facilitate DAPP’s ecodevelopment, our platform is dedicated to combining more gaming forms with Blockchain technology. LiveGaming adopts new cross-chain technologies which support three public blockchains: Ethereum, EOS and TRON. The issued LGT tokens can freely circulate on three public blockchains, making cross-chain mining, cross-chain exchange and cross-chain dividend come true.",
+    "zh": "LiveGaming是首款基于跨链的互动娱乐直播平台，主播通过直播视频流的方式与玩家进行互动，基于丰富多样的游戏形式，带来更加身临其境的娱乐体验。LiveGaming平台的游戏形式包括菠菜游戏、休闲游戏以及桌面游戏，平台致力于将更多的游戏形式与区块链相结合，以促进DAPP的生态发展。LiveGaming平台采用全新的跨链技术，支持以太坊、EOS、波场三条公链，发行的代币LGT可以在三条公链上自由流通，实现跨链挖矿、跨链兑换、跨链分红。"
+  },
+  "website": "http://livegaming.io",
+  "whitepaper": "http://livegaming-hongkong.oss-cn-hongkong.aliyuncs.com/LiveGaming_whitepaper_EN.pdf",
+  "links": {
+    "telegram": " https://t.me/LiveGamingio",
+    "twitter": "https://twitter.com/LiveGaming2019"
+  }
+}
