@@ -1,0 +1,12 @@
+{
+  "name": "GMB",
+  "symbol": "GMB",
+  "account": "game12game34",
+  "precision": 4,
+  "issuer": "game12game34",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/game12game34/GMB.png",
+  "desc": "GMB is the token of the GAME28 game platform which enjoying the following dividend.",
+  "website": "https://game28.app",
+  "whitepaper": "",
+  "links": {}
+}
