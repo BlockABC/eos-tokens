@@ -1,0 +1,18 @@
+{
+  "name": "SKR",
+  "symbol": "SKR",
+  "account": "skreosxtoken",
+  "precision": 4,
+  "issuer": "skreosxtoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/skreosxtoken/SKR.png",
+  "desc": {
+    "en": "SKREOS is a completely trustworthy, profit-sharing and fair gaming platform based on EOS.",
+    "zh": "SKREOS 是一个基于EOS的、可信的、利益共享的、公平的、游戏平台。",
+    "ko": "SKREOS는 EOS기반의 공정, 공평한 수익을 쉐어하는 게임 플랫폼입니다."
+  },
+  "website": "https://skreos.io",
+  "whitepaper": "",
+  "links": {
+    "telegram": ""
+  }
+}
