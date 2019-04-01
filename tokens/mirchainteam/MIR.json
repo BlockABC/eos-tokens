@@ -1,0 +1,12 @@
+{
+  "name": "MIR",
+  "symbol": "MIR",
+  "account": "mirchainteam",
+  "precision": 4,
+  "issuer": "mirchainteam",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/mirchainteam/MIR.png",
+  "desc": "MIR is a key element of the MIR platform, an integrated solution that encompasses a variety of content and alliance business plans.",
+  "website": "https://mircoin.io",
+  "whitepaper": "",
+  "links": {}
+}
