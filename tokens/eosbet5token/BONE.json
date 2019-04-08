@@ -1,0 +1,17 @@
+{
+  "name": "Bet500.ONE",
+  "symbol": "BONE",
+  "account": "eosbet5token",
+  "precision": 4,
+  "issuer": "eosbet5admin",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosbet5token/BONE.png",
+  "desc": {
+    "en": "Bet500.ONE is a blockchain game experiment platform developed by 5 million lottery network. Based on the EOS public chain development, Bet500.ONE is an experimental development of a series of blockchain quiz games, such as digital color games, competitive games, and team games.",
+    "zh": "Bet500.ONE是由500万彩票网策划开发的区块链游戏实验平台。Bet500.ONE基于EOS公链开发，围绕数字彩类游戏、竞技类游戏、团队类游戏等一系列区块链竞猜游戏进行实验化拓展。"
+  },
+  "website": "http://www.bet500.one",
+  "whitepaper": "http://www.bet500.one/#/home/introduce",
+  "links": {
+    "facebook": "https://www.facebook.com/profile.php?id=100035286161262"
+  }
+}
