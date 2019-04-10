@@ -1,6 +1,6 @@
 {
   "name": "eos-tokens",
-  "version": "1.0.31",
+  "version": "1.0.32",
   "description": "The ultimate collection of all EOS tokens (PR welcome!).",
   "main": "tokens.json",
   "types": "tokens.d.ts",
