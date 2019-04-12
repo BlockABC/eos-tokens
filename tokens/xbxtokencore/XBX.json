@@ -1,0 +1,17 @@
+{
+  "name": "XBX",
+  "symbol": "XBX",
+  "account": "xbxtokencore",
+  "precision": 4,
+  "issuer": "xbxtokencore",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/xbxtokencore/XBX.png",
+  "desc": {
+    "en": "XBX is a global online education platform based on eos designed to provide high quality, high value video learning content to users around the world.",
+    "zh": "矿课是一个基于eos的全球在线教育平台，旨在为全球用户提供高质量，高价值的视频学习内容。"
+  },
+  "website": "https://51kuangke.com",
+  "whitepaper": "https://shimo.im/docs/1LW7jMj4Gmg4thNd/read",
+  "links": {
+    "telegram": "https://t.me/xbx_global"
+  }
+}
