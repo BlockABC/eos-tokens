@@ -1,12 +1,12 @@
 {
-  "name": "AGT",
-  "symbol": "AGT",
-  "account": "jychjych1234",
+  "name": "IDA",
+  "symbol": "IDA",
+  "account": "OKKKKKKKKKKK",
   "precision": 4,
-  "issuer": "jychjych1234",
+  "issuer": "OKKKKKKKKKKK",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/jychjych1234/AGT.png",
   "desc": "A Game Token (AGT) is a general token for the XXX game center, which provides games with ultimate user experience design.",
-  "website": "https://coming-soon.com",
+  "website": "https://www.inadrone.com",
   "whitepaper": "",
   "links": {}
 }
