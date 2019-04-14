@@ -1,0 +1,18 @@
+{
+  "name": "Dragon Option",
+  "symbol": "DRAGON",
+  "account": "eosdragontkn",
+  "precision": 4,
+  "issuer": "eosdragontkn",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosdragontkn/DRAGON.png",
+  "desc": {
+    "en": "The first binary option game on EOS",
+    "zh": "首款EOS双选期权游戏"
+  },
+  "website": "https://dragonoption.io",
+  "whitepaper": "",
+  "links": {
+    "telegram": "https://t.me/dragonoption",
+    "twitter": "https://twitter.com/dragon_option"
+  }
+}
