@@ -1,0 +1,16 @@
+{
+  "name": "DOLLAR",
+  "symbol": "DOLLAR",
+  "account": "supstartoken",
+  "precision": 4,
+  "issuer": "supstartoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/supstartoken/DOLLAR.png",
+  "desc": {
+    "en": "Dollar is a Token issued by\"SuperStar Game\".Player consume Dollar to Raise their Superstar's WorthPoints and other attributes, in order to win Matches holding by the game.",
+    "zh": "Dollar是超级大明星（SuperStar）游戏中发行的一种代币。玩家消费Dollar可以提升旗下明星的身价，并获得属性加成等收益。用户拥有的明星可参与平台举办的各类比赛。",
+    "ko": "Dollar 슈퍼스타 게임에서 발행된 동화다.게이머는 그것을 게양할 수 있다，속성 가성 등의 수익을 얻다.사용자가 보유한 스타는 플랫폼에서 열리는 각종 경기에 참여할 수 있다."
+  },
+  "website": "https://superstar.team",
+  "whitepaper": "https://superstar.team/#/explain",
+  "links": {}
+}
