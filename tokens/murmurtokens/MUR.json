@@ -1,0 +1,17 @@
+{
+  "name": "MUR",
+  "symbol": "MUR",
+  "account": "murmurtokens",
+  "precision": 4,
+  "issuer": "murmurtokens",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/murmurtokens/MUR.png",
+  "desc": {
+    "en": "Murmur is a new-age, blockchain-based, decentralized microblogging platform. It’s open, transparent, and allows users to monetize their content. Murmur is an independently operated platform, which means it is less corruptible and resistant to regulation. It is a reward-based platform that gives users ability to share freely, control their data and trace the origins of any story to help prevent fake news."
+  },
+  "website": "https://murmurdapp.com",
+  "whitepaper": "",
+  "links": {
+    "telegram": "https://t.me/murmurdapp",
+    "twitter": "https://twitter.com/murmurdapp"
+  }
+}
