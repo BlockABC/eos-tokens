@@ -1,0 +1,20 @@
+{
+  "name": "PLO",
+  "symbol": "PLO",
+  "account": "ploutoztoken",
+  "issuer": "ploutoztoken",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ploutoztoken/PLO.png",
+  "desc": {
+    "en": "PLOUTOZ Token is issued by the PLOUTOZ Public Chain Ecosystem Derivatives Marketplace, called “PLO”. PLO is a proof of equity in the PLOUTOZ derivatives market, and users holding PLO can deeply participate in the future development of all public chain derivatives. PLO is developed based on the EOS public chain and can be used as payment and margin for the PLOUTOZ derivatives marketplace. PLO will also be used for partner funds, ecosystem construction, community construction. Especially for cross-public chain transaction fee discount, settlement, payment in all public chain derivatives markets supported by PLOUTOZ.",
+    "zh": "PLOUTOZ 公链生态衍生品市场通证“PLO” 基于EOS公链开发，是PLOUTOZ 公链生态衍生品市场的权益证明，可作为PLOUTOZ衍生品生态的支付代币，和保证金来使用。也将用于合作伙伴基金，生态联盟建设、社区建设，以及用于所有由PLOUTOZ打造的公链衍生品市场中佣金打折，清算，支付，以及跨公链衍生品的清算，支付作用。"
+  },
+  "website": "https://ploutoz.com",
+  "links": {
+    "telegram": "https://t.me/joinchat/ploutoz",
+    "twitter": "https://twitter.com/Ploutoz_Market",
+    "Instagram": "Ploutoz_official",
+    "wechat": "ploutoz678",
+    "weibo": "PLOUTOZ"
+  }
+}
