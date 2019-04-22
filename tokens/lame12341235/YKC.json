@@ -1,0 +1,17 @@
+{
+  "name": "YKC",
+  "symbol": "YKC",
+  "account": "lame12341235",
+  "issuer": "lame12341235",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/lame12341235/YKC.png",
+  "desc": {
+    "en": "YKC (Yakee Coin) Yakee chain is based on block chain and artificial intelligence technology to construct intelligent medical value ecology. By using the user's physical data to create intelligent hardware, Life Bank stores medical and health data safely, authenticates the research and development results of members and institutions, and participates in the chain and transaction of information. AI super doctors analyze bits and digits of patients through a variety of intelligent diagnostic modules and make intelligent diagnosis.",
+    "zh": "YKC (Yakee Coin) 亚克链以区块链和人工智能技术为基础，构建智慧医疗价值生态。通过使用者体征资料创造智能硬件，生命银行对医疗健康资料安全存储，对成员及机构的研发成果进行价值认证确权并参与信息的上链和交易，AI 超能医生通过多种智慧诊模组解析比特数位病人并进行智慧诊断。"
+  },
+  "website": "",
+  "whitepaper": "",
+  "links": {
+    "github": "https://github.com/super60729"
+  }
+}
