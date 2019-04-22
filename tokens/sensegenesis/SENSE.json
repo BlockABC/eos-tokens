@@ -1,0 +1,17 @@
+{
+  "name": "SENSE",
+  "symbol": "SENSE",
+  "account": "sensegenesis",
+  "precision": 4,
+  "issuer": "sensegenesis",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/sensegenesis/SENSE.png",
+  "desc": "Sense.Chat allows you to safely chat and transact with your friends and family. Share EOS and SENSE with the built-in wallet.",
+  "website": "https://www.sense.chat/",
+  "links": {
+    "telegram": "http://bit.ly/join-sense-telegram",
+    "twitter": "https://twitter.com/sensetoken",
+    "medium": "https://medium.com/sensechat",
+    "steemit": "https://steemit.com/@sensay"
+  },
+  "whitepaper": ""
+}
