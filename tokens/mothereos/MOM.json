@@ -1,5 +1,3 @@
-﻿
-
 {
   "name": "MOM",
   "symbol": "MOM",
@@ -16,6 +14,6 @@
   "whitepaper": "coming soon",
   "links": {
     "twitter": "https://twitter.com/coreycottrell",
-    "trybe": "https://trybe.one/members/mothereos/blog/" 
- }
+    "trybe": "https://trybe.one/members/mothereos/blog/"
+  }
 }
