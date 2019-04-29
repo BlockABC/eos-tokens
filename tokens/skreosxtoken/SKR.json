@@ -1,7 +1,7 @@
 {
   "name": "SKR",
   "symbol": "SKR",
-  "account": "skreosxtoken",
+  "contract": "skreosxtoken",
   "precision": 4,
   "issuer": "skreosxtoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/skreosxtoken/SKR.png",

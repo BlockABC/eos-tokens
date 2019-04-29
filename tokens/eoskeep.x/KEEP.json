@@ -1,7 +1,7 @@
 {
   "name": "KEEP",
   "symbol": "KEEP",
-  "account": "eoskeep.x",
+  "contract": "eoskeep.x",
   "precision": 4,
   "issuer": "eoskeep.x",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoskeep.x/KEEP.png",

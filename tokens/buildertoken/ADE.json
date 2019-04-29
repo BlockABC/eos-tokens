@@ -1,7 +1,7 @@
 {
   "name": "ADE",
   "symbol": "ADE",
-  "account": "buildertoken",
+  "contract": "buildertoken",
   "precision": 4,
   "issuer": "cadeositoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/buildertoken/ADE.png",

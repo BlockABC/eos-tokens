@@ -1,7 +1,7 @@
 {
   "name": "ESA",
   "symbol": "ESA",
-  "account": "shadowbanker",
+  "contract": "shadowbanker",
   "precision": 4,
   "issuer": "shadowbanker",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/shadowbanker/ESA.png",

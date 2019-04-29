@@ -1,7 +1,7 @@
 {
   "name": "TPT",
   "symbol": "TPT",
-  "account": "eosiotptoken",
+  "contract": "eosiotptoken",
   "precision": 4,
   "issuer": "eosiotptoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosiotptoken/TPT.png",

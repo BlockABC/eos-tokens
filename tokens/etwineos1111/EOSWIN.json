@@ -1,7 +1,7 @@
 {
   "name": "EOSWIN",
   "symbol": "EOSWIN",
-  "account": "etwineos1111",
+  "contract": "etwineos1111",
   "precision": 4,
   "issuer": "etwineos1111",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/etwineos1111/EOSWIN.png",

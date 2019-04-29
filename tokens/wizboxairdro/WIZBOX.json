@@ -1,7 +1,7 @@
 {
   "name": "WIZBOX",
   "symbol": "WIZBOX",
-  "account": "wizboxairdro",
+  "contract": "wizboxairdro",
   "precision": 0,
   "issuer": "wizboxairdro",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/wizboxairdro/WIZBOX.png",

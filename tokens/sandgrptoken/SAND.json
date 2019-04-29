@@ -1,7 +1,7 @@
 {
   "name": "SAND",
   "symbol": "SAND",
-  "account": "sandgrptoken",
+  "contract": "sandgrptoken",
   "precision": 4,
   "issuer": "betsandfunds",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/sandgrptoken/SAND.png",

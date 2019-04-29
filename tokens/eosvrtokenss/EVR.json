@@ -1,7 +1,7 @@
 {
   "name": "EVR",
   "symbol": "EVR",
-  "account": "eosvrtokenss",
+  "contract": "eosvrtokenss",
   "precision": 4,
   "issuer": "eosvrmanager",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosvrtokenss/EVR.png",

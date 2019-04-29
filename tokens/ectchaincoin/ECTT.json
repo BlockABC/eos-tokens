@@ -1,7 +1,7 @@
 {
   "name": "ECTT",
   "symbol": "ECTT",
-  "account": "ectchaincoin",
+  "contract": "ectchaincoin",
   "precision": 4,
   "issuer": "ectchaincoin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ectchaincoin/ECTT.png",

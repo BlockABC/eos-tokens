@@ -1,7 +1,7 @@
 {
   "name": "GBT",
   "symbol": "GBT",
-  "account": "gamebettoken",
+  "contract": "gamebettoken",
   "precision": 4,
   "issuer": "gamebettoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/gamebettoken/GBT.png",

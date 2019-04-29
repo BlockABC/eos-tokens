@@ -1,7 +1,7 @@
 {
   "name": "EWGT",
   "symbol": "EWGT",
-  "account": "eworldtoken1",
+  "contract": "eworldtoken1",
   "issuer": "eworldtoken1",
   "precision": 4,
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eworldtoken1/EWGT.png",

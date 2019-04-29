@@ -1,7 +1,7 @@
 {
   "name": "DEOS",
   "symbol": "DEOS",
-  "account": "thedeosgames",
+  "contract": "thedeosgames",
   "precision": 4,
   "issuer": "deosgameissu",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/thedeosgames/DEOS.png",

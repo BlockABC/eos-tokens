@@ -1,7 +1,7 @@
 {
   "name": "LED",
   "symbol": "LED",
-  "account": "okkkkkkkkkkk",
+  "contract": "okkkkkkkkkkk",
   "precision": 6,
   "issuer": "okkkkkkkkkkk",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/okkkkkkkkkkk/LED.jpg",

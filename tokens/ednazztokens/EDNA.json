@@ -1,7 +1,7 @@
 {
   "name": "EDNA",
   "symbol": "EDNA",
-  "account": "ednazztokens",
+  "contract": "ednazztokens",
   "precision": 4,
   "issuer": "ednazztokens",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ednazztokens/EDNA.png",

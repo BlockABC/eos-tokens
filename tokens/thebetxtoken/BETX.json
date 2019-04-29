@@ -1,7 +1,7 @@
 {
   "name": "BETX",
   "symbol": "BETX",
-  "account": "thebetxtoken",
+  "contract": "thebetxtoken",
   "precision": 4,
   "issuer": "thebetxtoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/thebetxtoken/BETX.png",

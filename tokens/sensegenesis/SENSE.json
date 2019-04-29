@@ -1,7 +1,7 @@
 {
   "name": "SENSE",
   "symbol": "SENSE",
-  "account": "sensegenesis",
+  "contract": "sensegenesis",
   "precision": 4,
   "issuer": "sensegenesis",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/sensegenesis/SENSE.png",

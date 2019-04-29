@@ -1,7 +1,7 @@
 {
   "name": "LNT",
   "symbol": "LNT",
-  "account": "lucknumtoken",
+  "contract": "lucknumtoken",
   "precision": 4,
   "issuer": "lucknumtoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/lucknumtoken/LNT.png",

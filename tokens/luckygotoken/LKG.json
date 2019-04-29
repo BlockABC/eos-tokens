@@ -1,7 +1,7 @@
 {
   "name": "LKG",
   "symbol": "LKG",
-  "account": "luckygotoken",
+  "contract": "luckygotoken",
   "precision": 4,
   "issuer": "luckygotoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/luckygotoken/LKG.png",

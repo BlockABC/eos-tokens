@@ -1,7 +1,7 @@
 {
   "name": "DOLLAR",
   "symbol": "DOLLAR",
-  "account": "supstartoken",
+  "contract": "supstartoken",
   "precision": 4,
   "issuer": "supstartoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/supstartoken/DOLLAR.png",

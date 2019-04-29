@@ -1,7 +1,7 @@
 {
   "name": "BRM",
   "symbol": "BRM",
-  "account": "openbrmeos11",
+  "contract": "openbrmeos11",
   "precision": 3,
   "issuer": "openbrmeos11",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/openbrmeos11/BRM.png",

@@ -1,7 +1,7 @@
 {
   "name": "AGT",
   "symbol": "AGT",
-  "account": "jychjych1234",
+  "contract": "jychjych1234",
   "precision": 4,
   "issuer": "jychjych1234",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/jychjych1234/AGT.png",

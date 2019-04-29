@@ -1,7 +1,7 @@
 {
   "name": "WRK",
   "symbol": "WRK",
-  "account": "worktokenbvi",
+  "contract": "worktokenbvi",
   "precision": 4,
   "issuer": "worktokenbvi",
   "logo": "https://firebasestorage.googleapis.com/v0/b/eos-lynx.appspot.com/o/token-contracts%2FworktokenbviWRK.png?alt=media&token=a2d170ed-9c0d-4640-9e4b-ba468cc44531",

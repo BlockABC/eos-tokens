@@ -1,7 +1,7 @@
 {
   "name": "LYNX",
   "symbol": "LYNX",
-  "account": "worktokenbvi",
+  "contract": "worktokenbvi",
   "precision": 4,
   "issuer": "worktokenbvi",
   "logo": "https://firebasestorage.googleapis.com/v0/b/eos-lynx.appspot.com/o/token-contracts%2FworktokenbviLYNX.png?alt=media&token=a64a0e05-8758-4bcb-bb60-a900daa22eb7",

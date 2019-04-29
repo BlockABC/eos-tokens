@@ -1,7 +1,7 @@
 {
   "name": "EGT",
   "symbol": "EGT",
-  "account": "eosiotokener",
+  "contract": "eosiotokener",
   "precision": 4,
   "issuer": "eosiotokener",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosiotokener/EGT.png",

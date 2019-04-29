@@ -1,7 +1,7 @@
 {
   "name": "SHAPE",
   "symbol": "SHAPE",
-  "account": "gmaslaunches",
+  "contract": "gmaslaunches",
   "precision": 4,
   "issuer": "gmaslaunches",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/gmaslaunches/SHAPE.png",

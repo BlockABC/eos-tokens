@@ -1,7 +1,7 @@
 {
   "name": "EOSNTS",
   "symbol": "EOSNTS",
-  "account": "eosninetiess",
+  "contract": "eosninetiess",
   "precision": 4,
   "issuer": "eosninetiess",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosninetiess/EOSNTS.png",

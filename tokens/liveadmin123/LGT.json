@@ -1,7 +1,7 @@
 {
   "name": "LGT",
   "symbol": "LGT",
-  "account": "liveadmin123",
+  "contract": "liveadmin123",
   "issuer": "liveadmin123",
   "precision": 4,
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/liveadmin123/LGT.png",

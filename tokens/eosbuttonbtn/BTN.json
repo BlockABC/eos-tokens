@@ -1,7 +1,7 @@
 {
   "name": "BTN",
   "symbol": "BTN",
-  "account": "eosbuttonbtn",
+  "contract": "eosbuttonbtn",
   "precision": 4,
   "issuer": "eosbuttonbtn",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosbuttonbtn/BTN.png",

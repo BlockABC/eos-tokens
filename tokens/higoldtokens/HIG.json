@@ -1,7 +1,7 @@
 {
   "name": "HiGold",
   "symbol": "HIG",
-  "account": "higoldtokens",
+  "contract": "higoldtokens",
   "precision": 4,
   "issuer": "higoldissuer",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/higoldtokens/HIG.png",

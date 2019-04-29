@@ -1,7 +1,7 @@
 {
   "name": "BOID",
   "symbol": "BOID",
-  "account": "boidcomtoken",
+  "contract": "boidcomtoken",
   "precision": 4,
   "issuer": "boidcomtoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/boidcomtoken/BOID.png",

@@ -1,7 +1,7 @@
 {
   "name": "NDX",
   "symbol": "NDX",
-  "account": "newdexissuer",
+  "contract": "newdexissuer",
   "precision": 4,
   "issuer": "newdexissuer",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/newdexissuer/NDX.png",

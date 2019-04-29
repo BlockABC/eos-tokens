@@ -1,7 +1,7 @@
 {
   "name": "IPOS",
   "symbol": "IPOS",
-  "account": "oo1122334455",
+  "contract": "oo1122334455",
   "precision": 4,
   "issuer": "oo1122334455",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/oo1122334455/IPOS.png",

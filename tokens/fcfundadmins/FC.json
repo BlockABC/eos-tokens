@@ -1,7 +1,7 @@
 {
   "name": "FC",
   "symbol": "FC",
-  "account": "fcfundadmins",
+  "contract": "fcfundadmins",
   "precision": 4,
   "issuer": "fcfundissuer",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/fcfundadmins/FC.png",

@@ -1,7 +1,7 @@
 {
   "name": "EOSLAND RARE ORE",
   "symbol": "ERO",
-  "account": "eoslandadmin",
+  "contract": "eoslandadmin",
   "precision": 4,
   "issuer": "eoslandadmin",
   "logo": "http://neoworldres.com/tokens/ERO.png",

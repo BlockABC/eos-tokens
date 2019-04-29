@@ -1,7 +1,7 @@
 {
   "name": "PGL",
   "symbol": "PGL",
-  "account": "prospectorsg",
+  "contract": "prospectorsg",
   "precision": 4,
   "issuer": "prospectorsg",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/prospectorsg/PGL.png",

@@ -1,7 +1,7 @@
 {
   "name": "GT",
   "symbol": "GT",
-  "account": "eosgetgtoken",
+  "contract": "eosgetgtoken",
   "precision": 4,
   "issuer": "eosgetadmin1",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosgetgtoken/GT.png",

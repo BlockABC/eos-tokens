@@ -1,7 +1,7 @@
 {
   "name": "MANGO",
   "symbol": "MANGO",
-  "account": "mangotokenll",
+  "contract": "mangotokenll",
   "precision": 4,
   "issuer": "mangotokenll",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/mangotokenll/MANGO.png",

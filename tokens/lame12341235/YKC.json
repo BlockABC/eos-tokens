@@ -1,7 +1,7 @@
 {
   "name": "YKC",
   "symbol": "YKC",
-  "account": "lame12341235",
+  "contract": "lame12341235",
   "issuer": "lame12341235",
   "precision": 4,
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/lame12341235/YKC.png",

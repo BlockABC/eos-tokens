@@ -1,7 +1,7 @@
 {
   "name": "MUGL",
   "symbol": "MUGL",
-  "account": "mugglesspell",
+  "contract": "mugglesspell",
   "precision": 4,
   "issuer": "mugglesspell",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/mugglesspell/MUGL.png",

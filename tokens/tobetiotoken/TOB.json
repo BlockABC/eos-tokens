@@ -1,7 +1,7 @@
 {
   "name": "TOB",
   "symbol": "TOB",
-  "account": "tobetiotoken",
+  "contract": "tobetiotoken",
   "precision": 4,
   "issuer": "tobetiotoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/tobetiotoken/TOB.png",

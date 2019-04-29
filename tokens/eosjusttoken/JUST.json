@@ -1,7 +1,7 @@
 {
   "name": "JUST",
   "symbol": "JUST",
-  "account": "eosjusttoken",
+  "contract": "eosjusttoken",
   "precision": 4,
   "issuer": "eosjusttoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosjusttoken/JUST.png",

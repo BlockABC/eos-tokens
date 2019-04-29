@@ -1,7 +1,7 @@
 {
   "name": "PLO",
   "symbol": "PLO",
-  "account": "ploutoztoken",
+  "contract": "ploutoztoken",
   "issuer": "ploutoztoken",
   "precision": 4,
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ploutoztoken/PLO.png",

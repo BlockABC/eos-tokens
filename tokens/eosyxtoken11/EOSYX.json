@@ -1,7 +1,7 @@
 {
   "name": "EOSYX",
   "symbol": "EOSYX",
-  "account": "eosyxtoken11",
+  "contract": "eosyxtoken11",
   "precision": 4,
   "issuer": "eosyxtoken11",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosyxtoken11/EOSYX.png",

@@ -1,7 +1,7 @@
 {
   "name": "BEST",
   "symbol": "BEST",
-  "account": "eosgamecoin2",
+  "contract": "eosgamecoin2",
   "precision": 4,
   "issuer": "eosgamecoin2",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosgamecoin2/BEST.png",

@@ -1,7 +1,7 @@
 {
   "name": "EETH",
   "symbol": "EETH",
-  "account": "bitpietokens",
+  "contract": "bitpietokens",
   "precision": 8,
   "issuer": "bitpiefundsa",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/bitpietokens/EETH.png",

@@ -1,7 +1,7 @@
 {
   "name": "SLIEMT",
   "symbol": "SLIEMT",
-  "account": "fastwinitemf",
+  "contract": "fastwinitemf",
   "precision": 0,
   "issuer": "fastwinadmin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/fastwinitemf/SLIEMT.png",

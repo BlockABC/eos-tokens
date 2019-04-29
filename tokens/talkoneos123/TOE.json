@@ -1,7 +1,7 @@
 {
   "name": "TOE",
   "symbol": "TOE",
-  "account": "talkoneos123",
+  "contract": "talkoneos123",
   "precision": 4,
   "issuer": "talkoneos123",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/talkoneos123/TOE.png",

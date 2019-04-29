@@ -1,7 +1,7 @@
 {
   "name": "SEED",
   "symbol": "SEED",
-  "account": "parslseed123",
+  "contract": "parslseed123",
   "precision": 4,
   "issuer": "parslseed123",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/parslseed123/SEED.png",

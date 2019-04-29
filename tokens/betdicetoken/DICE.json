@@ -1,7 +1,7 @@
 {
   "name": "DICE",
   "symbol": "DICE",
-  "account": "betdicetoken",
+  "contract": "betdicetoken",
   "precision": 4,
   "issuer": "betdicetoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/betdicetoken/DICE.png",

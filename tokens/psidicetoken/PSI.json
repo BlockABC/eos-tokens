@@ -1,7 +1,7 @@
 {
   "name": "PSI",
   "symbol": "PSI",
-  "account": "psidicetoken",
+  "contract": "psidicetoken",
   "precision": 4,
   "issuer": "psidicetoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/psidicetoken/PSI.png",

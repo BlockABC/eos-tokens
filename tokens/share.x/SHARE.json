@@ -1,7 +1,7 @@
 {
   "name": "SHARE",
   "symbol": "SHARE",
-  "account": "share.x",
+  "contract": "share.x",
   "precision": 4,
   "issuer": "share.x",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/share.x/SHARE.png",

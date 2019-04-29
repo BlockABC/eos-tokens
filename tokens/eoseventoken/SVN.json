@@ -1,7 +1,7 @@
 {
   "name": "SVN",
   "symbol": "SVN",
-  "account": "eoseventoken",
+  "contract": "eoseventoken",
   "precision": 4,
   "issuer": "eoseventoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoseventoken/SVN.png",

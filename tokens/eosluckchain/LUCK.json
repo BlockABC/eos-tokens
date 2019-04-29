@@ -1,7 +1,7 @@
 {
   "name": "LUCK",
   "symbol": "LUCK",
-  "account": "eosluckchain",
+  "contract": "eosluckchain",
   "precision": 4,
   "issuer": "eosluckchain",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosluckchain/LUCK.png",

@@ -1,7 +1,7 @@
 {
   "name": "NUTS",
   "symbol": "NUTS",
-  "account": "nutscontract",
+  "contract": "nutscontract",
   "precision": 4,
   "issuer": "nutscontract",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/nutscontract/NUTS.png",

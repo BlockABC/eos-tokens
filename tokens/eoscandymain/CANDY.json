@@ -1,7 +1,7 @@
 {
   "name": "CANDY",
   "symbol": "CANDY",
-  "account": "eoscandymain",
+  "contract": "eoscandymain",
   "precision": 4,
   "issuer": "eoscandywins",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoscandymain/CANDY.png",

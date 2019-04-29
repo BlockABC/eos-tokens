@@ -1,7 +1,7 @@
 {
   "name": "CITY",
   "symbol": "CITY",
-  "account": "funcitytoken",
+  "contract": "funcitytoken",
   "precision": 4,
   "issuer": "funcitytoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/funcitytoken/CITY.png",

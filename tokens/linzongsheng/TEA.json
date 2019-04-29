@@ -1,7 +1,7 @@
 {
   "name": "TEA",
   "symbol": "TEA",
-  "account": "linzongsheng",
+  "contract": "linzongsheng",
   "precision": 4,
   "issuer": "linzongsheng",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/linzongsheng/TEA.png",

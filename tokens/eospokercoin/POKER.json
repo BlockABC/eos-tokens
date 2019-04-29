@@ -1,7 +1,7 @@
 {
   "name": "POKER",
   "symbol": "POKER",
-  "account": "eospokercoin",
+  "contract": "eospokercoin",
   "precision": 4,
   "issuer": "eospokercoin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eospokercoin/POKER.png",

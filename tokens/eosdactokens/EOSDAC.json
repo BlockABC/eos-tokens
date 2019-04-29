@@ -1,7 +1,7 @@
 {
   "name": "EOSDAC",
   "symbol": "EOSDAC",
-  "account": "eosdactokens",
+  "contract": "eosdactokens",
   "precision": 4,
   "issuer": "eosdactokens",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosdactokens/EOSDAC.png",

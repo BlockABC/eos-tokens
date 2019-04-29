@@ -1,7 +1,7 @@
 {
   "name": "TKC",
   "symbol": "TKC",
-  "account": "tkcointkcoin",
+  "contract": "tkcointkcoin",
   "precision": 4,
   "issuer": "tkcointkcoin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/tkcointkcoin/TKC.png",

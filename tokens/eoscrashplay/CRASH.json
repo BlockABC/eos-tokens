@@ -1,7 +1,7 @@
 {
   "name": "CRASH",
   "symbol": "CRASH",
-  "account": "eoscrashplay",
+  "contract": "eoscrashplay",
   "precision": 4,
   "issuer": "eoscrashplay",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoscrashplay/CRASH.png",

@@ -1,7 +1,7 @@
 {
   "name": "OBT",
   "symbol": "OBT",
-  "account": "obtain.e",
+  "contract": "obtain.e",
   "precision": 4,
   "issuer": "obtain.e",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/obtain.e/OBT.png",

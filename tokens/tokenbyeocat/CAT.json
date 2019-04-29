@@ -1,7 +1,7 @@
 {
   "name": "CAT",
   "symbol": "CAT",
-  "account": "tokenbyeocat",
+  "contract": "tokenbyeocat",
   "precision": 4,
   "issuer": "tokenbyeocat",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/tokenbyeocat/CAT.png",

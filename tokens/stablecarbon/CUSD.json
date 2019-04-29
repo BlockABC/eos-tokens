@@ -1,7 +1,7 @@
 {
   "name": "CUSD",
   "symbol": "CUSD",
-  "account": "stablecarbon",
+  "contract": "stablecarbon",
   "precision": 2,
   "issuer": "carbonissuer",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/stablecarbon/CUSD.png",

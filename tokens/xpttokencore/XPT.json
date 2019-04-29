@@ -1,7 +1,7 @@
 {
   "name": "XPT",
   "symbol": "XPT",
-  "account": "xpttokencore",
+  "contract": "xpttokencore",
   "issuer": "xpttokencore",
   "precision": 4,
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/xpttokencore/XPT.png",

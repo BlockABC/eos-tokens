@@ -1,7 +1,7 @@
 {
   "name": "CTN",
   "symbol": "CTN",
-  "account": "dacincubator",
+  "contract": "dacincubator",
   "precision": 4,
   "issuer": "dacincubator",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/dacincubator/CTN.png",

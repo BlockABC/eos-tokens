@@ -1,7 +1,7 @@
 {
   "name": "RAN",
   "symbol": "RAN",
-  "account": "eosrandtoken",
+  "contract": "eosrandtoken",
   "precision": 4,
   "issuer": "eosrandtoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosrandtoken/RAN.png",

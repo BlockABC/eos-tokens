@@ -1,7 +1,7 @@
 {
   "name": "WIN",
   "symbol": "WIN",
-  "account": "windividends",
+  "contract": "windividends",
   "precision": 4,
   "issuer": "eos2wingames",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/windividends/WIN.png",

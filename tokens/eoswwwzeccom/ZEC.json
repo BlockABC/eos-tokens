@@ -1,7 +1,7 @@
 {
   "name": "ZEC",
   "symbol": "ZEC",
-  "account": "eoswwwzeccom",
+  "contract": "eoswwwzeccom",
   "precision": 4,
   "issuer": "eoswwwzeccom",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoswwwzeccom/ZEC.png",

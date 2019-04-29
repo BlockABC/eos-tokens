@@ -1,7 +1,7 @@
 {
   "name": "EPRA",
   "symbol": "EPRA",
-  "account": "epraofficial",
+  "contract": "epraofficial",
   "precision": 4,
   "issuer": "epraofficial",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/epraofficial/EPRA.png",

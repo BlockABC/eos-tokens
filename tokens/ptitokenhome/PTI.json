@@ -1,7 +1,7 @@
 {
   "name": "PTI",
   "symbol": "PTI",
-  "account": "ptitokenhome",
+  "contract": "ptitokenhome",
   "precision": 4,
   "issuer": "ptitokenhome",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ptitokenhome/PTI.png",

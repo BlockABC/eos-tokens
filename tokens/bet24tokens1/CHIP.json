@@ -1,7 +1,7 @@
 {
   "name": "CHIP",
   "symbol": "CHIP",
-  "account": "bet24tokens1",
+  "contract": "bet24tokens1",
   "precision": 4,
   "issuer": "bet24tokens1",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/bet24tokens1/CHIP.png",

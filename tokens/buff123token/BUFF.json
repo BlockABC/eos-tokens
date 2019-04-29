@@ -1,7 +1,7 @@
 {
   "name": "BUFF",
   "symbol": "BUFF",
-  "account": "buff123token",
+  "contract": "buff123token",
   "precision": 4,
   "issuer": "buff123token",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/buff123token/BUFF.png",

@@ -1,7 +1,7 @@
 {
   "name": "BOX",
   "symbol": "BOX",
-  "account": "boxgametoken",
+  "contract": "boxgametoken",
   "precision": 4,
   "issuer": "boxgametoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/boxgametoken/BOX.png",

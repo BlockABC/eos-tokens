@@ -1,7 +1,7 @@
 {
   "name": "BLACK",
   "symbol": "BLACK",
-  "account": "eosblackteam",
+  "contract": "eosblackteam",
   "precision": 4,
   "issuer": "eosblackteam",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosblackteam/BLACK.png",

@@ -1,7 +1,7 @@
 {
   "name": "FUN",
   "symbol": "FUN",
-  "account": "eosfuntoken1",
+  "contract": "eosfuntoken1",
   "precision": 4,
   "issuer": "eosfuntoken1",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosfuntoken1/FUN.png",

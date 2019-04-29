@@ -1,7 +1,7 @@
 {
   "name": "WAL",
   "symbol": "WAL",
-  "account": "whaleextoken",
+  "contract": "whaleextoken",
   "precision": 3,
   "issuer": "whaleextoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/whaleextoken/WAL.png",

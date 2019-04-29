@@ -1,7 +1,7 @@
 {
   "name": "ET",
   "symbol": "ET",
-  "account": "endlesstoken",
+  "contract": "endlesstoken",
   "precision": 4,
   "issuer": "endlesstoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/endlesstoken/ET.png",

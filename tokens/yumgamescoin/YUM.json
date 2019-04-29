@@ -1,7 +1,7 @@
 {
   "name": "YUM",
   "symbol": "YUM",
-  "account": "yumgamescoin",
+  "contract": "yumgamescoin",
   "precision": 4,
   "issuer": "yumgamescoin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/yumgamescoin/YUM.png",

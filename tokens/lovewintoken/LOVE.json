@@ -1,7 +1,7 @@
 {
   "name": "LOVE",
   "symbol": "LOVE",
-  "account": "lovewintoken",
+  "contract": "lovewintoken",
   "precision": 4,
   "issuer": "lovewintoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/lovewintoken/LOVE.png",

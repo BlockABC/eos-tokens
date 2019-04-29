@@ -1,7 +1,7 @@
 {
   "name": "TOP",
   "symbol": "TOP",
-  "account": "topdapptoken",
+  "contract": "topdapptoken",
   "precision": 4,
   "issuer": "toppaigow123",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/topdapptoken/TOP.png",

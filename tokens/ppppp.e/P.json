@@ -1,7 +1,7 @@
 {
   "name": "P",
   "symbol": "P",
-  "account": "ppppp.e",
+  "contract": "ppppp.e",
   "precision": 4,
   "issuer": "ppppp.e",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ppppp.e/P.png",

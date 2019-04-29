@@ -1,7 +1,7 @@
 {
   "name": "LEXIBIT",
   "symbol": "LEXIBIT",
-  "account": "mywhaletoken",
+  "contract": "mywhaletoken",
   "issuer": "chuckyfucky1",
   "precision": 2,
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/mywhaletoken/LEXIBIT.png",

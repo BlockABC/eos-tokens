@@ -1,7 +1,7 @@
 {
   "name": "FORTUNE",
   "symbol": "FORTUNE",
-  "account": "roulette4tok",
+  "contract": "roulette4tok",
   "precision": 4,
   "issuer": "roulette4tok",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/roulette4tok/FORTUNE.png",

@@ -1,7 +1,7 @@
 {
   "name": "YOU",
   "symbol": "YOU",
-  "account": "youbaoyoubao",
+  "contract": "youbaoyoubao",
   "precision": 4,
   "issuer": "youbaoyoubao",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/youbaoyoubao/YOU.png",

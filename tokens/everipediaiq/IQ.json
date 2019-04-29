@@ -1,7 +1,7 @@
 {
   "name": "IQ",
   "symbol": "IQ",
-  "account": "everipediaiq",
+  "contract": "everipediaiq",
   "precision": 3,
   "issuer": "everipediaiq",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/everipediaiq/IQ.png",

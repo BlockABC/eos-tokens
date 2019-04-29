@@ -1,7 +1,7 @@
 {
   "name": "STAR",
   "symbol": "STAR",
-  "account": "fastwinitems",
+  "contract": "fastwinitems",
   "precision": 0,
   "issuer": "fastwingifts",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/fastwinitems/STAR.png",

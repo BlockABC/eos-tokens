@@ -1,7 +1,7 @@
 {
   "name": "FISH",
   "symbol": "FISH",
-  "account": "fishjoytoken",
+  "contract": "fishjoytoken",
   "precision": 4,
   "issuer": "fishjoyadmin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/fishjoytoken/FISH.png",

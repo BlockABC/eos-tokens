@@ -1,7 +1,7 @@
 {
   "name": "XBX",
   "symbol": "XBX",
-  "account": "xbxtokencore",
+  "contract": "xbxtokencore",
   "precision": 4,
   "issuer": "xbxtokencore",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/xbxtokencore/XBX.png",

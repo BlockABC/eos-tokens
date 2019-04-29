@@ -1,7 +1,7 @@
 {
   "name": "HORUS",
   "symbol": "HORUS",
-  "account": "horustokenio",
+  "contract": "horustokenio",
   "precision": 4,
   "issuer": "horustokenio",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/horustokenio/HORUS.png",

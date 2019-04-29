@@ -1,7 +1,7 @@
 {
   "name": "PKE",
   "symbol": "PKE",
-  "account": "pokereotoken",
+  "contract": "pokereotoken",
   "precision": 4,
   "issuer": "pokereotoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/pokereotoken/PKE.png",

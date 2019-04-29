@@ -1,7 +1,7 @@
 {
   "name": "FOS",
   "symbol": "FOS",
-  "account": "farmeosbankx",
+  "contract": "farmeosbankx",
   "precision": 4,
   "issuer": "farmeosbankx",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/farmeosbankx/FOS.png",

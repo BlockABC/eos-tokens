@@ -1,7 +1,7 @@
 {
   "name": "ATD",
   "symbol": "ATD",
-  "account": "eosatidiumio",
+  "contract": "eosatidiumio",
   "precision": 4,
   "issuer": "eosatidiumio",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosatidiumio/ATD.png",

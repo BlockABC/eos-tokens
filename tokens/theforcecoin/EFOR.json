@@ -1,7 +1,7 @@
 {
   "name": "EFOR",
   "symbol": "EFOR",
-  "account": "theforcecoin",
+  "contract": "theforcecoin",
   "precision": 4,
   "issuer": "theforcecoin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/theforcecoin/EFOR.png",

@@ -1,7 +1,7 @@
 {
   "name": "NFT",
   "symbol": "NFT",
-  "account": "fight22death",
+  "contract": "fight22death",
   "precision": 4,
   "issuer": "fight22death",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/fight22death/NFT.png",

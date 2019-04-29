@@ -1,7 +1,7 @@
 {
   "name": "LZB",
   "symbol": "LZB",
-  "account": "gqydooigenes",
+  "contract": "gqydooigenes",
   "precision": 4,
   "issuer": "gqydooigenes",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/gqydooigenes/LZB.png",

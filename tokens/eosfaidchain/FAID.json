@@ -1,7 +1,7 @@
 {
   "name": "FAID",
   "symbol": "FAID",
-  "account": "eosfaidchain",
+  "contract": "eosfaidchain",
   "precision": 4,
   "issuer": "eosfaidchain",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosfaidchain/FAID.png",

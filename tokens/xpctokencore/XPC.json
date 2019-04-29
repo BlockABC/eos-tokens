@@ -1,7 +1,7 @@
 {
   "name": "XPC",
   "symbol": "XPC",
-  "account": "xpctokencore",
+  "contract": "xpctokencore",
   "precision": 4,
   "issuer": "xpctokencore",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/xpctokencore/XPC.png",

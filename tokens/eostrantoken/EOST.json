@@ -1,7 +1,7 @@
 {
   "name": "EOST",
   "symbol": "EOST",
-  "account": "eostrantoken",
+  "contract": "eostrantoken",
   "precision": 8,
   "issuer": "eostrantoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eostrantoken/EOST.png",

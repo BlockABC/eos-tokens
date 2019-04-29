@@ -1,7 +1,7 @@
 {
   "name": "PXS",
   "symbol": "PXS",
-  "account": "pxstokensapp",
+  "contract": "pxstokensapp",
   "precision": 4,
   "issuer": "pxstokensapp",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/pxstokensapp/PXS.png",

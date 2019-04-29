@@ -1,7 +1,7 @@
 {
   "name": "MIR",
   "symbol": "MIR",
-  "account": "mirchainteam",
+  "contract": "mirchainteam",
   "precision": 4,
   "issuer": "mirchainteam",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/mirchainteam/MIR.png",

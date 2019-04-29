@@ -1,7 +1,7 @@
 {
   "name": "GHT",
   "symbol": "GHT",
-  "account": "gamershypeca",
+  "contract": "gamershypeca",
   "precision": 4,
   "issuer": "gamershypeca",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/gamershypeca/GHT.png",

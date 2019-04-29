@@ -1,7 +1,7 @@
 {
   "name": "UCTT",
   "symbol": "UCTT",
-  "account": "uctokenowner",
+  "contract": "uctokenowner",
   "precision": 4,
   "issuer": "uctokenowner",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/uctokenowner/UCTT.png",

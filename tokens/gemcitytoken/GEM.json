@@ -1,7 +1,7 @@
 {
   "name": "GEM",
   "symbol": "GEM",
-  "account": "gemcitytoken",
+  "contract": "gemcitytoken",
   "precision": 4,
   "issuer": "gemcitytoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/gemcitytoken/GEM.png",

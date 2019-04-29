@@ -1,7 +1,7 @@
 {
   "name": "MEV",
   "symbol": "MEV",
-  "account": "eosvegascoin",
+  "contract": "eosvegascoin",
   "precision": 4,
   "issuer": "eosvegascoin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosvegascoin/MEV.png",

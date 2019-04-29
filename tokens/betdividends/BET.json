@@ -1,7 +1,7 @@
 {
   "name": "BET",
   "symbol": "BET",
-  "account": "betdividends",
+  "contract": "betdividends",
   "precision": 4,
   "issuer": "eosbetcasino",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/betdividends/BET.png",

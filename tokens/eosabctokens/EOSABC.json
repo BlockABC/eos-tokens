@@ -1,7 +1,7 @@
 {
   "name": "EOSABC",
   "symbol": "EOSABC",
-  "account": "eosabctokens",
+  "contract": "eosabctokens",
   "precision": 4,
   "issuer": "eosabctokens",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosabctokens/EOSABC.png",

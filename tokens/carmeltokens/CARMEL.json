@@ -1,7 +1,7 @@
 {
   "name": "CARMEL",
   "symbol": "CARMEL",
-  "account": "carmeltokens",
+  "contract": "carmeltokens",
   "precision": 4,
   "issuer": "carmeltokens",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/carmeltokens/CARMEL.png",

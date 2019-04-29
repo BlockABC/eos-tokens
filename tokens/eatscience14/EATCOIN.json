@@ -1,7 +1,7 @@
 {
   "name": "EATCOIN",
   "symbol": "EATCOIN",
-  "account": "eatscience14",
+  "contract": "eatscience14",
   "precision": 4,
   "issuer": "eatscience14",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eatscience14/EATCOIN.png",

@@ -1,7 +1,7 @@
 {
   "name": "Aeron",
   "symbol": "ARN",
-  "account": "aeronaerozzz",
+  "contract": "aeronaerozzz",
   "precision": 8,
   "issuer": "aeronaerozzz",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/aeronaerozzz/ARN.png",

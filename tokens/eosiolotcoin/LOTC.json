@@ -1,7 +1,7 @@
 {
   "name": "LOTC",
   "symbol": "LOTC",
-  "account": "eosiolotcoin",
+  "contract": "eosiolotcoin",
   "precision": 4,
   "issuer": "eosiolotcoin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosiolotcoin/LOTC.png",

@@ -1,7 +1,7 @@
 {
   "name": "CET",
   "symbol": "CET",
-  "account": "eosiochaince",
+  "contract": "eosiochaince",
   "precision": 4,
   "issuer": "eosiochaince",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosiochaince/CET.png",

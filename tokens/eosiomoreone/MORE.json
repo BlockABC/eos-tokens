@@ -1,7 +1,7 @@
 {
   "name": "MORE",
   "symbol": "MORE",
-  "account": "eosiomoreone",
+  "contract": "eosiomoreone",
   "precision": 4,
   "issuer": "eosiomoreone",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosiomoreone/MORE.png",

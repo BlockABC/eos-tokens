@@ -1,7 +1,7 @@
 {
   "name": "ESB",
   "symbol": "ESB",
-  "account": "esbcointoken",
+  "contract": "esbcointoken",
   "precision": 4,
   "issuer": "esbcointoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/esbcointoken/ESB.png",

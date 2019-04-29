@@ -1,7 +1,7 @@
 {
   "name": "MAX",
   "symbol": "MAX",
-  "account": "eosmax1token",
+  "contract": "eosmax1token",
   "precision": 4,
   "issuer": "eosmax1token",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosmax1token/MAX.png",

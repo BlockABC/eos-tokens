@@ -1,7 +1,7 @@
 {
   "name": "EOS AUCTION",
   "symbol": "EAP",
-  "account": "eosauctionpt",
+  "contract": "eosauctionpt",
   "precision": 4,
   "issuer": "eosauctionpt",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosauctionpt/EAP.png",

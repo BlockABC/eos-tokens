@@ -1,7 +1,7 @@
 {
   "name": "DBET",
   "symbol": "DBET",
-  "account": "dbetminepool",
+  "contract": "dbetminepool",
   "precision": 4,
   "issuer": "....5zzuyqcvb",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/dbetminepool/DBET.png",

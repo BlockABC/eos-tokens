@@ -1,7 +1,7 @@
 {
   "name": "WINS",
   "symbol": "WINS",
-  "account": "eoswinonewww",
+  "contract": "eoswinonewww",
   "precision": 4,
   "issuer": "eoswinonewww",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoswinonewww/WINS.png",

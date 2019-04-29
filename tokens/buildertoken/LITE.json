@@ -1,7 +1,7 @@
 {
   "name": "LITE",
   "symbol": "LITE",
-  "account": "buildertoken",
+  "contract": "buildertoken",
   "precision": 4,
   "issuer": "eosliteworld",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/buildertoken/LITE.png",

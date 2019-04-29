@@ -1,7 +1,7 @@
 {
   "name": "BOCAI",
   "symbol": "BOCAI",
-  "account": "eosbocai1111",
+  "contract": "eosbocai1111",
   "precision": 4,
   "issuer": "bocai.game",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosbocai1111/BOCAI.png",

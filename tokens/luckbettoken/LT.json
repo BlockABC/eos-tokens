@@ -1,7 +1,7 @@
 {
   "name": "LT",
   "symbol": "LT",
-  "account": "luckbettoken",
+  "contract": "luckbettoken",
   "precision": 4,
   "issuer": "luckbetadmin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/luckbettoken/LT.png",

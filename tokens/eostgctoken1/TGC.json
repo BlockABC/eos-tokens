@@ -1,7 +1,7 @@
 {
   "name": "TGC",
   "symbol": "TGC",
-  "account": "eostgctoken1",
+  "contract": "eostgctoken1",
   "precision": 4,
   "issuer": "eostgctoken1",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eostgctoken1/TGC.png",

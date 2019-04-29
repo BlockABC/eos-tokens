@@ -1,7 +1,7 @@
 {
   "name": "POOR",
   "symbol": "POOR",
-  "account": "poormantoken",
+  "contract": "poormantoken",
   "precision": 4,
   "issuer": "poormantoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/poormantoken/POOR.png",

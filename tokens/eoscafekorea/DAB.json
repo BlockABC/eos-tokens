@@ -1,7 +1,7 @@
 {
   "name": "DAB",
   "symbol": "DAB",
-  "account": "eoscafekorea",
+  "contract": "eoscafekorea",
   "precision": 4,
   "issuer": "eoscafekorea",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoscafekorea/DAB.png",

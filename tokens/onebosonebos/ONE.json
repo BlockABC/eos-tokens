@@ -1,7 +1,7 @@
 {
   "name": "ONE",
   "symbol": "ONE",
-  "account": "onebosonebos",
+  "contract": "onebosonebos",
   "precision": 4,
   "issuer": "onebosonebos",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/onebosonebos/ONE.png",

@@ -1,7 +1,7 @@
 {
   "name": "ZION",
   "symbol": "ZION",
-  "account": "ziongameseos",
+  "contract": "ziongameseos",
   "precision": 4,
   "issuer": "ziongameseos",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ziongameseos/ZION.png",

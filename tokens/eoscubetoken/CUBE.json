@@ -1,7 +1,7 @@
 {
   "name": "CUBE",
   "symbol": "CUBE",
-  "account": "eoscubetoken",
+  "contract": "eoscubetoken",
   "precision": 4,
   "issuer": "eoscubeadmin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoscubetoken/CUBE.png",

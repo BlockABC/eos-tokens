@@ -1,7 +1,7 @@
 {
   "name": "SST",
   "symbol": "SST",
-  "account": "skillshareio",
+  "contract": "skillshareio",
   "precision": 4,
   "issuer": "skillshareio",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/skillshareio/SST.png",

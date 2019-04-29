@@ -1,7 +1,7 @@
 {
   "name": "ADD",
   "symbol": "ADD",
-  "account": "eosadddddddd",
+  "contract": "eosadddddddd",
   "precision": 4,
   "issuer": "eosadddddddd",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosadddddddd/ADD.png",

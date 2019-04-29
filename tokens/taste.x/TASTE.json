@@ -1,7 +1,7 @@
 {
   "name": "TASTE",
   "symbol": "TASTE",
-  "account": "taste.x",
+  "contract": "taste.x",
   "precision": 4,
   "issuer": "taste.x",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/taste.x/TASTE.png",

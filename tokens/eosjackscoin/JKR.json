@@ -1,7 +1,7 @@
 {
   "name": "JKR",
   "symbol": "JKR",
-  "account": "eosjackscoin",
+  "contract": "eosjackscoin",
   "precision": 4,
   "issuer": "eosjackscoin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosjackscoin/JKR.png",

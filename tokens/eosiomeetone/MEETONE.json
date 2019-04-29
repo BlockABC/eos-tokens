@@ -1,7 +1,7 @@
 {
   "name": "MEETONE",
   "symbol": "MEETONE",
-  "account": "eosiomeetone",
+  "contract": "eosiomeetone",
   "precision": 4,
   "issuer": "eosiomeetone",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosiomeetone/MEETONE.png",

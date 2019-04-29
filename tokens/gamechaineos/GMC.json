@@ -1,7 +1,7 @@
 {
   "name": "GMC",
   "symbol": "GMC",
-  "account": "gamechaineos",
+  "contract": "gamechaineos",
   "precision": 4,
   "issuer": "gamechaineos",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/gamechaineos/GMC.png",

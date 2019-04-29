@@ -1,7 +1,7 @@
 {
   "name": "HVT",
   "symbol": "HVT",
-  "account": "hirevibeshvt",
+  "contract": "hirevibeshvt",
   "precision": 4,
   "issuer": "hirevibeshvt",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/hirevibeshvt/HVT.png",

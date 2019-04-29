@@ -1,7 +1,7 @@
 {
   "name": "ANGE",
   "symbol": "ANGE",
-  "account": "angelcitytok",
+  "contract": "angelcitytok",
   "precision": 4,
   "issuer": "angelcitytok",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/angelcitytok/ANGE.png",

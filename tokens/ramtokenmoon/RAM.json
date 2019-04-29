@@ -1,7 +1,7 @@
 {
   "name": "RAM",
   "symbol": "RAM",
-  "account": "ramtokenmoon",
+  "contract": "ramtokenmoon",
   "precision": 0,
   "issuer": "ramtokendapp",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ramtokenmoon/RAM.png",

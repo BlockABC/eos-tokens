@@ -1,7 +1,7 @@
 {
   "name": "PEOS",
   "symbol": "PEOS",
-  "account": "thepeostoken",
+  "contract": "thepeostoken",
   "precision": 4,
   "issuer": "thepeostoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/thepeostoken/PEOS.png",

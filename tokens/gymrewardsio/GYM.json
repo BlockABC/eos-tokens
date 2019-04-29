@@ -1,7 +1,7 @@
 {
   "name": "GYM",
   "symbol": "GYM",
-  "account": "gymrewardsio",
+  "contract": "gymrewardsio",
   "precision": 4,
   "issuer": "gymrewardsio",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/gymrewardsio/GYM.png",

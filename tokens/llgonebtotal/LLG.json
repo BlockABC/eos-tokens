@@ -1,7 +1,7 @@
 {
   "name": "LLG",
   "symbol": "LLG",
-  "account": "llgonebtotal",
+  "contract": "llgonebtotal",
   "precision": 4,
   "issuer": "llgonebtotal",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/llgonebtotal/LLG.png",

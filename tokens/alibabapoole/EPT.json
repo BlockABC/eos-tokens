@@ -1,7 +1,7 @@
 {
   "name": "EPT",
   "symbol": "EPT",
-  "account": "alibabapoole",
+  "contract": "alibabapoole",
   "precision": 4,
   "issuer": "alibabapoole",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/alibabapoole/EPT.png",

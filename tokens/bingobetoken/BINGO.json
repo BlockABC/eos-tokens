@@ -1,7 +1,7 @@
 {
   "name": "BINGO",
   "symbol": "BINGO",
-  "account": "bingobetoken",
+  "contract": "bingobetoken",
   "precision": 4,
   "issuer": "bingobetoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/bingobetoken/BINGO.png",

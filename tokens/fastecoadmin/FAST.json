@@ -1,7 +1,7 @@
 {
   "name": "FAST",
   "symbol": "FAST",
-  "account": "fastecoadmin",
+  "contract": "fastecoadmin",
   "precision": 4,
   "issuer": "fastecoadmin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/fastecoadmin/FAST.png",

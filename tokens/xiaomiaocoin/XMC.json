@@ -1,7 +1,7 @@
 {
   "name": "XMC",
   "symbol": "XMC",
-  "account": "xiaomiaocoin",
+  "contract": "xiaomiaocoin",
   "precision": 4,
   "issuer": "xiaomiaocoin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/xiaomiaocoin/XMC.png",

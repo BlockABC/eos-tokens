@@ -1,7 +1,7 @@
 {
   "name": "LIGHT",
   "symbol": "LIGHT",
-  "account": "coinscentral",
+  "contract": "coinscentral",
   "precision": 4,
   "issuer": "coinscentral",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/coinscentral/LIGHT.png",

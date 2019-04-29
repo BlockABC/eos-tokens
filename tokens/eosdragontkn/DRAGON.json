@@ -1,7 +1,7 @@
 {
   "name": "Dragon Option",
   "symbol": "DRAGON",
-  "account": "eosdragontkn",
+  "contract": "eosdragontkn",
   "precision": 4,
   "issuer": "eosdragontkn",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosdragontkn/DRAGON.png",

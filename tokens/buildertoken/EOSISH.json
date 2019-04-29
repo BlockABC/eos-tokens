@@ -1,7 +1,7 @@
 {
   "name": "EOSISH",
   "symbol": "EOSISH",
-  "account": "buildertoken",
+  "contract": "buildertoken",
   "precision": 4,
   "issuer": "vladimirwish",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/buildertoken/EOSISH.png",

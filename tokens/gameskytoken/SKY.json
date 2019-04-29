@@ -1,7 +1,7 @@
 {
   "name": "SKY",
   "symbol": "SKY",
-  "account": "gameskytoken",
+  "contract": "gameskytoken",
   "precision": 4,
   "issuer": "gameskytoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/gameskytoken/SKY.png",

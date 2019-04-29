@@ -1,7 +1,7 @@
 {
   "name": "TWERK",
   "symbol": "TWERK",
-  "account": "twerkeoscoin",
+  "contract": "twerkeoscoin",
   "precision": 4,
   "issuer": "twerkeoscoin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/twerkeoscoin/TWERK.png",

@@ -1,7 +1,7 @@
 {
   "name": "HOT",
   "symbol": "HOT",
-  "account": "hotbetstoken",
+  "contract": "hotbetstoken",
   "precision": 4,
   "issuer": "hotbetsadmin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/hotbetstoken/HOT.png",

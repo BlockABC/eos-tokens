@@ -1,7 +1,7 @@
 {
   "name": "BEAN",
   "symbol": "BEAN",
-  "account": "thebeantoken",
+  "contract": "thebeantoken",
   "precision": 4,
   "issuer": "thebeantoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/thebeantoken/BEAN.png",

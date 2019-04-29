@@ -1,7 +1,7 @@
 {
   "name": "ZKS",
   "symbol": "ZKS",
-  "account": "zkstokensr4u",
+  "contract": "zkstokensr4u",
   "precision": 0,
   "issuer": "zkstokensr4u",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/zkstokensr4u/ZKS.png",

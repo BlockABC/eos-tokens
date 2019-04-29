@@ -1,7 +1,7 @@
 {
   "name": "ENB",
   "symbol": "ENB",
-  "account": "eosenbpocket",
+  "contract": "eosenbpocket",
   "precision": 4,
   "issuer": "eosenbpocket",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosenbpocket/ENB.png",

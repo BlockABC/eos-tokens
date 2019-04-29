@@ -1,7 +1,7 @@
 {
   "name": "ANL",
   "symbol": "ANL",
-  "account": "angeliumseed",
+  "contract": "angeliumseed",
   "issuer": "deploymywish",
   "precision": 8,
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/angeliumseed/ANL.png",

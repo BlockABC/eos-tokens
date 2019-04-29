@@ -1,7 +1,7 @@
 {
   "name": "UTG",
   "symbol": "UTG",
-  "account": "untowermain1",
+  "contract": "untowermain1",
   "issuer": "untowermain1",
   "precision": 4,
   "logo": "https://www.unlimitedtower.com/utg/UTG.png",

@@ -1,7 +1,7 @@
 {
   "name": "BOY",
   "symbol": "BOY",
-  "account": "gameboytoken",
+  "contract": "gameboytoken",
   "precision": 4,
   "issuer": "gameboyadmin",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/gameboytoken/BOY.png",

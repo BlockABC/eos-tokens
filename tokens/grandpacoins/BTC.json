@@ -1,7 +1,7 @@
 {
   "name": "BTC",
   "symbol": "BTC",
-  "account": "grandpacoins",
+  "contract": "grandpacoins",
   "precision": 4,
   "issuer": "grandpacoins",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/grandpacoins/BTC.png",

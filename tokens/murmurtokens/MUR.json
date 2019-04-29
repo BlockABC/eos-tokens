@@ -1,7 +1,7 @@
 {
   "name": "MUR",
   "symbol": "MUR",
-  "account": "murmurtokens",
+  "contract": "murmurtokens",
   "precision": 4,
   "issuer": "murmurtokens",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/murmurtokens/MUR.png",
