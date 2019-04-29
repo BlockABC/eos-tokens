@@ -10,7 +10,7 @@ for (const filepath of glob.sync(path.join(__dirname, "..", "tokens", "**", "*.j
         ...token,
         name: token.name || "",
         symbol: token.symbol || "",
-        account: token.account || "",
+        contract: token.contract || "",
         precision: token.precision !== undefined ? token.precision : 4,
         issuer: token.issuer || "",
         logo: token.logo || "",
