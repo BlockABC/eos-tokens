@@ -1,0 +1,15 @@
+{
+  "name": "UBQ",
+  "symbol": "UBQ",
+  "contract": "u.b.q",
+  "precision": 4,
+  "issuer": "u.b.q",
+  "logo": "http://wolai.cc/ubq.png",
+  "desc": "I come (wolai.cc) is a vertical community of problem-solvers in the field of token-driven software. When I come, the user's contribution and contribution will receive a corresponding return. UBQ is the blockchain token I came from, which represents the right to use me and its surrounding ecology.",
+  "website": "http://wolai.cc",
+  "whitepaper": "http://wolai.cc/wolai20190501.pdf",
+  "links": {
+    "github": "https://github.com/eosubq",
+    "telegram": "http://t.me/eosubq"
+  }
+}
