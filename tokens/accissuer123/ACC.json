@@ -1,0 +1,15 @@
+{
+  "name": "ACC",
+  "symbol": "ACC",
+  "contract": "accissuer123",
+  "precision": 4,
+  "issuer": "accissuer123",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/accissuer123/ACC.png",
+  "desc": {
+    "en": "The Project's Introduction:Afro&Asia Block Chain International Capital , ACC for short,mainly consisting of entrepreneurs, highly talented technical professionals and top venture teams from China, the US, Singapore, Korea, and South Asian countries, is dedicated to building financial innovation service institution, constructing financing Information platform, meanwhile, helping small and medium-sized enterprises seamlessly integrate with financial institutions under the strong support from forty-two governments in Asia-Pacific region and Africa. ACC endows with omni-directional supports and service to businesses based on the perfect fusion of the Internet , blockchains with financial and entity projects. Moreover, ACC strives for an innovative financial service platform of co-creation, co-construction and sharing, which is safety, integrity, safe, honest, open, notarized, technology-based and policy-oriented.",
+    "zh": "Asia&Africa block chain international capital资本简称（ACC），主要由中国、美国、新加坡、韩国及东南亚国家的企业家、高精尖技术人士、顶级风投团队等构成，在亚太地区和非洲共42个国家政府的大力支持下，致力打造金融创新服务机构，构建融资信息平台，帮助中小企业与金融机构精准对接。依托于互联网、区块链与金融及实体项目的完美融合，为企业提供政策、资源、技术、资金等全方位支持与服务。打造一个安全、诚信、公开、公证的以科技为支撑、以政策为导向的共创、共建、共享的创新型金融服务平台。"
+  },
+  "website": "https://www.acc.top",
+  "whitepaper": "",
+  "links": {}
+}
