@@ -65,6 +65,7 @@ Please submit your token's JSON file follow template below. [EOS](./tokens/eosio
 |   Logo    | Symbol      | Account Name |
 | ----------- |:------------:|:------------:|
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/21dice4token/TOD.png" width=30 />  | [TOD](https://github.com/BlockABC/eos-tokens/blob/master/tokens/21dice4token/TOD.json) | [21dice4token](https://eospark.com/contract/21dice4token) |
+|  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/accissuer123/ACC.png" width=30 />  | [ACC](https://github.com/BlockABC/eos-tokens/blob/master/tokens/accissuer123/ACC.json) | [accissuer123](https://eospark.com/contract/accissuer123) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/admsadmtoken/ADM.png" width=30 />  | [ADM](https://github.com/BlockABC/eos-tokens/blob/master/tokens/admsadmtoken/ADM.json) | [admsadmtoken](https://eospark.com/contract/admsadmtoken) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/aeronaerozzz/ARN.png" width=30 />  | [ARN](https://github.com/BlockABC/eos-tokens/blob/master/tokens/aeronaerozzz/ARN.json) | [aeronaerozzz](https://eospark.com/contract/aeronaerozzz) |
 |  <img src="https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/jychjych1234/AGT.png" width=30 />  | [AGT](https://github.com/BlockABC/eos-tokens/blob/master/tokens/jychjych1234/AGT.json) | [jychjych1234](https://eospark.com/contract/jychjych1234) |
