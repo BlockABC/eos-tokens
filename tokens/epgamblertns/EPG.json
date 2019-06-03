@@ -1,0 +1,14 @@
+{
+  "name": "EPG",
+  "symbol": "EPG",
+  "contract": "epgamblertns",
+  "issuer": "epgamblertns",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/epgamblertns/EPG.png",
+  "desc": {
+    "en": "The token of the blockchain game developed by epgame.",
+    "zh": "epgame开发的区块链游戏的代币"
+  },
+  "website": "https://epgame.io"
+
+}
