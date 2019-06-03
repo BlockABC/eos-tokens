@@ -7,8 +7,7 @@ const tokenFiles = glob.sync(path.resolve(__dirname, '../tokens/**/*.json'))
 const tokens = tokenFiles.reduce((reduced, tokenFile) => {
   const token = require(tokenFile)
   // To compatible with old naming format
-  token.account = token.contract
-
+  token.account = token.contract || token.account
   reduced.push(token)
   return reduced
 }, [])
