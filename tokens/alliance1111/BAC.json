@@ -1,7 +1,7 @@
 {
   "name": "BAC",
   "symbol": "BAC",
-  "account": "alliance1111",
+  "contract": "alliance1111",
   "precision": 4,
   "issuer": "alliance1111",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/alliance1111/BAC.png",
@@ -11,6 +11,5 @@
   },
   "website": "https://token.bizalliance.net",
   "whitepaper": "https://token.bizalliance.net/download/WhitePaper.pdf",
-  "links": {},
-  "contract": ""
+  "links": {}
 }

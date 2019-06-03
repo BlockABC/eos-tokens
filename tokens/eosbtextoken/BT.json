@@ -1,7 +1,7 @@
 {
   "name": "BT",
   "symbol": "BT",
-  "account": "eosbtextoken",
+  "contract": "eosbtextoken",
   "precision": 4,
   "issuer": "eosbtextoken",
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosbtextoken/BT.png",
