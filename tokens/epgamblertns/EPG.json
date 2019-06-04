@@ -9,6 +9,7 @@
     "en": "The token of the blockchain game developed by epgame.",
     "zh": "epgame开发的区块链游戏的代币"
   },
-  "website": "https://epgame.io"
-
+  "website": "https://epgame.io",
+  "whitepaper": "",
+  "links": {}
 }
