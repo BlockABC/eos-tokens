@@ -1,23 +1,23 @@
 {
- "name": "MANIA",
- "symbol": "MANIA",
- "contract": "crmaniatoken",
- "issuer": "crmaniaslots",
- "precision": 4,
- "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/maniatoken/Mania_Token.png",
- "desc": {
- "en": "Cutting edge, profit-sharing slot machine platform that pays to play!",
- "zh": "EOS上最緊張刺激及獎勵多多的遊戲！",
- "ko": "Cutting edge, profit-sharing slot machine platform that pays to play!"
- },
- "website": "https://cryptomaniaslots.com",
- "whitepaper": "https://cryptomaniaslots.com/pdf/CryptoMania%20Manifesto%20V1.1.pdf",
- "links": {
- "github": "",
- "telegram": "https://t.me/CryptoMania_EOS",
- "twitter": "https://twitter.com/CryptoManiaSlot",
- "steemit": "",
- "reddit": "",
- "wechat": "CryptoMania中文官方群"
- }
+  "name": "MANIA",
+  "symbol": "MANIA",
+  "contract": "crmaniatoken",
+  "issuer": "crmaniaslots",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/maniatoken/Mania_Token.png",
+  "desc": {
+    "en": "Cutting edge, profit-sharing slot machine platform that pays to play!",
+    "zh": "EOS上最緊張刺激及獎勵多多的遊戲！",
+    "ko": "Cutting edge, profit-sharing slot machine platform that pays to play!"
+  },
+  "website": "https://cryptomaniaslots.com",
+  "whitepaper": "https://cryptomaniaslots.com/pdf/CryptoMania%20Manifesto%20V1.1.pdf",
+  "links": {
+    "github": "",
+    "telegram": "https://t.me/CryptoMania_EOS",
+    "twitter": "https://twitter.com/CryptoManiaSlot",
+    "steemit": "",
+    "reddit": "",
+    "wechat": "CryptoMania中文官方群"
+  }
 }
