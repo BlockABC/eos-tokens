@@ -1,0 +1,12 @@
+{
+  "name": "KEY",
+  "symbol": "KEY",
+  "contract": "mkstaketoken",
+  "precision": 4,
+  "issuer": "mkstaketoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/mkstaketoken/KEY.png",
+  "desc": "MYKEY is a self-sovereign identity system implemented on multiple public blockchains. The underlying protocol is called KEY ID.",
+  "website": "https://mykey.org/",
+  "whitepaper": "http://mykey-common.oss-cn-beijing.aliyuncs.com/mykey_whitepaper_en.pdf",
+  "links": {}
+}
