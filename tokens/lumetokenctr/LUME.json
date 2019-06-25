@@ -2,7 +2,7 @@
   "name": "Lumeos",
   "symbol": "LUME",
   "contract": "lumetokenctr",
-  "issuer": "eosio",
+  "issuer": "lumetokenctr",
   "precision": 3,
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/lumetokenctr/LUME.png",
   "desc": {
