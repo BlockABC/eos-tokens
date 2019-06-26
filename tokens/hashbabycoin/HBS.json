@@ -1,0 +1,19 @@
+{
+  "name": "HBS",
+  "symbol": "HBS",
+  "contract": "hashbabycoin",
+  "precision": 4,
+  "issuer": "pornhashbaby",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/hashbabycoin/HBS.png",
+  "desc": {
+    "en": "HashBaby Share (HBS) represents the ownership of HashBaby. The holders receive dividends from the profits of the project.",
+    "zh": "HashBaby Share (HBS) 代表了HashBaby的所有权，持币人可以收到来自项目盈利的分红。"
+  },
+  "website": "https://hashbaby.com",
+  "whitepaper": "https://hashbaby.com/HashBaby-Whitepaper-20190322-cn.pdf",
+  "links": {
+    "telegram": "https://t.me/hashbabyeos",
+    "twitter": "https://twitter.com/HashBaby4",
+    "email": "hashbaby@protonmail.com"
+  }
+}
