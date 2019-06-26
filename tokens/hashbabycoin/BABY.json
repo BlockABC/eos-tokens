@@ -1,0 +1,19 @@
+{
+  "name": "BABY",
+  "symbol": "BABY",
+  "contract": "hashbabycoin",
+  "precision": 4,
+  "issuer": "pornhashbaby",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/hashbabycoin/BABY.png",
+  "desc": {
+    "en": "BabyCash (BABY) is the utility token of HashBaby. It's used for rewarding contribution, community governance, and buying services",
+    "zh": "BabyCash (BABY) 是HashBaby正式运营后双币经济中的消费货币，用于内容消费、社区治理与贡献奖励。"
+  },
+  "website": "https://hashbaby.com",
+  "whitepaper": "https://hashbaby.com/HashBaby-Whitepaper-20190322-cn.pdf",
+  "links": {
+    "telegram": "https://t.me/hashbabyeos",
+    "twitter": "https://twitter.com/HashBaby4",
+    "email": "hashbaby@protonmail.com"
+  }
+}
