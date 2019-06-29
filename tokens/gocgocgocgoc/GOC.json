@@ -1,0 +1,23 @@
+{
+  "name": "GOC",
+  "symbol": "GOC",
+  "contract": "gocgocgocgoc",
+  "issuer": "gocgocgocgoc",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/gocgocgocgoc/GOC.png",
+  "desc": {
+    "en": "GOC is a pan-entertainment digital asset platform based on block chain, which is built by BLACKSTONE, the world's top asset management company. It provides integrated services for its global entertainment community.",
+    "zh": "GOC是由世界顶级资产管理公司BLACKSTONE倾力打造的基于区块链的泛娱乐型数字资产平台，为旗下分布的全球娱乐社区提供一体化集成服务。",
+    "ko": "GOC 는 세계 최고급 자산관리회사 블랙스타ON이 힘을 들여 구덩이에 기반된 범엔터테인먼트형 디지털 자산플랫폼으로 기반된 글로벌 엔터테인먼트 커뮤니티에 일체화 집성 서비스를 제공한다."
+  },
+  "website": "https://www.gocchain.top",
+  "whitepaper": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md",
+  "links": {
+    "github": "https://github.com/gocchaintop",
+    "telegram": "https://t.me/joinchat/gocchain",
+    "twitter": "https://twitter.com/gocchain",
+    "steemit": "https://steemit.com/gocchain",
+    "reddit": "https://www.reddit.com/r/gocchain/",
+    "wechat": ""
+  }
+}
