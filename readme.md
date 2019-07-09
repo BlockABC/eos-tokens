@@ -29,6 +29,8 @@ Thanks to [Newdex](https://newdex.io/), [EOSPark](https://eospark.com) and [EOS 
 ## Template
 Please submit your token's JSON file follow template below. [EOS](./tokens/eosio.token)
 
+DON'T modify `tokens.json` as it is auto generated.
+
 ```json
 {
   "name": "EOS",
