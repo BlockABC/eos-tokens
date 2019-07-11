@@ -1,0 +1,16 @@
+{
+  "name": "ATHENA",
+  "symbol": "ATHENA",
+  "contract": "athenastoken",
+  "precision": 4,
+  "issuer": "athenastoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/athenastoken/ATHENA.png",
+  "desc": "ATHENA is a blockchain smart contract platform developed by Pandoras.io. Athena implies Pandoras' hope, Focusing on Decentralized Dapp Ecology.",
+  "website": "https://www.pandoras.io",
+  "whitepaper": "https://www.pandoras.io/file/PandorasWhitePaper.pdf",
+  "links": {
+    "github": "https://github.com/athena-coin",
+    "telegram": "https://t.me/Pandorascom",
+    "twitter": "https://twitter.com/WalletPandoras"
+  }
+}
