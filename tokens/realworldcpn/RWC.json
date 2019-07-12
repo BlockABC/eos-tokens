@@ -1,0 +1,19 @@
+{
+  "name": "Real World Coupon",
+  "symbol": "RWC",
+  "contract": "realworldcpn",
+  "issuer": "Real World Coupon Project",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/realworldcpn/RWC.png",
+  "desc": {
+    "en": "EOS (Enterprise Operation System) is a blockchain smart contract platform developed by Block.one, which aims to provide bottom blockchain platform services for high-performance distributed applications.",
+    "zh": "EOS (Enterprise Operation System) 是一个区块链智能合约平台，由Block.one 开发。它致力于为高性能分布式应用提供区块链底层服务。",
+    "ko": "EOS (Enterprise Operation System) 는 블록 스마트 플랫폼으로 블 락 원 (Block.one)이 개발 했다.고성능 분산 식 응용을 위해 지역 체인 하위 서비스를 제공 합니다."
+  },
+  "website": "http://www.realworldcoupon.com",
+  "whitepaper": "http://www.realworldcoupon.com/rwc_whitepaper.pdf",
+  "links": {
+    "twitter": "https://twitter.com/realworldcpn",
+
+  }
+}
