@@ -2,7 +2,7 @@
   "name": "CRYTON",
   "symbol": "CRYTON",
   "contract": "crytonsource",
-  "issuer": "coinscentral",
+  "issuer": "crytonsource",
   "precision": 4,
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/crytonsource/CRYTON.png",
   "desc": {
