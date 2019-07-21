@@ -1,0 +1,21 @@
+{
+  "name": "DIONCOIN",
+  "symbol": "DION",
+  "contract": "dioncoinmake",
+  "precision": 7,
+  "issuer": "dioncoinmake",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/dioncoinmake/DION.png",
+  "desc": {
+    "en": "DION is blockchain cryptocurrency, which is introduced a combination with real business models and cryptocurrency ecosystems in order to use in the existing mileage marketing systems and a hybrid crypto game portal platform playDion, which will provide a variety of games.",
+    "zh": "DION是导入结合实际商业模式与加密货币生态系统的新概念区块加密货币。链接现有的积分营销系统和提供多种游戏的混合加密游戏门户网站playDion使用。",
+    "ko": "DION은 실제 사업 모델과 암호화폐 에코 시스템을 결합한 개념을 도입하여, 기존의 마일리지 마케팅 시스템과 다양한 게임을 제공하는 하이브리드 크립토 게임 포털 플랫폼인 playDion과 연계되어 사용되는 블록체인 암호화폐입니다."
+  },
+  "website": "http://www.dionpay.com",
+  "whitepaper": "http://www.dionpay.com/static/white-paper/dioncoin-whitepaper-en.pdf",
+  "links": {
+    "telegram": "https://t.me/officialdionpay",
+    "twitter": "https://www.twitter.com/Dionpayteam",
+    "facebook": "https://www.facebook.com/DionCoin-2204850456497016",
+    "navercafe": "http://navercafe.dionpay.com"
+  }
+}
