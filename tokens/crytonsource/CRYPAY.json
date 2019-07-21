@@ -1,6 +1,6 @@
 {
-  "name": "CRYTON",
-  "symbol": "CRYTON",
+  "name": "CRYPAY",
+  "symbol": "CRYPAY",
   "contract": "crytonsource",
   "issuer": "crytonsource",
   "precision": 4,
@@ -10,6 +10,6 @@
   },
   "website": "https://www.cryton.net",
   "links": {
-    "facebook": "https://www.facebook.com/crytonsource/"
+    "facebook": "https://www.facebook.com/OreTokenProject"
   }
 } 
