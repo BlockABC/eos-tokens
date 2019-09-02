@@ -2,7 +2,7 @@
 	"name": "DAPP",
 	"symbol": "DAPP",
 	"contract": "dappservices",
-	"issuer": "LiquidApps",
+	"issuer": "dappservices",
 	"precision": 4,
 	"logo": "https://i.imgur.com/ljSkkNB.png",
 	"desc": "The DAPP token is a multi-purpose utility token that serves as the access key to the DAPP Network.",
