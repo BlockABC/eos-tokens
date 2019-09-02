@@ -14,11 +14,13 @@ PR is welcome!
 
 0. Star this repository
 
-1. Create a folder under [/tokens](/tokens) named with token's account `/tokens/${CONTRACT_ACCOUNT}`
+1. Folk this repo, and clone it to your own computer.
 
-2. Then add yor token LOGO and JSON file under the folder. `/tokens/${CONTRACT_ACCOUNT}/{TOKEN_UPPERCASE}.png` `/tokens/${CONTRACT_ACCOUNT}/{TOKEN_UPPERCASE}.json`
+2. Create a folder under [/tokens](/tokens) named with token's account `/tokens/${CONTRACT_ACCOUNT}`
 
-3. Create PR, and leave your contact (Telegram/WeChat/Email) in comment for further support.
+3. Then add yor token LOGO and JSON file under the folder. `/tokens/${CONTRACT_ACCOUNT}/{TOKEN_UPPERCASE}.png` `/tokens/${CONTRACT_ACCOUNT}/{TOKEN_UPPERCASE}.json`
+
+4. Commit your changes, create a PR (Pull Request) to this repo, and leave your contact (Telegram/WeChat/Email) in comment for further support.
 
 Please refer to [eosio.token::EOS](https://github.com/BlockABC/eos-tokens/tree/master/tokens/eosio.token) for token example.
 
