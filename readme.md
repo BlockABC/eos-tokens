@@ -14,7 +14,7 @@ PR is welcome!
 
 0. Star this repository
 
-1. Folk this repo, and clone it to your own computer.
+1. Fork this repo, and clone it to your own computer.
 
 2. Create a folder under [/tokens](/tokens) named with token's account `/tokens/${CONTRACT_ACCOUNT}`
 
