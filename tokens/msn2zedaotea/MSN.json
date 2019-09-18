@@ -1,0 +1,16 @@
+{
+  "name": "MSN",
+  "symbol": "MSN",
+  "contract": "msn2zedaotea",
+  "issuer": "msn1zedaotea",
+  "precision": 5,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/msn2zedaotea/MSN.png",
+  "desc": {
+    "en": "MSN is the world’s first combination with tea supply chain and blockchain tech, aiming to empower traditional tea industry with interesting games.",
+    "zh": "全球首家“区块链+茶产业”应用，旨在为用户提供超一流的区块链游戏服务，同时加入茶产业链站在技术的制高点，凝聚共识的价值观，开创“区块链+”新时代。"
+  },
+  "website": "http://msn.best/",
+  "whitepaper": "http://www.msn.best/download/MSN白皮书.pdf",
+  "links": {},
+  "invalid": true
+}
