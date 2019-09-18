@@ -2,7 +2,7 @@
   "name": "MSN",
   "symbol": "MSN",
   "contract": "msn2zedaotea",
-  "issuer": "msn1zedaotea",
+  "issuer": "msn2zedaotea",
   "precision": 5,
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/msn2zedaotea/MSN.png",
   "desc": {
