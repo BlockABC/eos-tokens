@@ -12,7 +12,9 @@ This lib aims to collect all the tokens and their data including their **logo/pr
 ## Contributing
 PR is welcome!
 
-0. Star this repository
+**Please make sure you know how to use github, if you don't, please find someone know and help you.**
+
+0. Star this repository if you like.
 
 1. Fork this repo, and clone it to your own computer.
 
