@@ -1,0 +1,20 @@
+{
+  "name": "VTX",
+  "symbol": "VTX",
+  "contract": "volentixgsys",
+  "issuer": "volentixgsys",
+  "precision": 8,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/volentixgsys/VTX.png",
+  "desc": {
+    "en": "VTX is the native digital asset of the Volentix ecosystem with a maximum supply of 2.1 billion."
+  },
+  "website": "https://volentix.io",
+  "whitepaper": "https://github.com/Volentix/papers",
+  "links": {
+    "github": "https://github.com/Volentix",
+    "telegram": "https://t.me/Volentix",
+    "twitter": "https://twitter.com/volentix",
+    "steemit": "https://steemit.com/@volentix",
+    "reddit": "https://www.reddit.com/r/VolentixDAE/"
+  }
+}

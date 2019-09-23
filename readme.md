@@ -18,7 +18,7 @@ PR is welcome!
 
 2. Create a folder under [/tokens](/tokens) named with token's account `/tokens/${CONTRACT_ACCOUNT}`
 
-3. Then add yor token LOGO and JSON file under the folder. `/tokens/${CONTRACT_ACCOUNT}/{TOKEN_UPPERCASE}.png` `/tokens/${CONTRACT_ACCOUNT}/{TOKEN_UPPERCASE}.json`
+3. Then add your token LOGO and JSON file under the folder. `/tokens/${CONTRACT_ACCOUNT}/{TOKEN_UPPERCASE}.png` `/tokens/${CONTRACT_ACCOUNT}/{TOKEN_UPPERCASE}.json`
 
 4. Commit your changes, create a PR (Pull Request) to this repo, and leave your contact (Telegram/WeChat/Email) in comment for further support.
 
