@@ -1,0 +1,23 @@
+{
+  "name": "SAND",
+  "symbol": "SAND",
+  "contract": "SAND-eos-sandiegocoin",
+  "issuer": "sandiegocoin",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/sandiegocoin/SAN.png",
+  "desc": {
+    "en": "SAND (San Diego Coin) The World's First CryptoCurrency for San Diego residents using the Steem and EOS Blockchains. Earn money posting photos and stories about San Diego on https://SteemSanDiego.com and help promote the city online using the SAND token. ",
+    "zh": "SAND (San Diego Coin) 圣地亚哥居民使用Steem和EOS区块链的世界上第一个CryptoCurrency。赚钱在https://SteemSanDiego.com上发布有关圣地亚哥的照片和故事，并使用SAND令牌帮助在线推广这座城市。",
+    "ko": "SAND (San Diego Coin) Steem 및 EOS 블록 체인을 사용하는 샌디에고 주민을위한 세계 최초의 CryptoCurrency https://SteemSanDiego.com에서 샌디에고에 관한 사진과 이야기를 게시하고 SAND 토큰을 사용하여 온라인으로 도시를 홍보하십시오."
+  },
+  "website": "https://SanDiegoCoin.org",
+  "whitepaper": "https://github.com/ackza/sand/blob/master/San%20Diego%20Coin%20SAND%20Token%20White%20Paper%20v1.1%20Local%20San%20Diego%20Cryptocurrency%20with%20DAC%20for%20locals%20and%20students%2C%20using%20Steem-Engine%2BNitrous%2BSCOT%2BEOS-EX%20%2B%20cooperation%20with%20CHL%20PSO%20and%20TELOS%20TEACH%20(2).pdf",
+  "links": {
+    "github": "https://github.com/ackza/sand",
+    "telegram": "https://t.me/sandiegotoken",
+    "twitter": "https://twitter.com/sandiegocoins",
+    "steemit": "https://steemit.com/@sandiegocoin",
+    "reddit": "https://www.reddit.com/r/SanDiegoCoin/",
+    "wechat": "sandiegocoin"
+  }
+}
