@@ -1,7 +1,7 @@
 {
   "name": "SAND",
   "symbol": "SAND",
-  "contract": "SAND-eos-sandiegocoin",
+  "contract": "sandiegocoin",
   "issuer": "sandiegocoin",
   "precision": 4,
   "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/sandiegocoin/SAN.png",
