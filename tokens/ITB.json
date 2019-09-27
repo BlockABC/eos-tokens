@@ -1,0 +1,18 @@
+{
+  "name": "ITB",
+  "symbol": "ITB",
+  "contract": "iteosithbxmf",
+  "precision": 4,
+  "issuer": "iteosithbxmf",
+  "logo":"https://ftp.bmp.ovh/imgs/2019/09/ad52afdd6324c192.jpg",
+  "desc": {
+    "en": "ITB is the flagship currency of mouse science and technology, centered on the creation of future economic development. ITB is a project developed by young people. It takes all rivers in the sea and never forgets the first thought.",
+    "zh":ITB是小老鼠科技旗舰货币，以创立未来经济开发为中心，是一项由年轻人开发出项目，海纳百川，不忘初心方得始终！"
+  },
+  "emaill": "iteosithbxmf@vip.qq.com"
+  "website":"https://www.mouse123.cn/",
+  "whitepaper": "",
+  "links": {
+    "telegram": ""
+  }
+}
