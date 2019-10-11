@@ -4,7 +4,7 @@
   "contract": "cailuwwallet",
   "issuer": "cailuwwallet",
   "precision": 4,
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/CLC/CLC.png",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/cailuwwallet/CLC.png",
   "desc": {
     "en": "Cailu is perpendicular to the blockchain field, with the Cailu node as the operational core, the community, Conch (IM), and consensus public chain as the engine-driven blockchain consensus incubation ecosystem.",
     "zh": "财路是垂直于区块链领域，以财路节点作为运营核心，社区、海螺（IM）、共识公链三大产品作为引擎驱动的区块链共识孵化生态。"
