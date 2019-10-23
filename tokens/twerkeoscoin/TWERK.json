@@ -1,0 +1,12 @@
+{
+  "name": "TWERK",
+  "symbol": "TWERK",
+  "contract": "twerkeoscoin",
+  "precision": 4,
+  "issuer": "twerkeoscoin",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/twerkeoscoin/TWERK.png",
+  "desc": "Fun Stimulating Global Twerking on EOS Blockchain Platform.",
+  "website": "https://twitter.com/TwerkEOS",
+  "whitepaper": "",
+  "links": {}
+}

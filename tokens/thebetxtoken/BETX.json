@@ -1,9 +1,12 @@
 {
   "name": "BETX",
-  "account": "thebetxtoken",
   "symbol": "BETX",
+  "contract": "thebetxtoken",
   "precision": 4,
+  "issuer": "thebetxtoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/thebetxtoken/BETX.png",
   "desc": "BETX.FUN is a community autonomous game platform based on the efficient eos.io main network, which provides users with rich entertainment games. Players can obtain the platform token through the game and gain the right to profit from the platform. The platform can provide maximum free operation space for strategic investors, stable investors and venture investors.",
   "website": "https://betx.fun",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/thebetxtoken/BETX.png"
+  "whitepaper": "",
+  "links": {}
 }

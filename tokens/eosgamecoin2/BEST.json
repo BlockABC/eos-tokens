@@ -1,9 +1,12 @@
 {
   "name": "BEST",
-  "account": "eosgamecoin2",
   "symbol": "BEST",
+  "contract": "eosgamecoin2",
   "precision": 4,
+  "issuer": "eosgamecoin2",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosgamecoin2/BEST.png",
   "desc": "BEST is the token issued by BestDice game platform, with a total amount of 10 billion. Among them, the crowd-funding was 13 million, which was used to start the project in the early stage. The remaining BEST products were all mined by users through betting. The platform did not have any tokens obtained through pre-digging and free unlock.",
   "website": "https://www.dice.im",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosgamecoin2/BEST.png"
+  "whitepaper": "",
+  "links": {}
 }

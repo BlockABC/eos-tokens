@@ -1,9 +1,12 @@
 {
   "name": "POOR",
-  "account": "poormantoken",
   "symbol": "POOR",
+  "contract": "poormantoken",
   "precision": 4,
+  "issuer": "poormantoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/poormantoken/POOR.png",
   "desc": "GenerEOS is a social enterprise block producer candidate whose purpose is to promote and support scalable and extremely reliable block production whilst giving back block rewards to charities.",
   "website": "https://www.genereos.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/poormantoken/POOR.png"
+  "whitepaper": "",
+  "links": {}
 }

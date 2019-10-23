@@ -1,9 +1,12 @@
 {
   "name": "EGT",
-  "account": "eosiotokener",
   "symbol": "EGT",
+  "contract": "eosiotokener",
   "precision": 4,
+  "issuer": "eosiotokener",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosiotokener/EGT.png",
   "desc": "A gambling game based on EOS.",
   "website": "http://bj.eosgametoken.com",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosiotokener/EGT.png"
+  "whitepaper": "",
+  "links": {}
 }

@@ -1,0 +1,19 @@
+{
+  "name": "ZOS",
+  "symbol": "ZOS",
+  "contract": "zosionetwork",
+  "issuer": "zosionetwork",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/zosionetwork/ZOS.png",
+  "desc": {
+    "en": "A financing system of decentralized lending, stable currency and trading, and a financial chain of sustainable profits",
+    "zh": "ZOS 是一个去中心化借贷、稳定币与交易的自金融体系，一个可持续盈利的金融公链。"
+  },
+  "website": "https://www.zos.io",
+  "whitepaper": "https://resource.zos.io/download/zos-chain_cn-v2.1-compressed%20(1).pdf",
+  "links": {
+    "twitter": "https://twitter.com/zosfoundation",
+    "telegram": "https://t.me/zosworld"
+  },
+  "invalid": true
+}

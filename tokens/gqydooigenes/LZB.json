@@ -1,9 +1,12 @@
 {
   "name": "LZB",
-  "account": "gqydooigenes",
   "symbol": "LZB",
+  "contract": "gqydooigenes",
   "precision": 4,
+  "issuer": "gqydooigenes",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/gqydooigenes/LZB.png",
   "desc": "Laozi EOS is the first block chain technology forum to integrate block chain assets in China.",
   "website": "https://laozieos.com",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/gqydooigenes/LZB.png"
+  "whitepaper": "",
+  "links": {}
 }

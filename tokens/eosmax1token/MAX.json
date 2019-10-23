@@ -1,9 +1,12 @@
 {
   "name": "MAX",
-  "account": "eosmax1token",
   "symbol": "MAX",
+  "contract": "eosmax1token",
   "precision": 4,
+  "issuer": "eosmax1token",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosmax1token/MAX.png",
   "desc": "EOSMax is a gaming entertainment platform based on the intelligent contract of Eos main network. The platform's gambling games all adopt the original random number generation technology, and the team has made the algorithm open source, supporting the result verification. Meanwhile, the platform will airdrop the platform token MAX free of charge to the players through the mode of \"game is mining\". In the future, 100% of the profits of the platform will be distributed to the holders of the MAX token, making the player a shareholder of the platform.",
   "website": "https://eosmax.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosmax1token/MAX.png"
+  "whitepaper": "",
+  "links": {}
 }

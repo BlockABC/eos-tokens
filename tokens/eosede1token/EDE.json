@@ -1,0 +1,15 @@
+{
+  "name": "EDE",
+  "symbol": "EDE",
+  "contract": "eosede1token",
+  "issuer": "eosede1token",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosede1token/EDE.png",
+  "desc": {
+    "en": "Based on Block Chain 3.0 Intelligent Contract Technology, we can build a highly efficient, transparent and decentralized business ecosystem",
+    "zh": "基于区块链3.0智能合约技术打造的高效信任极度透明的去中心化商业生态"
+  },
+  "website": "https://eosede.com",
+  "whitepaper": "http://eosede.com/static/file/EDE%20Wallet%20White%20Papper%20V1.3-EN.pdf",
+  "links": {}
+}

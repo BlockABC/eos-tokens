@@ -1,0 +1,16 @@
+{
+  "name": "LNC",
+  "symbol": "LNC",
+  "contract": "bitwala.bank",
+  "issuer": "bitwala.bank",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/bitwala.bank/LNC.png",
+  "desc": {
+    "zh": "龙币（LNC）是基于以柚子3.0智能合约协议产生，用户可以使用各类eos等钱包即可保管、存储与转发，是新一代的虚拟数字币。通过龙币商城的挖矿购物项目合作奖励，社区建设奖励等激励系统，让龙币逐步扩大应用范围，使得龙币有了实体经济支撑，走上了实体化区块链行业应用模式。总发行量210亿，百分之九十五需要挖矿以及项目合作产生。空投流通量2.1亿。主要用于电子商务及LNC龙币商城。通过购物挖矿创新的解决了传统数字币能源浪费的问题，更激活了实体经济的发展，利国利民。"
+  },
+  "website": "http://www.lnctoken.com",
+  "whitepaper": "https://pan.wps.cn/l/slyde55",
+  "links": {
+    "wechat": "lonico"
+  }
+}

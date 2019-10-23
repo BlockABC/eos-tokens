@@ -1,0 +1,16 @@
+{
+  "name": "CRYPAY",
+  "symbol": "CRYPAY",
+  "contract": "crytonsource",
+  "issuer": "crytonsource",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/crytonsource/CRYTON.png",
+  "desc": {
+    "en": "FAST FREE and SECURE digital currency."
+  },
+  "website": "https://www.cryton.net",
+  "links": {
+    "facebook": "https://www.facebook.com/OreTokenProject"
+  },
+  "whitepaper": ""
+}

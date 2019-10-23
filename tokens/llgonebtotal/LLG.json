@@ -1,9 +1,12 @@
 {
   "name": "LLG",
-  "account": "llgonebtotal",
   "symbol": "LLG",
+  "contract": "llgonebtotal",
   "precision": 4,
+  "issuer": "llgonebtotal",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/llgonebtotal/LLG.png",
   "desc": "LLG is the token of EOS LELEGO, the classic chess and card game on EOS, and LLG is released to the user via LELEGO game. Total 1 billion. The hidden value of LLG items includes brands, trademarks, platforms, games, and 100% of the proceeds from all games are proportionally owned by LLG holders.",
   "website": "http://www.lelego.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/llgonebtotal/LLG.png"
+  "whitepaper": "",
+  "links": {}
 }

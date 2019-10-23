@@ -1,9 +1,12 @@
 {
   "name": "CAN",
-  "account": "eoscancancan",
   "symbol": "CAN",
+  "contract": "eoscancancan",
   "precision": 4,
+  "issuer": "eoscancancan",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoscancancan/CAN.png",
   "desc": "CAN participates in the development of the EOS blockchain network to profoundly change our lives in a better way. We aim to centralize everything! As a highly recognized community, we are willing to connect and promote the communication between overseas communities and Chinese EOS communities. We are pleased to lead the participation of most domestic token holders in the development of the global EOS community. EOS Cannon will be a stable super node serving the community. In addition, we are planning to be a active EOS ecosystem contributors and project incubators. We are not just an EOS community, we will be an important partner for EOS in China. ",
   "website": "https://cannoncapital.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoscancancan/CAN.png"
+  "whitepaper": "",
+  "links": {}
 }

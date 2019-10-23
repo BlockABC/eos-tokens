@@ -1,9 +1,12 @@
 {
   "name": "FAST",
-  "account": "fastecoadmin",
   "symbol": "FAST",
+  "contract": "fastecoadmin",
   "precision": 4,
+  "issuer": "fastecoadmin",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/fastecoadmin/FAST.png",
   "desc": "FASTWIN platform is an online guessing platform based on EOS.IO block chain technology. Players do not need to use personal information registration, and make bets through the encrypted currency EOS to ensure privacy.",
   "website": "https://www.fastwin.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/fastecoadmin/FAST.png"
+  "whitepaper": "",
+  "links": {}
 }

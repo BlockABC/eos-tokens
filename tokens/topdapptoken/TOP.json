@@ -1,9 +1,12 @@
 {
   "name": "TOP",
-  "account": "topdapptoken",
   "symbol": "TOP",
+  "contract": "topdapptoken",
   "precision": 4,
+  "issuer": "toppaigow123",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/topdapptoken/TOP.png",
   "desc": "TOP is the only token issued by the TOP DAPP platform, with a total of 100 million. It can be obtained by participating in the game, and the token can share the platform profit.",
   "website": "https://toppoker.one",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/topdapptoken/TOP.png"
+  "whitepaper": "",
+  "links": {}
 }

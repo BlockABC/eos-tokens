@@ -1,0 +1,14 @@
+{
+  "name": "WRK",
+  "symbol": "WRK",
+  "contract": "worktokenbvi",
+  "precision": 4,
+  "issuer": "worktokenbvi",
+  "logo": "https://firebasestorage.googleapis.com/v0/b/eos-lynx.appspot.com/o/token-contracts%2FworktokenbviWRK.png?alt=media&token=a2d170ed-9c0d-4640-9e4b-ba468cc44531",
+  "desc": {
+    "en": "WorkCoin is the first freelancing platform on EOS. Sellers post job by the hour or at a fixed price. Buyers prepay with EOS or the upcoming USDE Stablecoin, with all funds being held in a smart contract. Staking with the WorkCoin token allows buyers to transact at zero cost versus 20% for traditional platforms."
+  },
+  "website": "https://workcoin.market",
+  "whitepaper": "https://s3.amazonaws.com/whitepapers-eos-lynx-workcoin/eoslynx_whitepaper.pdf",
+  "links": {}
+}

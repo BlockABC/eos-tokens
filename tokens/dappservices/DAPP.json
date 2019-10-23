@@ -1,0 +1,18 @@
+{
+  "name": "DAPP",
+  "symbol": "DAPP",
+  "contract": "dappservices",
+  "issuer": "dappservices",
+  "precision": 4,
+  "logo": "https://i.imgur.com/ljSkkNB.png",
+  "desc": "The DAPP token is a multi-purpose utility token that serves as the access key to the DAPP Network.",
+  "website": "https://liquidapps.io",
+  "whitepaper": "",
+  "links": {
+    "GitHub": "https://github.com/liquidapps-io",
+    "Telegram": "https://t.me/LiquidAppsOfficial",
+    "Twitter": "https://twitter.com/@LiquidAppsIO",
+    "Mmedium": "https://medium.com/the-liquidapps-blog",
+    "LinkedIn": "https://www.linkedin.com/company/liquidapps/"
+  }
+}

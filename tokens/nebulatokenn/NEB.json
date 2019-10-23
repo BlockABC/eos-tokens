@@ -1,6 +1,12 @@
 {
   "name": "NEB",
-  "account": "nebulatokenn",
   "symbol": "NEB",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/nebulatokenn/NEB.png"
+  "contract": "nebulatokenn",
+  "precision": 4,
+  "issuer": "nebulatokenn",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/nebulatokenn/NEB.png",
+  "desc": "",
+  "website": "",
+  "whitepaper": "",
+  "links": {}
 }

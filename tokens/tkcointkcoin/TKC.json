@@ -1,9 +1,12 @@
 {
   "name": "TKC",
-  "account": "tkcointkcoin",
   "symbol": "TKC",
+  "contract": "tkcointkcoin",
   "precision": 4,
+  "issuer": "tkcointkcoin",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/tkcointkcoin/TKC.png",
   "desc": "Token Planet is the world's first game platform based on the block chain, striving to create a block chain game ecosystem with finance, service, entertainment in one. Players can get TKC by playing games on Token Planet, using the general game token TKC to trade in various game scenes to experience the fun of the game, meanwhile, they can create their own unique services through the open platform to gain profits,in the future they can even use the access of the platform merchants to make TKC used in more scenarios.",
   "website": "http://www.tokenplanets.com",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/tkcointkcoin/TKC.png"
+  "whitepaper": "",
+  "links": {}
 }

@@ -1,0 +1,21 @@
+{
+  "name": "PLO",
+  "symbol": "PLO",
+  "contract": "ploutoztoken",
+  "issuer": "ploutoztoken",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ploutoztoken/PLO.png",
+  "desc": {
+    "en": "About PLOUTOZ Derivatives Markerplace:\nPLOUTOZ is dedicated to provide a semi-centralized and decentralized cryptocurrency derivatives platform for blockchain communities. Blockchain community will be able open its own derivatives market and use its community/public chain token as the margin to meet user derivatives transactions, increase the use of the pass, improve bilateral market liquidity and lock positions purpose.\n\nAbout PLOUTOZ Token:\nPLOUTOZ Token, also known as “PLO”, is based on the EOS public chain and is a proof of equity in the PLOUTOZ blockchain derivatives market. It can be used as a payment token for the PLOUTOZ derivatives ecosystem and for margin. It will also be used for partner funds, alliance co-establishment, community building, and for all deposits, clearings, payments, and cross-border derivatives clearing and payment in the public chain derivatives market created by PLOUTOZ.",
+    "zh": "PLOUTOZ旨在为区块链各社区提供半中心化和去中心化数字货币衍生品平台。区块链社区使用PLOUTOZ平台可以开启自己的衍生品市场，用其社区/公链通证做为保证金交易，达到满足用户衍生品交易、增加通证使用场景、提高双边市场流动性和锁仓等目的。通证“PLO” 基于EOS公链开发，是PLOUTOZ 公链生态衍生品市场的权益证明，可作为PLOUTOZ衍生品生态的支付代币，和保证金来使用。也将用于合作伙伴基金，生态联盟建设、社区建设，以及用于所有由PLOUTOZ打造的公链衍生品市场中保证金、佣金打折，清算，支付，以及跨公链衍生品的清算，支付作用。"
+  },
+  "website": "https://ploutoz.com",
+  "links": {
+    "telegram": "https://t.me/joinchat/ploutoz",
+    "twitter": "https://twitter.com/Ploutoz_Market",
+    "Instagram": "Ploutoz_official",
+    "wechat": "ploutoz678",
+    "weibo": "PLOUTOZ"
+  },
+  "whitepaper": ""
+}

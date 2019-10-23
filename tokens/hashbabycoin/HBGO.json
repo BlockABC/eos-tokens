@@ -1,0 +1,19 @@
+{
+  "name": "HBGO",
+  "symbol": "HBGO",
+  "contract": "hashbabycoin",
+  "precision": 4,
+  "issuer": "pornhashbaby",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/hashbabycoin/HBGO.png",
+  "desc": {
+    "en": "HashBaby GO (HBGO) is the utility token during the trial operation period. It's used for rewarding contribution and buying services. HBGO 1:2 maps to BABY.",
+    "zh": "HashBaby GO (HBGO) 是HashBaby试运营期间双币经济中的消费货币，用于内容消费与贡献奖励。在运营期接受后，HBGO以1:2映射为BABY。"
+  },
+  "website": "https://hashbaby.com",
+  "whitepaper": "https://hashbaby.com/HashBaby-Whitepaper-20190322-cn.pdf",
+  "links": {
+    "telegram": "https://t.me/hashbabyeos",
+    "twitter": "https://twitter.com/HashBaby4",
+    "email": "hashbaby@protonmail.com"
+  }
+}

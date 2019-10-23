@@ -1,0 +1,16 @@
+{
+  "name": "MAIL",
+  "symbol": "MAIL",
+  "contract": "d.mail",
+  "issuer": "d.mail",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/d.mail/MAIL.png",
+  "desc": "dmail allows you to send mails using MAIL tokens",
+  "website": "https://dmail.co",
+  "whitepaper": "",
+  "links": {
+    "twitter": "https://twitter.com/dmailco",
+    "telegram": "https://t.me/dmailcommunity",
+    "dmail": "https://medium.com/@dmail"
+  }
+}

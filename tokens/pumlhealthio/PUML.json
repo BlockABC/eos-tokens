@@ -1,0 +1,18 @@
+{
+  "name": "PUML",
+  "symbol": "PUML",
+  "contract": "pumlhealthio",
+  "issuer": "pumlhealthio",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/pumlhealthio/PUML.png",
+  "desc": {
+    "en": "PUML is a HealthTech project that incentivises and rewards members for being active and healthy while at the same time securely storing fitness data on a digital health record"
+  },
+  "website": "https://puml.io",
+  "whitepaper": "https://github.com/pumlapp/PUMLDocuments/blob/master/PUML_Whitepaper.pdf",
+  "links": {
+    "github": "https://github.com/pumlapp",
+    "telegram": "https://t.me/pumlofficial",
+    "twitter": "https://twitter.com/pumlhealthio"
+  }
+}

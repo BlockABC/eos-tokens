@@ -1,9 +1,12 @@
 {
   "name": "IGC",
-  "account": "eosindiegame",
   "symbol": "IGC",
+  "contract": "eosindiegame",
   "precision": 4,
+  "issuer": "eosindiegame",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosindiegame/IGC.png",
   "desc": "Castle Wars is a multi-player online strategy role playing game based on EOS block chain.",
   "website": "http://eosindiegame.com",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosindiegame/IGC.png"
+  "whitepaper": "",
+  "links": {}
 }

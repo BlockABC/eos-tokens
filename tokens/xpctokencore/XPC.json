@@ -1,9 +1,12 @@
 {
   "name": "XPC",
-  "account": "xpctokencore",
   "symbol": "XPC",
+  "contract": "xpctokencore",
   "precision": 4,
+  "issuer": "xpctokencore",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/xpctokencore/XPC.png",
   "desc": "Valuable pet strategy battle game.",
   "website": "https://xpet.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/xpctokencore/XPC.png"
+  "whitepaper": "",
+  "links": {}
 }

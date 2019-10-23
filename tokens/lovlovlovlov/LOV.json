@@ -1,0 +1,15 @@
+{
+  "name": "LOV",
+  "symbol": "LOV",
+  "contract": "lovlovlovlov",
+  "precision": 4,
+  "issuer": "lovlovlovlov",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/lovlovlovlov/LOV.png",
+  "desc": "LovCoin (LOV) is an ERC20-token (Utility Token) for a Dapps ecosystem for virtual gifts, coupons, greeting cards, declarations of love and gratefulness.",
+  "website": "http://lovco.in",
+  "whitepaper": "",
+  "links": {
+    "twitter": "https://twitter.com/Lovecoin_joy",
+    "github": "https://github.com/lovcoin"
+  }
+}

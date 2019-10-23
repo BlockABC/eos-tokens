@@ -1,0 +1,18 @@
+{
+  "name": "RWC",
+  "symbol": "RWC",
+  "contract": "realworldcpn",
+  "issuer": "realworldcpn",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/realworldcpn/RWC.png",
+  "desc": {
+    "en": "Real World Coupon is the next generation digital coupon built on the EOS blockchain. RWC coupon can be used worldwide at more than 10 partnering merchants. RWC coupon is also infinitely re-useable. Our revolutionary coupon model solves the pain points in the old coupon system, which is single use and only at one merchant. Real World Coupon team members are located in the US, Australia, China, Korea, Portugal, and Ukraine. We are active participants and opinion leaders in the EOS community. With our distributed team structure, we can accelerate Real World Coupon adoption worldwide.",
+    "zh": "全球券，新一代数字优惠券，基于 EOS 区块链开发，应用场景遍布全球，目前已有十余个商家支持用全球券享折扣。传统优惠券仅能用一次且无法全球通用，全球券完美解决了这两大痛点，支持循环使用，无国界限制。全球券团队由来自美国、澳洲、中国、韩国、葡萄牙、乌克兰等各国 EOS 社区的意见领袖与活跃份子组成，分布式团队将推动全球券在全球范围加速落地。",
+    "ko": "리얼월드쿠폰(RWC)은 이오스에서 구동되는 차세대 디지털 쿠폰입니다. RWC는 세계에 산재해 있는 10개 이상의 파트너 업체에서 사용하실 수 있을 뿐만 아니라, 계속해서 무한 재사용이 가능합니다. RWC는 특정 업체에서 한 번만 사용이 가능하다는 기존 전통 쿠폰 모델이 가진 한계점을 극복했습니다. RWC 팀은 미국인, 호주인, 중국인, 한국인, 포르투갈인, 우크라이나인으로 구성된 다국적 팀입니다. 이들은 모두 EOS 생태계 안에서 오피니언 리더로서 활약하고 있습니다. 이들을 통해 RWC 파트너사를 앞으로 계속해서 확장해 나갈 예정입니다."
+  },
+  "website": "http://www.realworldcoupon.com",
+  "whitepaper": "http://www.realworldcoupon.com/rwc_whitepaper.pdf",
+  "links": {
+    "twitter": "https://twitter.com/realworldcpn"
+  }
+}

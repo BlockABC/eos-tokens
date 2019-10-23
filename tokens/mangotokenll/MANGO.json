@@ -1,9 +1,12 @@
 {
   "name": "MANGO",
-  "account": "mangotokenll",
   "symbol": "MANGO",
+  "contract": "mangotokenll",
   "precision": 4,
+  "issuer": "mangotokenll",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/mangotokenll/MANGO.png",
   "desc": "MANGO is committed to becoming a boutique game and benchmark for global blockchain betting games, helping blockchain players, gaming gamers and other fun and benefits, and EOS Ecology itself to evolve and improve, avoiding the shortcomings of traditional gaming games. Promote the healthy and rapid development of the blockchain-based game industry, based on the EOS.IO blockchain. It provides a trusted, profit-sharing and high-performance gaming experience across the Internet. It solves the problems of traditional online gaming platforms and other online cryptocurrency casinos, including high fees, slow deposit/redemption and lack of trust.",
   "website": "https://mango.best",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/mangotokenll/MANGO.png"
+  "whitepaper": "",
+  "links": {}
 }

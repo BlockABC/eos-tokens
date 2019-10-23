@@ -1,9 +1,12 @@
 {
   "name": "DET",
-  "account": "diceeostoken",
   "symbol": "DET",
+  "contract": "diceeostoken",
   "precision": 4,
+  "issuer": "diceeostoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/diceeostoken/DET.png",
   "desc": "Gambling game based on EOS.",
   "website": "https://mydice.me",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/diceeostoken/DET.png"
+  "whitepaper": "",
+  "links": {}
 }

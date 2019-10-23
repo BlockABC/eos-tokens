@@ -1,9 +1,12 @@
 {
   "name": "OCT",
-  "account": "octtothemoon",
   "symbol": "OCT",
+  "contract": "octtothemoon",
   "precision": 4,
+  "issuer": "octtothemoon",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/octtothemoon/OCT.png",
   "desc": "As the world’s first application built on an EOS ecosphere, OracleChain needs to meet the demands of the Oracle (oracle machine) ecosystem by efficiently linking blockchain technology services with various real-life scenarios, thereby delving into this immense tens billion dollars valuation market.\nOracleChain is a decentralized Oracle technology platform for multi-blockchain. It adopts the autonomous PoRD mechanism to introduce real-world data into the blockchain, and use this as infrastructure to provide services for other blockchain applications. The OracleChain will provide Oracle services for real-world data within the blockchain, as well as Oracle services for cross-chain data.Within OracleChain it can accomplish the functions of several prediction market applications, such as Augur and Gnosis, OracleChain can also support smart contract businesses that requires high-frequency access to outside data in certain scenarios.OracleChain will change the development mode of current blockchain application, build a new ecosystem, and serve the blockchain application that can truly change the real world. The mission of OracleChain is \"connecting the world with blockchain\". It aspires to become the infrastructure that connecting the real world with the blockchain world. By introducing the external data into the blockchain to achieve data interflow between the inside and outside of the chain, OracleChian will be the most efficient service platform for acquiring the external data in the blockchain world in the future.",
   "website": "https://oraclechain.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/octtothemoon/OCT.png"
+  "whitepaper": "",
+  "links": {}
 }

@@ -1,9 +1,12 @@
 {
   "name": "EOX",
-  "account": "eoxeoxeoxeox",
   "symbol": "EOX",
+  "contract": "eoxeoxeoxeox",
   "precision": 4,
+  "issuer": "eoxeoxeoxeox",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoxeoxeoxeox/EOX.png",
   "desc": "EOX is a decentralized e-commerce platform.",
   "website": "https://www.eoxlab.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoxeoxeoxeox/EOX.png"
+  "whitepaper": "",
+  "links": {}
 }

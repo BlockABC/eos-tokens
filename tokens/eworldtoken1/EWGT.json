@@ -1,0 +1,17 @@
+{
+  "name": "EWGT",
+  "symbol": "EWGT",
+  "contract": "eworldtoken1",
+  "issuer": "eworldtoken1",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eworldtoken1/EWGT.png",
+  "desc": {
+    "en": "EWG(EastWorldGame),  gaming platform on the EOS blockchain."
+  },
+  "website": "https://ewg.one",
+  "whitepaper": "",
+  "links": {
+    "telegram": "https://t.me/EastWorldGame",
+    "twitter": "https://twitter.com/ewgone"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "FORTUNE",
+  "symbol": "FORTUNE",
+  "contract": "roulette4tok",
+  "precision": 4,
+  "issuer": "roulette4tok",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/roulette4tok/FORTUNE.png",
+  "desc": "Where Entertainment meets Sustainability - a small and fine EOS-Universe with gambling-DApps, some Tools to interact in the EOS World, an Auction- and a transnational Donation Platform.",
+  "website": "https://www.roulette4eos.com",
+  "whitepaper": "",
+  "links": {}
+}

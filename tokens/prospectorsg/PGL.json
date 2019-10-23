@@ -1,9 +1,12 @@
 {
   "name": "PGL",
-  "account": "prospectorsg",
   "symbol": "PGL",
+  "contract": "prospectorsg",
   "precision": 4,
+  "issuer": "prospectorsg",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/prospectorsg/PGL.png",
   "desc": "The Massive Multiplayer Online Real-Time Economic Strategy powered by EOS.",
   "website": "https://prospectors.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/prospectorsg/PGL.png"
+  "whitepaper": "",
+  "links": {}
 }

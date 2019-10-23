@@ -1,0 +1,18 @@
+{
+  "name": "POST",
+  "symbol": "POST",
+  "contract": "ipsecontract",
+  "precision": 4,
+  "issuer": "ipsecontract",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ipsecontract/POST.png",
+  "desc": {
+    "en": "IPSE, the web 3.0’s network traffic portal, decentralized search engine based on IPFS! ",
+    "zh": "IPSE，下一代价值互联网的流量入口，基于IPFS网络的搜索引擎!"
+  },
+  "website": "https://ipse.io",
+  "whitepaper": "https://ipfssearch.io/IPSE-whitepaper-en-v1.2.pdf",
+  "links": {
+    "telegram": "https://t.me/joinchat/MRgxnBMVtEkg03GBbAL51g",
+    "twitter": "https://twitter.com/ipfssearch"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "PEOS",
+  "symbol": "PEOS",
+  "contract": "thepeostoken",
+  "precision": 4,
+  "issuer": "thepeostoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/thepeostoken/PEOS.png",
+  "desc": "pEOS enables private and untraceable transactions on EOS. Leveraging ring signatures, ring confidential transactions and stealth addresses pEOS is truly private. It combines Monero's technology with EOS' performance.",
+  "website": "https://peos.one/",
+  "whitepaper": "https://peos.one/docs/pEOS_whitepaper_rev1_1.pdf",
+  "links": {
+    "telegram": "https://t.me/pEOSone",
+    "twitter": "https://twitter.com/peos_one",
+    "medium": "https://medium.com/@pEOS_one"
+  }
+}

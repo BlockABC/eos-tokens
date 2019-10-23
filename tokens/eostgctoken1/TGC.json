@@ -1,9 +1,12 @@
 {
   "name": "TGC",
-  "account": "eostgctoken1",
   "symbol": "TGC",
+  "contract": "eostgctoken1",
   "precision": 4,
+  "issuer": "eostgctoken1",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eostgctoken1/TGC.png",
   "desc": "EOSTiger is a classic entertainment platform based on the EOS.IO blockchain.It is a collection of classic games with different senses, such as slot machines, Texas hold 'em, roulette, and blackjack.",
   "website": "https://eostiger.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eostgctoken1/TGC.png"
+  "whitepaper": "",
+  "links": {}
 }

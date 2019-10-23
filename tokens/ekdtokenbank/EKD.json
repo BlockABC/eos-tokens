@@ -1,0 +1,19 @@
+{
+  "name": "EKD",
+  "symbol": "EKD",
+  "contract": "ekdtokenbank",
+  "issuer": "ekdtokenbank",
+  "precision": 6,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ekdtokenbank/EKD.png",
+  "desc": {
+    "en": "EOSKingDom(EKD) is a multifaceted game platform developing EOS-based blockchain. The user is provided with a safe, verifiable game platform through a blockchain system.",
+    "zh": "EosKingDom(EKD)是基于EOS.IO区块链系统开发的在线多样化游戏平台。 我们希望为用户提供一个完全安全、完全可验证公平性、去中心化和无国界的游戏平台。",
+    "ko": "EosKingDom(EKD)는 EOS 기반 블록체인을 개발하는 다각화된 게임 플랫폼이다. 블록체인 시스템을 통해 사용자에게 안전하고 검증 가능한 게임 플랫폼을 제공한다."
+  },
+  "website": "https://eoskingdom.io",
+  "telegram": "https://t.me/EosKingDom_global",
+  "twitter": "https://twitter.com/eoskingdom",
+  "wechat": "eoskingdom",
+  "whitepaper": "",
+  "links": {}
+}

@@ -1,9 +1,12 @@
 {
   "name": "EETH",
-  "account": "ethsidechain",
   "symbol": "EETH",
+  "contract": "ethsidechain",
   "precision": 4,
+  "issuer": "ethsidechain",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ethsidechain/EETH.png",
   "desc": "EOS side chain, realize EOS ecology and ether square ecology interworking.",
   "website": "http://anyos.io",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/ethsidechain/EETH.png"
+  "whitepaper": "",
+  "links": {}
 }
