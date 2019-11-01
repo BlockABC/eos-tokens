@@ -1,0 +1,17 @@
+{
+    "name": "WNS",
+    "symbol": "WNS",
+    "contract": "wnsaccount11",
+    "precision": 4,
+    "issuer": "wnsaccount11",
+    "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/wnsaccount11/WNS.png",
+    "desc": {
+        "en": "The core services of WNS are composed of quick payment settlement and convenient interface based on the Smart Contract and the Token Economy system."
+    },
+    "website": "http://winnersproject.io",
+    "whitepaper": "http://winnersproject.io/assets/files/WNS_Whitepaper_Ver_1.03_(ENG).pdf",
+    "links": {
+        "twitter": "https://twitter.com/WinnersMembers"
+    },
+    "invalid": true
+  }
