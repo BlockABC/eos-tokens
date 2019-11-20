@@ -1,0 +1,19 @@
+{
+  "name": "SXTB",
+  "symbol": "SXTB",
+  "contract": "token.bank",
+  "issuer": "token.bank",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/token.bank/SXTB.png",
+  "desc": {
+    "en": "基于eos生态的股权代币自治公司 ，双信通宝（SXTB）由贵州双信通商贸有限公司基于eos主网发行的唯一股权代币分红凭证Token，总量210万枚，旨在打造中国第一家无办公室，去中心化无员工阶层，去中心化网络协同社区，现实虚拟链接入口。  （SXTB）用于网络转账，公司生态消费，生态建设，支付通兑，储存，对冲，搬砖，公司业务对接，加密数字货币交互通兑等！",
+    "zh": "基于eos生态的股权代币自治公司 ，双信通宝（SXTB）由贵州双信通商贸有限公司基于eos主网发行的唯一股权代币分红凭证Token，总量210万枚，旨在打造中国第一家无办公室，去中心化无员工阶层，去中心化网络协同社区，现实虚拟链接入口。  （SXTB）用于网络转账，公司生态消费，生态建设，支付通兑，储存，对冲，搬砖，公司业务对接，加密数字货币交互通兑等！" },
+  "website": "sxtb.love",
+  "whitepaper": "",
+  "links": {
+    "github": "https://github.com/maoxin522",
+    "twitter": "https://twitter.com/Maochangbei",
+    "telegram": "https://0.plus/SXTBToken"
+  },
+  "invalid": true
+}
