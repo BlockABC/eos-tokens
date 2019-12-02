@@ -1,0 +1,16 @@
+{
+  "name": "BCASH",
+  "symbol": "BCASH",
+  "contract": "bcashonecoin",
+  "issuer": "bcashonecoin",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/bcashonecoin/BCASH.png",
+  "desc": {
+    "zh": "Bcash是建立EOS公链上的竞猜类游戏项目，旨在打造一个可以广泛参与的在线竞猜平台。",
+  "website": "http://www.bcash.one/",
+  "whitepaper": "http://www.bcash.one/Bcash_White_en.pdf",
+  "links": {
+   
+     }
+  }
+}
