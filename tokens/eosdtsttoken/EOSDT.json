@@ -1,0 +1,15 @@
+{
+  "name": "EOSDT",
+  "symbol": "EOSDT",
+  "contract": "eosdtsttoken",
+  "precision": 9,
+  "issuer": "eosdtsttoken",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eosdtsttoken/EOSDT.png",
+  "desc": "EOSDT is the first USD-pegged decentralized stablecoin based on the Equilibrium framework and the EOS blockchain. EOSDT leverages underlying EOS collateral and adds extra liquidity to the market.",
+  "website": "https://eosdt.com",
+  "whitepaper": "",
+  "links": {
+    "twitter": "https://twitter.com/eosdt",
+    "telegram": "https://t.me/equilibrium_eosdt_official"
+  }
+}
