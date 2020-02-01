@@ -1,15 +1,16 @@
 {
-	"name": "SVX",
-	"symbol": "SVX",
-	"account": "svxmintofeos",
-	"precision": 4,
-	"issuer": "svxmintofeos",
-	"logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/svxmintofeos/SVX.png",
-	"desc": "SOVDEX has its own native utility token, SVX, that can only be mined by burning SOV. SVX can be staked for reduced exchange fees and increased SVX mining reward.",
-	"website": "https://sovdex.github.io/sovdexbeta/",
-	"whitepaper": "https://drive.google.com/file/d/1dbxZNBhnCDSosqZxyRRRsJZ8FwGNmSUQ/view?usp=sharing",
-	"links": {
-		"telegram": "https://t.me/eossov",
-		"github": "https://sovdex.github.io/sovdexbeta/"
-	}
+  "name": "SVX",
+  "symbol": "SVX",
+  "account": "svxmintofeos",
+  "precision": 4,
+  "issuer": "svxmintofeos",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/svxmintofeos/SVX.png",
+  "desc": "SOVDEX has its own native utility token, SVX, that can only be mined by burning SOV. SVX can be staked for reduced exchange fees and increased SVX mining reward.",
+  "website": "https://sovdex.github.io/sovdexbeta/",
+  "whitepaper": "https://drive.google.com/file/d/1dbxZNBhnCDSosqZxyRRRsJZ8FwGNmSUQ/view?usp=sharing",
+  "links": {
+    "telegram": "https://t.me/eossov",
+    "github": "https://sovdex.github.io/sovdexbeta/"
+  },
+  "contract": ""
 }
