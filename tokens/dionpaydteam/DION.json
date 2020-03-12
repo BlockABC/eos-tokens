@@ -1,10 +1,10 @@
 {
   "name": "DIONCOIN",
   "symbol": "DION",
-  "contract": "dioncoinmake",
-  "precision": 7,
-  "issuer": "dioncoinmake",
-  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/dioncoinmake/DION.png",
+  "contract": "dionpaydteam",
+  "precision": 6,
+  "issuer": "dionpaydteam",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/dionpaydteam/DION.png",
   "desc": {
     "en": "DION is blockchain cryptocurrency, which is introduced a combination with real business models and cryptocurrency ecosystems in order to use in the existing mileage marketing systems and a hybrid crypto game portal platform playDion, which will provide a variety of games.",
     "zh": "DION是导入结合实际商业模式与加密货币生态系统的新概念区块加密货币。链接现有的积分营销系统和提供多种游戏的混合加密游戏门户网站playDion使用。",
