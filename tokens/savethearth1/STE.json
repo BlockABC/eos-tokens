@@ -1,0 +1,17 @@
+{
+  "name": "STE`",
+  "symbol": "STE",
+  "contract": "savethearth1",
+  "issuer": "savethearth2",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/savethearth1/STE.png",
+  "desc": {
+    "en": "STE's mission is to track the changes in the Earth's air by recording the Earth's air pollution on the EOS blockchain, and to ensure that the Earth has clean air"
+  },
+  "website": "https://savetheearth.io",
+  "whitepaper": "https://savetheearth.io/STE_whitepaper_v1.0.pdf",
+  "links": {
+    "telegram": "https://t.me/savetheearth2020"
+  },
+  "invalid": false
+}
