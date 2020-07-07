@@ -1,0 +1,16 @@
+{
+  "name": "OneTimeUtility",
+  "symbol": "OTU",
+  "contract": "onetimeutil1",
+  "issuer": "onetimeutil1",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/onetimeutil1/OTU.png",
+  "desc": {
+    "en": "OTU (One Time Utility) allows you to receive EMAIL without an account."
+  },
+  "website": "https://otutil.com",
+  "links": {
+    "telegram": "https://t.me/onetimeutility"
+  },
+  "invalid": false
+}
