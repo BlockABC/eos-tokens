@@ -1,0 +1,18 @@
+{
+  "name": "Nice1",
+  "symbol": "NICEONE",
+  "contract": "niceonetoken",
+  "issuer": "niceonechain ",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/niceonetoken/NICEONE.png",
+  "desc": {
+    "en": "Shaking up video game ecosystem."
+  },
+  "website": "https://nice1.org/",
+  "whitepaper": "https://nice1.org/",
+  "links": {
+    "github": "https://github.com/nice1-blockchain",
+    "telegram": "https://t.me/nice1blockchain",
+    "twitter": "https://twitter.com/Nice1BlockChain"
+  }
+}
