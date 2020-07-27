@@ -6,8 +6,8 @@
   "precision": 4,
   "logo": "http://www.eosccc.com/ccclogo.png",
   "desc": {
-    "en": "CCC is a new deflationary token issued on the EOS mainnet. It will be based on Bitcoin or EOS, and deflation will be adjusted according to supply through smart contract.",
-    "zh": "CCC是发行在EOS主网的新型通缩代币，将以比特币或EOS作为价值支撑标的，并通过智能合约根据供应量调节燃烧率进行通缩。"
+    "en": "CCC is a new deflationary token, which uses EOS as the value support and deflates through the burning rate adjusted by smart contract. The peak burning rate can be as high as 30%, allowing HODL users of CCC to get high returns. All EOS accounts can claim it!",
+    "zh": "CCC是新型通缩代币，以EOS作为价值支撑标的，并通过智能合约调节的燃烧率进行通缩，燃烧率峰值可高达30%，让CCC的HODL用户获得高额回报。CCC没有领取门槛，所有EOS账户皆可领取！",
   },
   "website": "http://www.eosccc.com",
   "whitepaper": "",
