@@ -4,7 +4,7 @@
   "contract": "eoscccdotcom",
   "issuer": "eoscccdotcom",
   "precision": 4,
-  "logo": "http://www.eosccc.com/ccclogo.png",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoscccdotcom/CCC.png",
   "desc": {
     "en": "CCC is a new deflationary token, which uses EOS as the value support and deflates through the burning rate adjusted by smart contract. The peak burning rate can be as high as 30%, allowing HODL users of CCC to get high returns. All EOS accounts can claim it!",
     "zh": "CCC是新型通缩代币，以EOS作为价值支撑标的，并通过智能合约调节的燃烧率进行通缩，燃烧率峰值可高达30%，让CCC的HODL用户获得高额回报。CCC没有领取门槛，所有EOS账户皆可领取！",
