@@ -1,0 +1,15 @@
+{
+  "name": "ECH",
+  "symbol": "ECH",
+  "contract": "echechechech",
+  "precision": 4,
+  "issuer": "echechechech",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/echechechech/ECH.png",
+  "desc": {
+    "en": "ECH is an innovative project that makes full use of the technological advantages of the EOS mainnet, using swap mining, combined with gradient combustion, so that the participants can fully play the game and form a certain equilibrium in different stages.",
+    "zh": "ECH是一个充分利用EOS主网技术优势的创新项目，采用Swap(闪兑)挖矿，并结合梯度燃烧，令参与者能充分博弈，并在不同阶段形成某种均衡。",
+  },
+  "website": "http://ech.one",
+  "whitepaper": "",
+  "links": {}
+}
