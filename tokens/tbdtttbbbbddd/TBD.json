@@ -1,0 +1,18 @@
+{
+  "name": "TBD",
+  "symbol": "TBD",
+  "contract": "tbdtttbbbddd",
+  "issuer": "tbdtttbbbddd",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/{CONTRACT_ACCOUNT}/{TOKEN_NAME_UPPERCASE}.jpg",
+  "desc": {
+    "en": "TBD (The Big Dipper) is based on the development of the third generation public chain Enterprise Operation s System for the future trillion beidou technology in the global high-speed rail, fisheries, agriculture, communications, civil aviation and other commercial areas to provide decentralization, peer-to-peer transmission, data privacy and protection, digital rights and interests certification, distributed intelligent storage and other services.",
+    "zh": "TBD(The Big Dipper )是基于第三代公链Enterprise Operation System开发的应用于未来万亿级北斗技术在全球高铁、渔业、农业、通讯、民航等商用领域提供去中心化、点对点传输、数据隐私与保护，数字权益证明、分布式智能存储等服务。",
+    "ko": "TBD(The Big Dipper) 는 제 3 세대 공공체인 Enterprise Operation System 이 개발한 향후 조급 북두기술이 전 세계 고속철도, 어업, 농업, 통신, 민간 항공 등 상업분야에서 중앙 집중화, 지점간 전송, 데이터 프라이버시 및 보호, 디지털 권익 증명서를 제공하는 것을 기반으로 하고 있다"
+  },
+  "website": "http://tbd.vwwiksf.cn/",
+  "whitepaper": "http://www.vwwiksf.cn/Chinese.pdf",
+  "links": {
+    "github": "https://github.com/beidougonglian/TBD"
+  }
+}
