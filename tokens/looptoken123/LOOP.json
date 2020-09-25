@@ -1,0 +1,15 @@
+{
+  "name": "LOOP",
+  "symbol": "LOOP",
+  "contract": "looptoken123",
+  "precision": 8,
+  "issuer": "looptoken123",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/looptoken123/LOOP.png",
+  "desc": {
+    "en": "LOOP is mapping LP Tokens mining, fair and safe, similar to YFC in the inflation phase, similar to REV in the deflation phase and will continue to cycle in inflation and deflation.",
+    "zh": "LOOP(葫芦) 是基于EOS主网上大丰收的ILPO模式公平、免费、安全挖矿，无预挖、无募资，同时具备交易燃烧、持币分红机制的GameFi项目。",
+  },
+  "website": "http://loop.ech.one",
+  "whitepaper": "",
+  "links": {}
+}
