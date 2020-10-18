@@ -1,0 +1,19 @@
+{
+  "name": "FINTEH",
+  "symbol": "FINTEH",
+  "contract": "fintehdeploy",
+  "issuer": "fintehescrow",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/fintehdeploy/FINTEH.png",
+  "desc": {
+    "en": "Token for the Fincubator activity score based on the cost approach",
+    "ru": "Токен для оценки деятельности Финкубатора на основе затратного подхода"
+  },
+  "website": "https://finteh.org",
+  "whitepaper": "",
+  "links": {
+    "github": "https://github.com/finteh",
+    "telegram": "https://t.me/finteh",
+    "steemit": "https://steemit.com/@finteh"
+  }
+}
