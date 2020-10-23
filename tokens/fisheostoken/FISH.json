@@ -1,0 +1,19 @@
+{
+    "name": "FISH",
+    "symbol": "FISH",
+    "contract": "fisheostoken",
+    "issuer": "fisheostoken",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/fisheostoken/FISH.png",
+    "desc": {
+      "en": "FISH is a mobile mining reward for CAT. Later, it can empower CAT and FISH through games, NFT, DAO, etc.",
+      "zh": "FISH是CAT的流动性挖矿奖励，后续通过游戏、NFT、DAO等为CAT、FISH进行赋能。"
+    },
+    "website": "https://eoscats.io/",
+    "whitepaper": "",
+    "links": {
+      "github": "https://github.com/eoscats/cats-finance",
+      "twitter": "https://twitter.com/eoscats",
+      "telegram": "https://t.me/eoscats"
+    }
+  }

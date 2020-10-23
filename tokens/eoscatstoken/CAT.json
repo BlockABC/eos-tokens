@@ -1,0 +1,19 @@
+{
+    "name": "CAT",
+    "symbol": "CAT",
+    "contract": "eoscatstoken",
+    "issuer": "eoscatstoken",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/eoscatstoken/CAT.png",
+    "desc": {
+      "en": "CAT is a social experiment based on EOS and Defi. It is based on the TVI model and has an unsecured capital pool, so there is no need to worry about  the safety of your funs.  Zero pre-mining, zero private equity, zero team reservation, the ecosystem includes Defi+GAME+NFT+DAO, etc.  We hope to promote the development of EOS ecosystem through CAT.",
+      "zh": "CAT是基于EOS和Defi的社会实验。 它基于TVI模型，无抵押资金池。无需担心资金风险。 零预挖，零私募，零团队预留。生态包括Defi + GAME + NFT + DAO等。我们希望通过CAT促进EOS生态的发展。"
+    },
+    "website": "https://eoscats.io/",
+    "whitepaper": "",
+    "links": {
+      "github": "https://github.com/eoscats/cats-finance",
+      "twitter": "https://twitter.com/eoscats",
+      "telegram": "https://t.me/eoscats"
+    }
+  }
