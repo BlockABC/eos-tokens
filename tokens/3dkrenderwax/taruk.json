@@ -1,0 +1,17 @@
+{
+  "name": "TARUK",
+  "symbol": "TARUK",
+  "contract": "3dkrenderwax",
+  "issuer": "3dkrenderwax",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/3dkrenderwax/taruk.png",
+  "desc": {
+    "en": ""
+  },
+  "website": "https://radaquest.net",
+  "whitepaper": "Currency for financing the Rada Quest TCG game by pre-purchase. It grants benefits from the game.",
+  "links": {
+    "twitter": "https://twitter.com/radaquesttcg",
+		"discord": "https://discord.gg/DJXXpuc"
+  }
+}
