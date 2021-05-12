@@ -1,0 +1,15 @@
+{
+  "name": "NIUB",
+  "symbol": "NIUB",
+  "contract": "niub2themoon",
+  "issuer": "niub2themoon",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/niub2themoon/NIUB.png",
+  "desc": {
+    "en": "NIUB is the fair distribution token on the EOS, with a total amount of 180 trillion, all airdropped.",
+    "zh": "NIUB是EOS链上分发最公平的动物币，总量180万亿，全部空投。"
+  },
+  "website": "http://www.eosccc.com",
+  "whitepaper": "",
+  "links": {}
+}
