@@ -1,0 +1,21 @@
+{
+    "name": "BNG",
+    "symbol": "BNG",
+    "contract": "bitnetworker",
+    "issuer": "bitnetworker",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/bitnetworker/bng.png",
+    "desc": {
+      "en": "Bit Network Global (BNG) Is 100% POW Coin On EOS Blockchain. Its fully decentralized, and opensource project based on NedAmarril Solution for Prove of work coin (POW) on EOS. its the next Bitcoin with 100,000,000 maximum coin that can be mined.",
+      "zh": ""
+    },
+    "website": "https://bngone.github.io",
+    "whitepaper": "",
+    "links": {
+      "twitter": "",
+      "telegram": "https://t.me/bngeos",
+      "medium": "",
+      "bihu": "",
+      "github": "https://github.com/bngone"
+    }
+  }
