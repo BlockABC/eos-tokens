@@ -1,0 +1,17 @@
+{
+  "name": "SpoonHeads Coin",
+  "symbol": "SHC",
+  "contract": "tokentotrust",
+  "precision": 4,
+  "issuer": "tokentotrust",
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/tokentotrust/SHC.png",
+  "desc": "As SpoonHeads, we are a unique and distinct group of individuals who possess a spoon-shaped structure in place of a traditional head. We are basically the ultimate utensil! We may be different, but we are united by our shared values and beliefs. We are SpoonHeads, and we are proud of who we are. And let's be real, who doesn't love a good scoop every now and then?",
+  "website": "https://spoonheads.io",
+  "telegram": "https://t.me/Spoonheads",
+  "twitter": "https://twitter.com/SpoonheadsNFT",
+  "facebook": "https://www.facebook.com/SpoonheadsNFT",
+  "linkedin": "https://www.linkedin.com/company/spoonheads",
+  "medium": "https://spoonheads.medium.com",
+  "whitepaper": "",
+  "links": {}
+}
