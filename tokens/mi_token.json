@@ -1,0 +1,10 @@
+{
+  "symbol": "LCY",
+  "name": "Lucky Token",
+  "logo": "lucky.png",
+  "decimals": 4,
+  "contract": "eosio.token",
+  "description": "Lucky Token (LCY) for special rewards and promotions.",
+  "website": "https://www.luckytoken.com",
+  "contact": "support@luckytoken.com"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "LCY",
+  "symbol": "LCY",
+  "contract": "LCY",
+  "issuer": "lcydemo",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/deportesflor/eos-tokens/master/tokens/LCY/LCY.png",
+  "desc": {
+    "en": "LCY is a new token for demonstration purposes.",
+    "zh": "LCY 是一个用于演示目的的新代币。",
+    "ko": "LCY는 데모 목적을 위한 새로운 토큰입니다."
+  },
+  "website": "https://lcydemo.io",
+  "whitepaper": "https://lcydemo.io/whitepaper",
+  "links": {
+    "github": "https://github.com/lcydemo",
+    "telegram": "https://t.me/lcydemo",
+    "twitter": "https://twitter.com/lcydemo",
+    "steemit": "https://steemit.com/lcydemo",
+    "reddit": "https://www.reddit.com/r/lcydemo/"
+  }
+}
+
